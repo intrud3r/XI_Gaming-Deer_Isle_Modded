@@ -1,0 +1,32 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Current File was deleted.
+[ExportDropZones] Exporting 94 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-04-04 @ 21-25-18] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: East of Scouts Camp @ <9335.000000, 1000.000000, 5317.000000>
+[EOnCallAirdrop] DropPoint Assigned: <9336.763672, 31.643066, 5314.975098> (±10m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (SE2) border @ <0.000000, 1000.000000, 6817.708008>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: 2.9822° / 279.133°, Text: 'West (279°)'
+[EOnCallAirdrop] Aircraft Dispatched to East of Scouts Camp (0/6817.71), from the West (279°).
+[EOnCallAirdrop] Next Scehduled Drop: 25 minutes (25/±0) .
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-04-04 @ 21-50-39] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Southwest of Oceanville @ <9821.000000, 1000.000000, 4687.000000>
+[EOnCallAirdrop] DropPoint Assigned: <9822.708984, 37.713863, 4686.684570> (±10m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (SE2) border @ <0.000000, 1000.000000, 14033.428711>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: 2.38095° / 313.582°, Text: 'North/West (314°)'
+[EOnCallAirdrop] Aircraft Dispatched to Southwest of Oceanville (0/14033.4), from the North/West (314°).
+[EOnCallAirdrop] Next Scehduled Drop: 25 minutes (25/±0) .

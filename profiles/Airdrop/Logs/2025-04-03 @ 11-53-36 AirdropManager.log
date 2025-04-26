@@ -1,0 +1,19 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Current File was deleted.
+[ExportDropZones] Exporting 94 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-04-03 @ 12-20-15] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Deepwater, Crab Island 3 @ <1121.000000, 1000.000000, 13367.000000>
+[EOnCallAirdrop] DropPoint Assigned: <1121.293823, 7.000000, 13366.947266> (±10m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NW2) border @ <16384.000000, 1000.000000, 10832.330078>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: -0.164564° / 99.4288°, Text: 'East (099°)'
+[EOnCallAirdrop] Aircraft Dispatched to Deepwater, Crab Island 3 (16384/10832.3), from the East (099°).
+[EOnCallAirdrop] Next Scehduled Drop: 25 minutes (25/±0) .
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!

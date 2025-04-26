@@ -1,0 +1,102 @@
+{
+    "Version": "2.5",
+    "UseGarageOnlyToTrade": 0,
+    "VehicleMustHaveLock": 1,
+    "SaveVehicleLock": 1,
+    "SaveVehicleCargo": 1,
+    "SaveVehicleHealth": 1,
+    "SaveVehicleFuel": 1,
+    "SavedVehicleInGarageForTradeInHour": 1,
+    "MaxVehicleStored": 10,
+    "ParkInCost": 0,
+    "ParkOutCost": 0,
+    "PayWithBankAccount": 1,
+    "WhitelistedObjects": [
+	 "SK_LandingPad"
+	 ],
+    "NPCs": [
+        {
+            "ClassName": "BVM_VendingMachine_garage",
+            "Position": [
+                7557.09,
+                87.6825,
+                4603.76
+            ],
+            "Orientation": [
+                134.55,
+                0.0,
+                0.0
+            ],
+            "ParkingPosition": [
+                7564.78,
+                87.6825,
+                4602.99
+            ],
+            "ParkingOrientation": [
+               148.554,
+                   0,
+                   0
+            ],
+            "Clothes": []
+        },
+		{
+            "ClassName": "BVM_VendingMachine_garage",
+            "Position": [
+                6059.359375,
+                6.316122055053711,
+                13369.32421875
+            ],
+            "Orientation": [
+               -85.80690002441406,
+                0.0,
+                -0.0
+            ],
+            "ParkingPosition": [
+                6051.8505859375,
+                6.3097381591796879,
+                13369.3203125
+            ],
+            "ParkingOrientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Clothes": []
+        },
+        {
+            "ClassName": "BVM_VendingMachine_garage",
+            "Position": [
+                3310.96484375,
+                27.363826751708986,
+                6851.1787109375
+            ],
+            "Orientation": [
+                -143.19346618652345,
+                0.0,
+                -0.0
+            ],
+            "ParkingPosition": [
+                3284.7666015625,
+                31.24445915222168,
+                6859.12158203125
+            ],
+            "ParkingOrientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Clothes": []
+        }
+    ],
+    "ParkingNotAvailable": "The park area is not available!",
+    "NotEnoughMoney": "You don't have enough money",
+    "NotRightToPark": "You don't have the right to park in this vehicle!",
+    "CarHasMember": "The car still have member inside!",
+    "ParkInFail": "The car was not able to be park in correctly",
+    "ParkInSuccess": "The car was successfully parked",
+    "ParkOutFail": "The car was not able to spawn!",
+    "ParkOutSuccess": "The car was able to spawn!",
+    "MaxVehicleStoredReached": "Max number of vehicle reached!",
+    "TradeVehicleWarning": "The vehicle has been stored for %1 hour, passed this point it will be lost so trade it or get it fast",
+    "TradeVehicleHasBeenDeleted": "The vehicle stored for trade reached his inactivity and has been deleted!"
+}

@@ -1,0 +1,1944 @@
+{
+  "Version": "2.5",
+  "VehiclesParts": [
+  {
+      "VehicleName": "jmc_atv_Blue",
+      "Height": 0,
+      "VehicleParts": [        
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",        
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel"
+      ]
+    },
+	{
+      "VehicleName": "jmc_atv_Grey",
+      "Height": 0,
+      "VehicleParts": [        
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",        
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel"
+      ]
+    },
+	{
+      "VehicleName": "jmc_atv_Green",
+      "Height": 0,
+      "VehicleParts": [        
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",        
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel"
+      ]
+    },
+	{
+      "VehicleName": "jmc_atv_Pink",
+      "Height": 0,
+      "VehicleParts": [        
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",        
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel"
+      ]
+    },
+	{
+      "VehicleName": "jmc_atv_Aqua",
+      "Height": 0,
+      "VehicleParts": [        
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",        
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel"
+      ]
+    },
+	{
+      "VehicleName": "jmc_atv_Red",
+      "Height": 0,
+      "VehicleParts": [        
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",        
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel"
+      ]
+    },
+{
+      "VehicleName": "jmc_atv_g_Black",
+      "Height": 0,
+      "VehicleParts": [        
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",        
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel"
+      ]
+    },	
+    {
+      "VehicleName": "jmc_atv_STAG_White",
+      "Height": 0,
+      "VehicleParts": [        
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",        
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel"
+      ]
+    },	
+    {
+      "VehicleName": "jmc_atv_STAG_Red",
+      "Height": 0,
+      "VehicleParts": [        
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",        
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel",
+        "jmc_atv_Wheel"
+      ]
+    },		
+    {
+      "VehicleName": "OffroadHatchback",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HatchbackDoors_CoDriver",
+        "HatchbackDoors_Driver",
+        "HatchbackHood",
+        "HatchbackTrunk",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel"
+      ]
+    },
+    {
+      "VehicleName": "OffroadHatchback_Blue",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HatchbackDoors_CoDriver_Blue",
+        "HatchbackDoors_Driver_Blue",
+        "HatchbackHood_Blue",
+        "HatchbackTrunk_Blue",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel"
+      ]
+    },
+    {
+      "VehicleName": "Offroad_02",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "GlowPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Offroad_02_Door_1_1",
+        "Offroad_02_Door_1_2",
+        "Offroad_02_Door_2_1",
+        "Offroad_02_Door_2_2",
+        "Offroad_02_Hood",
+        "Offroad_02_Trunk",
+        "Offroad_02_Wheel",
+        "Offroad_02_Wheel",
+        "Offroad_02_Wheel",
+        "Offroad_02_Wheel",
+        "Offroad_02_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "OffroadHatchback_White",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HatchbackDoors_CoDriver_White",
+        "HatchbackDoors_Driver_White",
+        "HatchbackHood_White",
+        "HatchbackTrunk_White",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel"
+      ]
+    },
+    {
+      "VehicleName": "Hatchback_02",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Hatchback_02_Door_1_1",
+        "Hatchback_02_Door_1_2",
+        "Hatchback_02_Door_2_1",
+        "Hatchback_02_Door_2_2",
+        "Hatchback_02_Hood",
+        "Hatchback_02_Trunk",
+        "Hatchback_02_Wheel",
+        "Hatchback_02_Wheel",
+        "Hatchback_02_Wheel",
+        "Hatchback_02_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "Hatchback_02_Black",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Hatchback_02_Door_1_1_Black",
+        "Hatchback_02_Door_1_2_Black",
+        "Hatchback_02_Door_2_1_Black",
+        "Hatchback_02_Door_2_2_Black",
+        "Hatchback_02_Hood_Black",
+        "Hatchback_02_Trunk_Black",
+        "Hatchback_02_Wheel",
+        "Hatchback_02_Wheel",
+        "Hatchback_02_Wheel",
+        "Hatchback_02_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "Hatchback_02_Blue",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Hatchback_02_Door_1_1_Blue",
+        "Hatchback_02_Door_1_2_Blue",
+        "Hatchback_02_Door_2_1_Blue",
+        "Hatchback_02_Door_2_2_Blue",
+        "Hatchback_02_Hood_Blue",
+        "Hatchback_02_Trunk_Blue",
+        "Hatchback_02_Wheel",
+        "Hatchback_02_Wheel",
+        "Hatchback_02_Wheel",
+        "Hatchback_02_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "CivilianSedan",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "CivSedanDoors_Driver",
+        "CivSedanDoors_CoDriver",
+        "CivSedanDoors_BackLeft",
+        "CivSedanDoors_BackRight",
+        "CivSedanHood",
+        "CivSedanTrunk",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel"
+      ]
+    },
+    {
+      "VehicleName": "CivilianSedan_Wine",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "CivSedanDoors_Driver_Wine",
+        "CivSedanDoors_CoDriver_Wine",
+        "CivSedanDoors_BackLeft_Wine",
+        "CivSedanDoors_BackRight_Wine",
+        "CivSedanHood_Wine",
+        "CivSedanTrunk_Wine",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel"
+      ]
+    },
+    {
+      "VehicleName": "CivilianSedan_Black",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "CivSedanDoors_Driver_Black",
+        "CivSedanDoors_CoDriver_Black",
+        "CivSedanDoors_BackLeft_Black",
+        "CivSedanDoors_BackRight_Black",
+        "CivSedanHood_Black",
+        "CivSedanTrunk_Black",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel",
+        "CivSedanWheel"
+      ]
+    },
+    {
+      "VehicleName": "Sedan_02",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Sedan_02_Door_1_1",
+        "Sedan_02_Door_1_2",
+        "Sedan_02_Door_2_1",
+        "Sedan_02_Door_2_2",
+        "Sedan_02_Hood",
+        "Sedan_02_Trunk",
+        "Sedan_02_Wheel",
+        "Sedan_02_Wheel",
+        "Sedan_02_Wheel",
+        "Sedan_02_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "Sedan_02_Red",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Sedan_02_Door_1_1_Red",
+        "Sedan_02_Door_1_2_Red",
+        "Sedan_02_Door_2_1_Red",
+        "Sedan_02_Door_2_2_Red",
+        "Sedan_02_Hood_Red",
+        "Sedan_02_Trunk_Red",
+        "Sedan_02_Wheel",
+        "Sedan_02_Wheel",
+        "Sedan_02_Wheel",
+        "Sedan_02_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "Sedan_02_Grey",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Sedan_02_Door_1_1_Grey",
+        "Sedan_02_Door_1_2_Grey",
+        "Sedan_02_Door_2_1_Grey",
+        "Sedan_02_Door_2_2_Grey",
+        "Sedan_02_Hood_Grey",
+        "Sedan_02_Trunk_Grey",
+        "Sedan_02_Wheel",
+        "Sedan_02_Wheel",
+        "Sedan_02_Wheel",
+        "Sedan_02_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "Truck_01_Covered",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "TruckBattery",
+        "Truck_01_Door_1_1",
+        "Truck_01_Door_2_1",
+        "Truck_01_Hood",
+        "Truck_01_Wheel",
+        "Truck_01_WheelDouble",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarRadiator",
+        "Truck_01_Wheel",
+        "Truck_01_WheelDouble",
+        "Truck_01_WheelDouble",
+        "Truck_01_WheelDouble"
+      ]
+    },
+    {
+      "VehicleName": "Truck_01_Covered_Blue",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "TruckBattery",
+        "Truck_01_Wheel",
+        "Truck_01_WheelDouble",
+        "Truck_01_Hood_Blue",
+        "Truck_01_Door_2_1_Blue",
+        "Truck_01_Door_1_1_Blue",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarRadiator",
+        "Truck_01_Wheel",
+        "Truck_01_WheelDouble",
+        "Truck_01_WheelDouble",
+        "Truck_01_WheelDouble"
+      ]
+    },
+    {
+      "VehicleName": "Truck_01_Covered_Orange",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "TruckBattery",
+        "Truck_01_Wheel",
+        "Truck_01_WheelDouble",
+        "Truck_01_Hood_Orange",
+        "Truck_01_Door_2_1_Orange",
+        "Truck_01_Door_1_1_Orange",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarRadiator",
+        "Truck_01_Wheel",
+        "Truck_01_WheelDouble",
+        "Truck_01_WheelDouble",
+        "Truck_01_WheelDouble"
+      ]
+    },
+    {
+      "VehicleName": "Helipolice_SIB4_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "SIBPolice_Door_1_1",
+        "SIBPolice_Door_1_2",
+        "SIBPolice_Door_2_1",
+        "SIBPolice_Door_2_2",
+        "SIBPolice_blade1",
+        "SIBPolice_blade2",
+        "SIBPolice_blade3",
+        "SIBPolice_blade4",
+        "SIBPolice_bladem1",
+        "SIBPolice_bladem2",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "Helipolice_swat_SIB5_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "SIBPolice_Door_1_1_swat",
+        "SIBPolice_Door_1_2_swat",
+        "SIBPolice_Door_2_1_swat",
+        "SIBPolice_Door_2_2_swat",
+        "SIBPolice_blade1",
+        "SIBPolice_blade2",
+        "SIBPolice_blade3",
+        "SIBPolice_blade4",
+        "SIBPolice_bladem1",
+        "SIBPolice_bladem2",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "HeliSIB_UH1D_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "SIBUH1D_Door_1_1",
+        "SIBUH1D_Door_1_2",
+        "SIBUH1D_Door_2_1",
+        "SIBUH1D_Door_2_2",
+        "SIBUH1D_blade1",
+        "SIBUH1D_blade2",
+        "SIBUH1D_bladem1",
+        "SIBUH1D_bladem2",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "HeliSIB_UH1D_airforce_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "SIBUH1D_Door_1_1_airforce",
+        "SIBUH1D_Door_1_2_airforce",
+        "SIBUH1D_Door_2_1_airforce",
+        "SIBUH1D_Door_2_2_airforce",
+        "SIBUH1D_blade1",
+        "SIBUH1D_blade2",
+        "SIBUH1D_bladem1",
+        "SIBUH1D_bladem2",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "HeliSIB_UH1D_iron_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "SIBUH1D_Door_1_1_iron",
+        "SIBUH1D_Door_1_2_iron",
+        "SIBUH1D_Door_2_1_iron",
+        "SIBUH1D_Door_2_2_iron",
+        "SIBUH1D_blade1",
+        "SIBUH1D_blade2",
+        "SIBUH1D_bladem1",
+        "SIBUH1D_bladem2",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "HeliSIB_UH1D_navy_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "SIBUH1D_Door_1_1_navy",
+        "SIBUH1D_Door_1_2_navy",
+        "SIBUH1D_Door_2_1_navy",
+        "SIBUH1D_Door_2_2_navy",
+        "SIBUH1D_blade1",
+        "SIBUH1D_blade2",
+        "SIBUH1D_bladem1",
+        "SIBUH1D_bladem2",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "Heliblack_hawk_SIB_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "SIBblack_hawk_Door_1_1",
+        "SIBblack_hawk_Door_1_2",
+        "SIBblack_hawk_Door_2_1",
+        "SIBblack_hawk_Door_2_2",
+        "SIBblack_hawk_blade1",
+        "SIBblack_hawk_blade2",
+        "SIBblack_hawk_blade3",
+        "SIBblack_hawk_blade4",
+        "SIBblack_hawk_bladem1",
+        "SIBblack_hawk_bladem2",
+        "SIBblack_hawk_bladem3",
+        "SIBblack_hawk_bladem4",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "Heliblack_hawk_SIB_camo_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "SIBblack_hawk_Door_1_1_camo",
+        "SIBblack_hawk_Door_1_2_camo",
+        "SIBblack_hawk_Door_2_1_camo",
+        "SIBblack_hawk_Door_2_2_camo",
+        "SIBblack_hawk_blade1",
+        "SIBblack_hawk_blade2",
+        "SIBblack_hawk_blade3",
+        "SIBblack_hawk_blade4",
+        "SIBblack_hawk_bladem1",
+        "SIBblack_hawk_bladem2",
+        "SIBblack_hawk_bladem3",
+        "SIBblack_hawk_bladem4",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "HeliMI17_SIB_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "MI17_blade1",
+        "MI17_blade2",
+        "MI17_blade3",
+        "MI17_blade4",
+        "MI17_blade5",
+        "MI17_bladem1",
+        "MI17_bladem2",
+        "MI17_bladem3",
+        "MI17_Door_1_1",
+        "MI17_doors_cargo1",
+        "MI17_doors_cargo2",
+        "MI17_lesnica",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "HeliMH6_SIB_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "SIBMH6_blade1",
+        "SIBMH6_blade2",
+        "SIBMH6_blade3",
+        "SIBMH6_blade4",
+        "SIBMH6_blade5",
+        "SIBMH6_bladem1",
+        "SIBMH6_bladem2",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "HeliSIB_hommade_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "SIBMH6_blade1",
+        "SIBMH6_blade2",
+        "SIBMH6_blade3",
+        "SIBMH6_blade4",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "Heliec135_SIB_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "SIBec135_Door_1_1",
+        "SIBec135_Door_1_2",
+        "SIBec135_Door_2_1",
+        "SIBec135_Door_2_2",
+        "SIBec135_blade1",
+        "SIBec135_blade2",
+        "SIBec135_blade3",
+        "SIBec135_blade4",
+        "SIBec135_impeller1",
+        "SIBec135_impeller2",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "Heliec135_SIB_hell_clear",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "SIBec135_Door_1_1_hell",
+        "SIBec135_Door_1_2_hell",
+        "SIBec135_Door_2_1_hell",
+        "SIBec135_Door_2_2_hell",
+        "SIBec135_blade1",
+        "SIBec135_blade2",
+        "SIBec135_blade3",
+        "SIBec135_blade4",
+        "SIBec135_impeller1",
+        "SIBec135_impeller2",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_doors_driver",
+        "FordRaptor_Scorpio_doors_codriver",
+        "FordRaptor_Scorpio_doors_cargo1",
+        "FordRaptor_Scorpio_doors_cargo2",
+        "FordRaptor_Scorpio_doors_trunk",
+        "FordRaptor_Scorpio_doors_hood",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_UA",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_UA_driver",
+        "FordRaptor_Scorpio_UA_codriver",
+        "FordRaptor_Scorpio_UA_cargo1",
+        "FordRaptor_Scorpio_UA_hood",
+        "FordRaptor_Scorpio_UA_cargo2",
+        "FordRaptor_Scorpio_UA_trunk",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_UA_AKPP",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_UA_driver",
+        "FordRaptor_Scorpio_UA_codriver",
+        "FordRaptor_Scorpio_UA_cargo1",
+        "FordRaptor_Scorpio_UA_hood",
+        "FordRaptor_Scorpio_UA_cargo2",
+        "FordRaptor_Scorpio_UA_trunk",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_UA_rust",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_UA_rust_driver",
+        "FordRaptor_Scorpio_UA_rust_codriver",
+        "FordRaptor_Scorpio_UA_rust_cargo1",
+        "FordRaptor_Scorpio_UA_rust_cargo2",
+        "FordRaptor_Scorpio_UA_rust_trunk",
+        "FordRaptor_Scorpio_UA_rust_hood",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_UA2",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_UA2_driver",
+        "FordRaptor_Scorpio_UA2_codriver",
+        "FordRaptor_Scorpio_UA2_cargo1",
+        "FordRaptor_Scorpio_UA2_cargo2",
+        "FordRaptor_Scorpio_UA2_trunk",
+        "FordRaptor_Scorpio_UA2_hood",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_UA2_rust",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_UA2_rust_driver",
+        "FordRaptor_Scorpio_UA2_rust_codriver",
+        "FordRaptor_Scorpio_UA2_rust_cargo1",
+        "FordRaptor_Scorpio_UA2_rust_cargo2",
+        "FordRaptor_Scorpio_UA2_rust_trunk",
+        "FordRaptor_Scorpio_UA2_rust_hood",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_Green",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_Green_driver",
+        "FordRaptor_Scorpio_Green_codriver",
+        "FordRaptor_Scorpio_Green_cargo1",
+        "FordRaptor_Scorpio_Green_cargo2",
+        "FordRaptor_Scorpio_Green_trunk",
+        "FordRaptor_Scorpio_Green_hood",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_Green_AKPP",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_Green_driver",
+        "FordRaptor_Scorpio_Green_codriver",
+        "FordRaptor_Scorpio_Green_cargo1",
+        "FordRaptor_Scorpio_Green_cargo2",
+        "FordRaptor_Scorpio_Green_trunk",
+        "FordRaptor_Scorpio_Green_hood",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_Black",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_Black_driver",
+        "FordRaptor_Scorpio_Black_codriver",
+        "FordRaptor_Scorpio_Black_cargo1",
+        "FordRaptor_Scorpio_Black_cargo2",
+        "FordRaptor_Scorpio_Black_trunk",
+        "FordRaptor_Scorpio_Black_hood",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_Black_AKPP",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_Black_driver",
+        "FordRaptor_Scorpio_Black_codriver",
+        "FordRaptor_Scorpio_Black_cargo1",
+        "FordRaptor_Scorpio_Black_cargo2",
+        "FordRaptor_Scorpio_Black_trunk",
+        "FordRaptor_Scorpio_Black_hood",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_White",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_White_driver",
+        "FordRaptor_Scorpio_White_codriver",
+        "FordRaptor_Scorpio_White_cargo1",
+        "FordRaptor_Scorpio_White_cargo2",
+        "FordRaptor_Scorpio_White_trunk",
+        "FordRaptor_Scorpio_White_hood",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_White_AKPP",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_White_driver",
+        "FordRaptor_Scorpio_White_codriver",
+        "FordRaptor_Scorpio_White_cargo1",
+        "FordRaptor_Scorpio_White_cargo2",
+        "FordRaptor_Scorpio_White_trunk",
+        "FordRaptor_Scorpio_White_hood",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_Carbon",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_Carbon_driver",
+        "FordRaptor_Scorpio_Carbon_codriver",
+        "FordRaptor_Scorpio_Carbon_cargo1",
+        "FordRaptor_Scorpio_Carbon_cargo2",
+        "FordRaptor_Scorpio_Carbon_trunk",
+        "FordRaptor_Scorpio_Carbon_hood",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "FordRaptor_Scorpio_OldBody",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FordRaptor_Scorpio_OldBody_driver",
+        "FordRaptor_Scorpio_OldBody_codriver",
+        "FordRaptor_Scorpio_OldBody_cargo1",
+        "FordRaptor_Scorpio_OldBody_cargo2",
+        "FordRaptor_Scorpio_OldBody_trunk",
+        "FordRaptor_Scorpio_OldBody_hood",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel",
+        "FordRaptor_Scorpio_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "NW_FordRaptor_Police",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "NW_FordRaptor_Police_driver",
+        "NW_FordRaptor_Police_codriver",
+        "NW_FordRaptor_Police_cargo1",
+        "NW_FordRaptor_Police_cargo2",
+        "NW_FordRaptor_Police_trunk",
+        "NW_FordRaptor_Police_hood",
+        "FordRaptor_Scorpio_Wheel_Black",
+        "FordRaptor_Scorpio_Wheel_Black",
+        "FordRaptor_Scorpio_Wheel_Black",
+        "FordRaptor_Scorpio_Wheel_Black"
+      ]
+    },
+    {
+      "VehicleName": "NW_FordRaptor_Zombi",
+      "Height": 0,
+      "VehicleParts": [
+        "GlowPlug",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "NW_FordRaptor_Zombi_driver",
+        "NW_FordRaptor_Zombi_codriver",
+        "NW_FordRaptor_Zombi_cargo1",
+        "NW_FordRaptor_Zombi_cargo2",
+        "NW_FordRaptor_Zombi_trunk",
+        "NW_FordRaptor_Zombi_hood",
+        "FordRaptor_Scorpio_Wheel_Black",
+        "FordRaptor_Scorpio_Wheel_Black",
+        "FordRaptor_Scorpio_Wheel_Black",
+        "FordRaptor_Scorpio_Wheel_Black"
+      ]
+    },
+    {
+      "VehicleName": "Croco_QuadBike_Grey",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Croco_QuadBike_Wheel",
+        "Croco_QuadBike_Wheel",
+        "Croco_QuadBike_Wheel_Rear",
+        "Croco_QuadBike_Wheel_Rear"
+      ]
+    },
+    {
+      "VehicleName": "Croco_QuadBike_Yellow",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Croco_QuadBike_Wheel",
+        "Croco_QuadBike_Wheel",
+        "Croco_QuadBike_Wheel_Rear",
+        "Croco_QuadBike_Wheel_Rear"
+      ]
+    },
+    {
+      "VehicleName": "Croco_QuadBike_Green",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Croco_QuadBike_Wheel",
+        "Croco_QuadBike_Wheel",
+        "Croco_QuadBike_Wheel_Rear",
+        "Croco_QuadBike_Wheel_Rear"
+      ]
+    },
+    {
+      "VehicleName": "Croco_QuadBike_Red",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Croco_QuadBike_Wheel",
+        "Croco_QuadBike_Wheel",
+        "Croco_QuadBike_Wheel_Rear",
+        "Croco_QuadBike_Wheel_Rear"
+      ]
+    },
+    {
+      "VehicleName": "Croco_QuadBike_Black",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Croco_QuadBike_Wheel",
+        "Croco_QuadBike_Wheel",
+        "Croco_QuadBike_Wheel_Rear",
+        "Croco_QuadBike_Wheel_Rear"
+      ]
+    },
+    {
+      "VehicleName": "Candy_MustFrank",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Doors_Driver",
+        "Candy_MustFrank_Doors_CoDriver",
+        "Candy_MustFrank_Doors_Trunk",
+        "Candy_MustFrank_Doors_Trunk0",
+        "Candy_MustFrank_Doors_Hood"
+      ]
+    },
+    {
+      "VehicleName": "Candy_MustFrank_White",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Doors_Driver_White",
+        "Candy_MustFrank_Doors_CoDriver_White",
+        "Candy_MustFrank_Doors_Trunk_White",
+        "Candy_MustFrank_Doors_Trunk0_White",
+        "Candy_MustFrank_Doors_Hood_White"
+      ]
+    },
+    {
+      "VehicleName": "Candy_MustFrank_NoGun",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Doors_Driver",
+        "Candy_MustFrank_Doors_CoDriver",
+        "Candy_MustFrank_Doors_Trunk",
+        "Candy_MustFrank_Doors_Trunk0",
+        "Candy_MustFrank_Doors_Hood"
+      ]
+    },
+    {
+      "VehicleName": "Candy_MustFrank_NoGun_White",
+      "Height": 0,
+      "VehicleParts": [
+        "TraderPlusWrench",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Wheel",
+        "Candy_MustFrank_Doors_Driver_White",
+        "Candy_MustFrank_Doors_CoDriver_White",
+        "Candy_MustFrank_Doors_Trunk_White",
+        "Candy_MustFrank_Doors_Trunk0_White",
+        "Candy_MustFrank_Doors_Hood_White"
+      ]
+    },
+    {
+      "VehicleName": "RFWC_Whaler",
+      "Height": 0,
+      "VehicleParts": [
+        "TruckBattery",
+        "SparkPlug"
+      ]
+    },
+    {
+      "VehicleName": "RFWC_CarpBoat",
+      "Height": 0,
+      "VehicleParts": [
+        "TruckBattery",
+        "SparkPlug"
+      ]
+    },
+    {
+      "VehicleName": "RFWC_CarpBoat_Rusty",
+      "Height": 0,
+      "VehicleParts": [
+        "TruckBattery",
+        "SparkPlug"
+      ]
+    },
+    {
+      "VehicleName": "RFWC_Zodiac_Orange",
+      "Height": 0,
+      "VehicleParts": [
+        "TruckBattery",
+        "SparkPlug"
+      ]
+    },
+    {
+      "VehicleName": "RFWC_Zodiac_Black",
+      "Height": 0,
+      "VehicleParts": [
+        "TruckBattery",
+        "SparkPlug"
+      ]
+    },
+    {
+      "VehicleName": "RFWC_DragBoat_Black",
+      "Height": 0,
+      "VehicleParts": [
+        "TruckBattery",
+        "SparkPlug"
+      ]
+    },
+    {
+      "VehicleName": "RFWC_DragBoat_Red",
+      "Height": 0,
+      "VehicleParts": [
+        "TruckBattery",
+        "SparkPlug"
+      ]
+    },
+    {
+      "VehicleName": "RFWC_Seadoo_Camo",
+      "Height": 0,
+      "VehicleParts": [
+        "TruckBattery",
+        "SparkPlug"
+      ]
+    },
+    {
+      "VehicleName": "RFWC_Seadoo_Orange",
+      "Height": 0,
+      "VehicleParts": [
+        "TruckBattery",
+        "SparkPlug"
+      ]
+    },
+    {
+      "VehicleName": "RFWC_Seadoo_Green",
+      "Height": 0,
+      "VehicleParts": [
+        "TruckBattery",
+        "SparkPlug"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Bo105m",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Bo105m_DriverDoor",
+        "RFFSHeli_Bo105m_CoDriverDoor",
+        "RFFSHeli_Bo105m_Cargo1",
+        "RFFSHeli_Bo105m_Cargo2",
+        "RFFSHeli_Bo105m_Cargo3",
+        "RFFSHeli_Bo105m_Cargo4",
+        "RFFSHeli_Bo105m_Fuselage",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Bo105m_blackcamo",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Bo105m_DriverDoor_blackcamo",
+        "RFFSHeli_Bo105m_CoDriverDoor_blackcamo",
+        "RFFSHeli_Bo105m_Cargo1_blackcamo",
+        "RFFSHeli_Bo105m_Cargo2_blackcamo",
+        "RFFSHeli_Bo105m_Cargo3_blackcamo",
+        "RFFSHeli_Bo105m_Cargo4_blackcamo",
+        "RFFSHeli_Bo105m_Fuselage_blackcamo",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_LittleBird",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_LittleBird_Camo",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_LittleBird_Desert",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_KA26",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_KA26_DriverDoor",
+        "RFFSHeli_KA26_CoDriverDoor",
+        "RFFSHeli_KA26_Cargo1",
+        "RFFSHeli_KA26_Cargo2",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Bell429",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Bell429_DriverDoor",
+        "RFFSHeli_Bell429_CoDriverDoor",
+        "RFFSHeli_Bell429_Cargo1",
+        "RFFSHeli_Bell429_Cargo2",
+        "RFFSHeli_Bell429_Cargo3",
+        "RFFSHeli_Bell429_Cargo4",
+        "RFFSHeli_Bell429_interior",
+        "RFFSHeli_Bell429_skids",
+        "RFFSHeli_Bell429_rearseats",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Bell429_Police",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Bell429_DriverDoor_Police",
+        "RFFSHeli_Bell429_CoDriverDoor_Police",
+        "RFFSHeli_Bell429_Cargo1_Police",
+        "RFFSHeli_Bell429_Cargo2_Police",
+        "RFFSHeli_Bell429_Cargo3_Police",
+        "RFFSHeli_Bell429_Cargo4_Police",
+        "RFFSHeli_Bell429_interior_Police",
+        "RFFSHeli_Bell429_skids_Police",
+        "RFFSHeli_Bell429_rearseats_Police",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Bell429_Medic",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Bell429_DriverDoor_Medic",
+        "RFFSHeli_Bell429_CoDriverDoor_Medic",
+        "RFFSHeli_Bell429_Cargo1_Medic",
+        "RFFSHeli_Bell429_Cargo2_Medic",
+        "RFFSHeli_Bell429_Cargo3_Medic",
+        "RFFSHeli_Bell429_Cargo4_Medic",
+        "RFFSHeli_Bell429_interior_Medic",
+        "RFFSHeli_Bell429_skids_Medic",
+        "RFFSHeli_Bell429_rearseats_Medic",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Bell429_ZS",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Bell429_DriverDoor_ZS",
+        "RFFSHeli_Bell429_CoDriverDoor_ZS",
+        "RFFSHeli_Bell429_Cargo1_ZS",
+        "RFFSHeli_Bell429_Cargo2_ZS",
+        "RFFSHeli_Bell429_Cargo3_ZS",
+        "RFFSHeli_Bell429_Cargo4_ZS",
+        "RFFSHeli_Bell429_interior_ZS",
+        "RFFSHeli_Bell429_skids_ZS",
+        "RFFSHeli_Bell429_rearseats_ZS",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Bell429_Uganda",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Bell429_DriverDoor_Uganda",
+        "RFFSHeli_Bell429_CoDriverDoor_Uganda",
+        "RFFSHeli_Bell429_Cargo1_Uganda",
+        "RFFSHeli_Bell429_Cargo2_Uganda",
+        "RFFSHeli_Bell429_Cargo3_Uganda",
+        "RFFSHeli_Bell429_Cargo4_Uganda",
+        "RFFSHeli_Bell429_interior_Uganda",
+        "RFFSHeli_Bell429_skids_Uganda",
+        "RFFSHeli_Bell429_rearseats_Uganda",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Mi2",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Mi2_DriverDoor",
+        "RFFSHeli_Mi2_CoDriverDoor",
+        "RFFSHeli_Mi2_Cargo1",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Mi2_Military",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Mi2_DriverDoor_Military",
+        "RFFSHeli_Mi2_CoDriverDoor_Military",
+        "RFFSHeli_Mi2_Cargo1_Military",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Mi2_Hornet",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Mi2_DriverDoor_Hornet",
+        "RFFSHeli_Mi2_CoDriverDoor_Hornet",
+        "RFFSHeli_Mi2_Cargo1_Hornet",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Apache",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Apache_DriverDoor",
+        "RFFSHeli_Apache_CoDriverDoor",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Apache_Winter",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Apache_DriverDoor_Winter",
+        "RFFSHeli_Apache_CoDriverDoor_Winter",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Apache_Desert",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Apache_DriverDoor_Desert",
+        "RFFSHeli_Apache_CoDriverDoor_Desert",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_R22",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_R22_DriverDoor",
+        "RFFSHeli_R22_CoDriverDoor",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_R22_Red",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_R22_DriverDoor_Red",
+        "RFFSHeli_R22_CoDriverDoor_Red",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_R22_Black",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_R22_DriverDoor_Black",
+        "RFFSHeli_R22_CoDriverDoor_Black",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Blackhawk",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Blackhawk_DriverDoor",
+        "RFFSHeli_Blackhawk_CoDriverDoor",
+        "RFFSHeli_Blackhawk_Cargo1",
+        "RFFSHeli_Blackhawk_Cargo1a",
+        "RFFSHeli_Blackhawk_Cargo2",
+        "RFFSHeli_Blackhawk_Cargo2a",
+        "RFFSHeli_Blackhawk_Cargo3",
+        "RFFSHeli_Blackhawk_Cargo4",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Blackhawk_Cargo",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Blackhawk_DriverDoor",
+        "RFFSHeli_Blackhawk_CoDriverDoor",
+        "RFFSHeli_Blackhawk_Cargo1",
+        "RFFSHeli_Blackhawk_Cargo1a",
+        "RFFSHeli_Blackhawk_Cargo2",
+        "RFFSHeli_Blackhawk_Cargo2a",
+        "RFFSHeli_Blackhawk_Cargo3",
+        "RFFSHeli_Blackhawk_Cargo4",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Blackhawk_Woodland",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Blackhawk_DriverDoor_Woodland",
+        "RFFSHeli_Blackhawk_CoDriverDoor_Woodland",
+        "RFFSHeli_Blackhawk_Cargo1_Woodland",
+        "RFFSHeli_Blackhawk_Cargo1a_Woodland",
+        "RFFSHeli_Blackhawk_Cargo2_Woodland",
+        "RFFSHeli_Blackhawk_Cargo2a_Woodland",
+        "RFFSHeli_Blackhawk_Cargo3_Woodland",
+        "RFFSHeli_Blackhawk_Cargo4_Woodland",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Blackhawk_blackblackhawk",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Blackhawk_DriverDoor_blackblackhawk",
+        "RFFSHeli_Blackhawk_CoDriverDoor_blackblackhawk",
+        "RFFSHeli_Blackhawk_Cargo1_blackblackhawk",
+        "RFFSHeli_Blackhawk_Cargo1a_blackblackhawk",
+        "RFFSHeli_Blackhawk_Cargo2_blackblackhawk",
+        "RFFSHeli_Blackhawk_Cargo2a_blackblackhawk",
+        "RFFSHeli_Blackhawk_Cargo3_blackblackhawk",
+        "RFFSHeli_Blackhawk_Cargo4_blackblackhawk",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_Blackhawk_Budhawk",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_Blackhawk_DriverDoor_Budhawk",
+        "RFFSHeli_Blackhawk_CoDriverDoor_Budhawk",
+        "RFFSHeli_Blackhawk_Cargo1_Budhawk",
+        "RFFSHeli_Blackhawk_Cargo1a_Budhawk",
+        "RFFSHeli_Blackhawk_Cargo2_Budhawk",
+        "RFFSHeli_Blackhawk_Cargo2a_Budhawk",
+        "RFFSHeli_Blackhawk_Cargo3_Budhawk",
+        "RFFSHeli_Blackhawk_Cargo4_Budhawk",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_CH53e",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_CH53e_Cargo1",
+        "RFFSHeli_CH53e_Cargo2",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_CH47",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_CH47_Cargo1",
+        "RFFSHeli_CH47_Cargo2",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_EC135",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_EC135_DriverDoor",
+        "RFFSHeli_EC135_CoDriverDoor",
+        "RFFSHeli_EC135_Cargo1",
+        "RFFSHeli_EC135_Cargo2",
+        "RFFSHeli_EC135_Cargo3",
+        "RFFSHeli_EC135_Cargo4",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_EC135",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_EC135_DriverDoor_BlackCamo",
+        "RFFSHeli_EC135_CoDriverDoor_BlackCamo",
+        "RFFSHeli_EC135_Cargo1_BlackCamo",
+        "RFFSHeli_EC135_Cargo2_BlackCamo",
+        "RFFSHeli_EC135_Cargo3_BlackCamo",
+        "RFFSHeli_EC135_Cargo4_BlackCamo",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_UH1H",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_UH1H_DriverDoor",
+        "RFFSHeli_UH1H_CoDriverDoor",
+        "RFFSHeli_UH1H_Cargo1",
+        "RFFSHeli_UH1H_Cargo2",
+        "RFFSHeli_UH1H_Cargo1a",
+        "RFFSHeli_UH1H_Cargo2a",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_UH1H_Combat",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_UH1H_Combat_DriverDoor",
+        "RFFSHeli_UH1H_Combat_CoDriverDoor",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_AS350",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_AS350_DriverDoor",
+        "RFFSHeli_AS350_CoDriverDoor",
+        "RFFSHeli_AS350_Cargo1",
+        "RFFSHeli_AS350_Cargo2",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_S76",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_S76_DriverDoor",
+        "RFFSHeli_S76_CoDriverDoor",
+        "RFFSHeli_S76_Cargo1",
+        "RFFSHeli_S76_Cargo2",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    },
+    {
+      "VehicleName": "RFFSHeli_S76_WoodlandCamo",
+      "Height": 0,
+      "VehicleParts": [
+        "RFFSHeli_hydraulic_hoses",
+        "RFFSHeli_wiring_harness",
+        "RFFSHeli_igniter_plug",
+        "RFFSHeli_aviation_battery",
+        "RFFSHeli_S76_WoodlandCamo_DriverDoor",
+        "RFFSHeli_S76_WoodlandCamo_CoDriverDoor",
+        "RFFSHeli_S76_WoodlandCamo_Cargo1",
+        "RFFSHeli_S76_WoodlandCamo_Cargo2",
+        "HeadlightH7",
+        "HeadlightH7"
+      ]
+    }
+  ]
+}

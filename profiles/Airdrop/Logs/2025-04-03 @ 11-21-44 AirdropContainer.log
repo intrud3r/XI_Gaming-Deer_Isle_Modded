@@ -1,0 +1,42 @@
+2025-04-03 @ 11-21-44:  [InitializeContainer] Winds: Vector <-0.000001, 0.000000, -4.148181>, Speed 4.14818mps, Strength 0
+2025-04-03 @ 11-21-44:  [InitializeContainer] Parachute created on @ <4921.194336, 190.036301, 5877.699219>
+2025-04-03 @ 11-21-44:  [InitializeContainer] Not Server!
+2025-04-03 @ 11-22-01:  [AirdropContainerFall] Airdrop Container Touchdown @ <4921.194336, 67.577316, 5877.699219>
+2025-04-03 @ 11-22-01:  [ADU_RemoveParachute] Parachute removed.
+2025-04-03 @ 11-22-01:  [ADU_RepositionContainer] Container repositioned.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/30/101, Flare:  0%
+2025-04-03 @ 11-22-01:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] LandMineTrap (Worn) @ <4915.100098, 65.881775, 5877.462402> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] NailedBaseballBat (Printine) @ <4912.169922, 65.395164, 5878.594238> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] CPB_Barret_Gold (Printine) @ <4921.759277, 66.918129, 5875.458984> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] LargeTent (Printine) @ <4930.085938, 67.825012, 5881.955078> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] Snafu_pkp_Black_GUN (Printine) @ <4926.240234, 67.399170, 5879.019043> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Spawn failed for item [6] 'JuggernautLVL1_Suit_Black', does not exist in DayZ!
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] Mosin9130 (Printine) @ <4915.409668, 65.991005, 5876.405273> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] CanOpener (Worn) @ <4916.366211, 66.030975, 5878.004883> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] TacticalGoggles (Worn) @ <4926.189453, 67.517883, 5875.609863> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] WeaponCleaningKit (Worn) @ <4920.897461, 66.292877, 5884.308594> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] MilitaryBoots_Beige (Printine) @ <4918.900391, 66.121918, 5882.335449> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] jmc_Prototype_Mag (Printine) @ <4920.614258, 66.603622, 5878.682617> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Spawn failed for item [13] 'JuggernautLVL5_Black', does not exist in DayZ!
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] M4_T3NrdSOptic (Printine) @ <4921.329590, 66.654755, 5879.796875> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Spawn failed for item [15] 'JuggernautLVL1_Suit', does not exist in DayZ!
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] TTSKOPants (Worn) @ <4914.510254, 65.920937, 5875.378906> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Spawn failed for item [17] '6b13Vest_PixelGreen', does not exist in DayZ!
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] TacticalGloves_Beige (Printine) @ <4928.344238, 67.482582, 5883.762695> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] CPB_AX50_Tan (Printine) @ <4913.289063, 65.245728, 5882.768555> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] MilitaryBoots_Beige (Worn) @ <4916.420898, 66.224480, 5874.531250> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Spawn failed for item [21] '6b13Vest_PixelGreen', does not exist in DayZ!
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] AssaultBag_Black (Worn) @ <4921.462402, 66.629021, 5880.543457> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] MilitaryBoots_Redpunk (Worn) @ <4924.501465, 67.297646, 5875.167969> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] CPB_Barret_Tan (Printine) @ <4927.471191, 67.282516, 5884.710938> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] LargeTent (Worn) @ <4918.897461, 66.288094, 5879.986328> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] Mag_STANAG_30Rnd (Printine) @ <4923.754883, 66.971512, 5880.508301> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] AmmoBox_45ACP_25rnd (Printine) @ <4920.651367, 66.597649, 5878.893555> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] Binoculars (Worn) @ <4914.093750, 65.278687, 5883.938477> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] UniversalLight (Worn) @ <4922.495117, 66.889801, 5878.311523> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  [ADU_SpawnItems] Loot Spawned [0] AssaultBag_Ttsko (Printine) @ <4923.396973, 67.038597, 5877.940430> ... Lifespan:  Set to 45 minutes.
+2025-04-03 @ 11-22-01:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-03 @ 11-22-01:  [EOnSimulate] Airdrop Container movedeactivated.
+2025-04-03 @ 11-51-08:  [~AirdropContainerBase] Container Destroyed.
+2025-04-03 @ 11-51-08:  [~AirdropContainerBase] Container log file closed.

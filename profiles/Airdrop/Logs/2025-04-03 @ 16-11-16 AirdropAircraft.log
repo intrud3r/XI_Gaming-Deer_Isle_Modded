@@ -1,0 +1,10 @@
+2025-04-03 @ 16-11-16:  [InitializeAirDropAircraft] Aircraft Initialized: 1 / 1
+2025-04-03 @ 16-11-16:  [InitializeAirDropAircraft] Aircraft created on 2025-04-03 @ 16-11-16
+2025-04-03 @ 16-16-04:  [EOnBeforeDrop] The Aircraft is 1 Km from Deepwater, Crab Island 3, from the East (105°). PS @ <2085.916016, 101.837578, 13105.865234>
+2025-04-03 @ 16-16-23:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-03 @ 16-16-23:  [EOnDrop] Drop spawned with 22 infected at <1119.437744, 92.310280, 13363.645508>.
+2025-04-03 @ 16-16-23:  [EOnDrop] Supplies have been dropped near Deepwater, Crab Island 3. RS
+2025-04-03 @ 16-16-46:  [EOnBeforeDelete] Aircraft despawned @ <9.246004, 100.752930, 13659.757813>
+2025-04-03 @ 16-16-46:  [EOnBeforeDelete] Aircraft has flown OFF the map.
+2025-04-03 @ 16-16-46:  [~AirdropPlane] Aircraft destroyed.
+2025-04-03 @ 16-16-46:  [~AirdropPlane] Aircraft log file closed.

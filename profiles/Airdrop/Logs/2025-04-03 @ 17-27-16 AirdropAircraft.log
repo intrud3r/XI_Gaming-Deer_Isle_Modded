@@ -1,0 +1,10 @@
+2025-04-03 @ 17-27-16:  [InitializeAirDropAircraft] Aircraft Initialized: 1 / 1
+2025-04-03 @ 17-27-16:  [InitializeAirDropAircraft] Aircraft created on 2025-04-03 @ 17-27-16
+2025-04-03 @ 17-31-38:  [EOnBeforeDrop] The Aircraft is 1 Km from East of Area 42, from the West (252°). PS @ <12862.289063, 104.571533, 9512.015625>
+2025-04-03 @ 17-31-58:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-03 @ 17-31-58:  [EOnDrop] Drop spawned with 22 infected at <13815.255859, 100.230911, 9819.939453>.
+2025-04-03 @ 17-31-58:  [EOnDrop] Supplies have been dropped near East of Area 42. RS
+2025-04-03 @ 17-32-50:  [EOnBeforeDelete] Aircraft despawned @ <16374.940430, 102.468849, 10647.029297>
+2025-04-03 @ 17-32-50:  [EOnBeforeDelete] Aircraft has flown OFF the map.
+2025-04-03 @ 17-32-50:  [~AirdropPlane] Aircraft destroyed.
+2025-04-03 @ 17-32-50:  [~AirdropPlane] Aircraft log file closed.

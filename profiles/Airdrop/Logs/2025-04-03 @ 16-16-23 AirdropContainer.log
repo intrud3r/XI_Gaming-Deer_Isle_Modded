@@ -1,0 +1,52 @@
+2025-04-03 @ 16-16-23:  [InitializeContainer] Winds: Vector <-0.119536, 0.000000, -0.909269>, Speed 0.917093mps, Strength 0
+2025-04-03 @ 16-16-23:  [InitializeContainer] Parachute created on @ <1119.437744, 92.310280, 13363.645508>
+2025-04-03 @ 16-16-23:  [InitializeContainer] Not Server!
+2025-04-03 @ 16-16-35:  [AirdropContainerFall] Airdrop Container Touchdown @ <1119.437744, 7.869362, 13363.645508>
+2025-04-03 @ 16-16-35:  [ADU_RemoveParachute] Parachute removed.
+2025-04-03 @ 16-16-35:  [ADU_RepositionContainer] Container repositioned.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Drop Type 'Building Supplies', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/40/77, Flare:  10%
+2025-04-03 @ 16-16-35:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Blueprint (Printine) @ <1119.982544, 7.000000, 13365.242188> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] Codelock (Worn) @ <1115.042236, 7.000000, 13369.059570> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] HackSaw (Printine) @ <1123.706665, 7.000000, 13367.280273> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] HackSaw (Worn) @ <1121.122192, 7.000000, 13360.527344> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] HackSaw (Worn) @ <1125.520630, 7.000000, 13368.121094> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Mortar_Mix (Worn) @ <1118.705811, 7.000000, 13359.320313> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Mortar_Mix (Worn) @ <1111.860718, 7.000000, 13363.567383> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Mortar_Mix (Worn) @ <1117.100708, 7.000000, 13371.105469> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] Renegade_FAL_300Rnd_Mag (Worn) @ <1121.187500, 7.000000, 13372.996094> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Spawn failed for item [10] 'BBP_Land_Claim_FlagKit', does not exist in DayZ!
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] NailBox (Printine) @ <1129.140869, 7.000000, 13362.815430> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Spawn failed for item [12] 'Msp_MilitaryCrate_Brown', does not exist in DayZ!
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] HackSaw (Worn) @ <1119.604248, 7.000000, 13357.963867> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] DP_CocaBag (Worn) @ <1119.843628, 7.000000, 13373.057617> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] SledgeHammer (Printine) @ <1119.839600, 7.000000, 13357.260742> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] CP_CannabisSeedsFuture (Printine) @ <1120.511108, 7.000000, 13366.305664> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Spawn failed for item [17] 'Msp_MilitaryCrate_Brown', does not exist in DayZ!
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] Renegade_FAL_300Rnd_Mag (Printine) @ <1113.254883, 7.000000, 13359.598633> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] NailBox (Printine) @ <1118.194336, 7.000000, 13370.393555> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] SledgeHammer (Printine) @ <1124.507568, 7.000000, 13359.807617> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Spawn failed for item [21] 'BBP_T3_WallKit', does not exist in DayZ!
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Spawn failed for item [22] 'BBP_T3_WallKit', does not exist in DayZ!
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] NailBox (Printine) @ <1127.394287, 7.000000, 13360.743164> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Spawn failed for item [24] 'BBP_T2_WallKit', does not exist in DayZ!
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Mortar_Mix (Worn) @ <1120.405151, 7.000000, 13363.991211> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Spawn failed for item [26] 'NewNVG', does not exist in DayZ!
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Spawn failed for item [27] 'BBP_Land_Claim_FlagKit', does not exist in DayZ!
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Mortar_Mix (Printine) @ <1124.731079, 7.000000, 13358.739258> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Spawn failed for item [29] 'Printer3D_Filament_T1_Blue', does not exist in DayZ!
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] NailBox (Printine) @ <1113.244995, 7.000000, 13364.748047> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Cement (Worn) @ <1118.835571, 7.000000, 13361.025391> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Mortar_Mix (Printine) @ <1128.928101, 7.000000, 13363.921875> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Blueprint (Printine) @ <1113.358643, 7.000000, 13362.292969> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Spawn failed for item [34] 'BBP_T2_WallKit', does not exist in DayZ!
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Spawn failed for item [35] 'MassKivaari', does not exist in DayZ!
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Cement (Printine) @ <1120.325806, 7.000000, 13371.545898> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Mortar_Mix (Worn) @ <1121.031494, 7.000000, 13373.505859> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Cement (Printine) @ <1121.083862, 7.000000, 13359.670898> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Spawn failed for item [39] 'Msp_ToolsBench_Blue_Kit', does not exist in DayZ!
+2025-04-03 @ 16-16-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_Carpet_2 (Printine) @ <1115.385986, 7.000000, 13370.809570> ... Lifespan:  Set to 60 minutes.
+2025-04-03 @ 16-16-35:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-03 @ 16-16-35:  [EOnSimulate] Airdrop Container movedeactivated.
+2025-04-03 @ 17-16-23:  [~AirdropContainerBase] Container Destroyed.
+2025-04-03 @ 17-16-23:  [~AirdropContainerBase] Container log file closed.

@@ -1,0 +1,64 @@
+{
+    "version": 10,
+    "globalBagLimit": -1,
+    "enable_bag_renaming": 1,
+    "enable_bag_give_to_friend": 1,
+    "enable_give_bag_name_obfuscation": 0,
+    "bedConfigs": [
+        {
+            "name": "Sleeping Bag",
+            "itemnames": [
+                "LBS_SleepingBag_New_Base",
+                "LBS_SleepingBag_Base"
+            ],
+            "timeoutSeconds": 15,
+            "timeoutPlacedDown": 1,
+            "radiusToNotTriggerTheKilledTimeout": 0.0,
+            "killedTimeoutRadius": 1.0,
+            "itemLimit": 1,
+            "spawnCost": 80000,
+            "forcePlaceOnGround": 0,
+            "timeoutAllPlacedBags": 0,
+            "timeoutNearBagsDistance": 50.0,
+            "maxBagUses": -1,
+            "uncaimOldestBagIfLimitReached": 1,
+            "nearPlacementCheckActive": 1,
+            "requireItemNearToAllowSpawn": 1,
+            "forceNearAnyFromList": [
+                {
+                    "nearItemname": "TerritoryFlag",
+                    "radius": 50.0
+                }
+            ],
+            "clearInventoryOnSpawn": 0,
+            "loadouts": []
+        },
+        {
+            "name": "Old Sleeping Bag",
+            "itemnames": [
+                "LBS_SleepingBag_Old_Base"
+            ],
+            "timeoutSeconds": 1,
+            "timeoutPlacedDown": 1,
+            "radiusToNotTriggerTheKilledTimeout": 0.0,
+            "killedTimeoutRadius": 1.0,
+            "itemLimit": 2,
+            "spawnCost": 10000,
+            "forcePlaceOnGround": 0,
+            "timeoutAllPlacedBags": 0,
+            "timeoutNearBagsDistance": 50.0,
+            "maxBagUses": -1,
+            "uncaimOldestBagIfLimitReached": 0,
+            "nearPlacementCheckActive": 0,
+            "requireItemNearToAllowSpawn": 0,
+            "forceNearAnyFromList": [
+                {
+                    "nearItemname": "TerritoryFlag",
+                    "radius": 50.0
+                }
+            ],
+            "clearInventoryOnSpawn": 0,
+            "loadouts": []
+        }
+    ]
+}

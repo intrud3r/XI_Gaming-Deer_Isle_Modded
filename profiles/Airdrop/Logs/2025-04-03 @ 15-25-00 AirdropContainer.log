@@ -1,0 +1,42 @@
+2025-04-03 @ 15-25-00:  [InitializeContainer] Winds: Vector <-0.000000, 0.000000, -1.639896>, Speed 1.6399mps, Strength 0
+2025-04-03 @ 15-25-00:  [InitializeContainer] Parachute created on @ <6713.732422, 121.675674, 2917.401367>
+2025-04-03 @ 15-25-00:  [InitializeContainer] Not Server!
+2025-04-03 @ 15-25-13:  [AirdropContainerFall] Airdrop Container Touchdown @ <6713.732422, 27.749893, 2917.401367>
+2025-04-03 @ 15-25-13:  [ADU_RemoveParachute] Parachute removed.
+2025-04-03 @ 15-25-13:  [ADU_RepositionContainer] Container repositioned.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Drop Type 'Misc. Tools', Container: 'RANDOM', Mode/Quantity/Iems: Random/30/68, Flare:  10%
+2025-04-03 @ 15-25-13:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] BoxCerealCrunchin (Worn) @ <6704.396973, 26.455921, 2919.746582> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] TacticalBaconCan (Printine) @ <6722.922363, 27.083626, 2914.667480> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] WoodenPlank (Printine) @ <6704.235352, 27.115311, 2914.596680> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Spawn failed for item [4] 'Printer3D_Filament_T3_Gold', does not exist in DayZ!
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] VitaminBottle (Printine) @ <6704.341797, 26.843950, 2916.642578> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] NailBox (Printine) @ <6715.571289, 28.146311, 2908.146240> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Spawn failed for item [7] 'HDSN_Gunpowder', does not exist in DayZ!
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Spawn failed for item [8] 'HDSN_Gunpowder', does not exist in DayZ!
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] CP_CannabisBrickNomad (Printine) @ <6718.257813, 28.044512, 2908.775391> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] HandSaw (Printine) @ <6718.827148, 25.745684, 2925.998535> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] VitaminBottle (Printine) @ <6718.937012, 27.929983, 2909.540039> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] CP_CannabisBrickBlackFrost (Printine) @ <6705.142090, 27.237976, 2913.770508> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] Canteen (Printine) @ <6706.519043, 25.940758, 2924.168701> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Spawn failed for item [14] 'Printer3D_Filament_T1_Blue', does not exist in DayZ!
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] MetalWire (Printine) @ <6708.372559, 25.877642, 2924.893799> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Spawn failed for item [16] 'HDSN_Charcoal', does not exist in DayZ!
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] SodaCan_Pipsi (Printine) @ <6708.098145, 25.869938, 2924.939941> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] WoodenPlank (Worn) @ <6705.336426, 26.190462, 2921.996338> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] Canteen (Printine) @ <6704.797363, 27.265984, 2913.541748> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Spawn failed for item [20] 'HDSN_Sulfur', does not exist in DayZ!
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] CP_CannabisBrickSkunk (Worn) @ <6705.583984, 26.213913, 2921.816406> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] Pot (Printine) @ <6706.847168, 25.972075, 2923.910645> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Spawn failed for item [23] 'HDSN_Charcoal', does not exist in DayZ!
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] NailBox (Printine) @ <6715.473633, 25.713667, 2926.756592> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] CP_CannabisBrickKush (Printine) @ <6716.757813, 25.735285, 2926.432129> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Spawn failed for item [26] 'HDSN_Charcoal', does not exist in DayZ!
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] CP_CannabisBrickNomad (Printine) @ <6721.642578, 25.959778, 2923.329590> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] NailBox (Worn) @ <6723.055176, 27.051317, 2914.855957> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Loot Spawned [0] Whetstone (Printine) @ <6718.880859, 27.903957, 2909.724365> ... Lifespan:  Set by economy.
+2025-04-03 @ 15-25-13:  [ADU_SpawnItems] Spawn failed for item [30] 'HDSN_Gunpowder', does not exist in DayZ!
+2025-04-03 @ 15-25-13:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-03 @ 15-25-13:  [EOnSimulate] Airdrop Container movedeactivated.
+2025-04-03 @ 16-25-00:  [~AirdropContainerBase] Container Destroyed.
+2025-04-03 @ 16-25-00:  [~AirdropContainerBase] Container log file closed.

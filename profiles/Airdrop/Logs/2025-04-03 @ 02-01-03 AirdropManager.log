@@ -1,0 +1,24 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Current File was deleted.
+[ExportDropZones] Exporting 94 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-04-03 @ 03-17-34] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Archipelago Island @ <2647.000000, 1000.000000, 13733.000000>
+[EOnCallAirdrop] DropPoint Assigned: <2652.181152, 21.432325, 13736.537109> (±10m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NW2) border @ <16384.000000, 1000.000000, 6240.190430>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: -0.499341° / 118.61°, Text: 'South/East (119°)'
+[EOnCallAirdrop] Aircraft Dispatched to Archipelago Island (16384/6240.19), from the South/East (119°).
+[EOnCallAirdrop] Next Scehduled Drop: 25 minutes (25/±0) .
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!

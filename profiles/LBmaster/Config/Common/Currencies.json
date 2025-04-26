@@ -1,0 +1,68 @@
+{
+    "version": 3,
+    "thousandsSeparator": ".",
+    "currencyPrefix": "$",
+    "currencySuffix": "",
+    "currencyValues": [
+        {
+            "itemclassname": "TraderPlus_Money_Ruble5",
+            "value": 5,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "TraderPlus_Money_Ruble10",
+            "value": 10,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "TraderPlus_Money_Ruble50",
+            "value": 50,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "TraderPlus_Money_Ruble100",
+            "value": 100,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "TraderPlus_Money_Ruble200",
+            "value": 200,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "TraderPlus_Money_Ruble500",
+            "value": 500,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "TraderPlus_Money_Ruble1000",
+            "value": 1000,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "TraderPlus_Money_Ruble2000",
+            "value": 2000,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "TraderPlus_Money_Ruble5000",
+            "value": 5000,
+            "depositableOnly": 0
+        },
+        {
+            "itemclassname": "TraderPlus_Money_Ruble1_Coin",
+            "value": 10000,
+            "depositableOnly": 1
+        },
+        {
+            "itemclassname": "TraderPlus_Money_Ruble2_Coin",
+            "value": 20000,
+            "depositableOnly": 1
+        },
+        {
+            "itemclassname": "TraderPlus_Money_Ruble5_Coin",
+            "value": 50000,
+            "depositableOnly": 1
+        }
+    ]
+}

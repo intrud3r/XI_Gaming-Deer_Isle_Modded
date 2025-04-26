@@ -1,0 +1,752 @@
+        {
+            "M_MARKER_NAME":"Greenville, Camp-Wolf",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 5595, 0, 1364 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Greenville, Scouts Camp",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 5045, 0, 1722 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North-West Greenville",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 3899, 0, 2034 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Stonington",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 6725, 0, 2033 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Stonington´s Suburbs",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 7385, 0, 1753 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North-East Asheville",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 7540, 0, 2864 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Asheville, Burntland Pond",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 6709, 0, 2925 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Airfield, Airport Runway 1",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 5740, 0, 3637 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Airfield Complex",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 5430, 0, 3745 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"West of Airfield",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 5055, 0, 3397 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Hazelands",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 4463, 0, 2926 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North of Hazelands",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 4214, 0, 3426 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"West of Hazelands",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 3587, 0, 2807 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Kushville",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 7657, 0, 4116 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Camp-Eagle",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 8934, 0, 3639 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Paul´s View",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 9514, 0, 3732 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Warren Cove",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 6841, 0, 5298 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Georgestown",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 4576, 0, 4360 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"South of Paris Island",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 2499, 0, 3368 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Paris Island, Shooting Range",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 2754, 0, 4077 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North of Paris Island",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 2816, 0, 4913 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"South of Westbrook",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 3328, 0, 5819 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Westbrook Beach",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 2771, 0, 6386 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Westbrook Farm",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 3336, 0, 6949 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Nuclear Powerplant",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 4691, 0, 7032 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Surrounding of Powerplant",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 4330, 0, 7014 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Croteh Island",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 11113, 0, 2834 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"West of Barringer Island",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 12290, 0, 2886 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North of Barringer Island 1",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 13322, 0, 4406 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North of Barringer Island 2",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 13938, 0, 3859 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Barringer Island, SW of Crater",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 12948, 0, 1427 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Barringer Crater",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 13900, 0, 2099 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Observation Platform of Barringer Crater",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 14274, 0, 2545 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Barringer Island, South of Crater",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 13967, 0, 1536 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"South of Arctica Island",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 13297, 0, 12649 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Arctica Island",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 14611, 0, 14345 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Arctica Crypt",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 15326, 0, 15179 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North of Alcatraz",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 15761, 0, 5101 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"South of Alcatraz",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 15746, 0, 4519 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"West Island of Westbrook",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 1879, 0, 6624 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Oliver´s Pond",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 4922, 0, 5877 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Sunset Cross",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 6315, 0, 6354 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Oldfield",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 6557, 0, 7121 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Sandy Bay",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 5292, 0, 7618 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North of Sandy Bay",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 5382, 0, 7961 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Checkpoint",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 5171, 0, 9044 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Swamp RCFI",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 3728, 0, 8801 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Old Town",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 1636, 0, 8967 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Deepwater, South Island 1",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 3039, 0, 10632 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Deepwater, South Island 2",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 2150, 0, 11142 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Deepwater Island",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 2395, 0, 12365 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Deepwater, East Island",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 3976, 0, 13112 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Archipelago Island",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 2647, 0, 13733 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Deepwater, Crab Island 1",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 238, 0, 11432 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Deepwater, Crab Island 2",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 887, 0, 11665 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Deepwater, Crab Island 3",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 1121, 0, 13367 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Deepwater, Crab Island 4",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 457, 0, 12486 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North Haven, Beach 1",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 935, 0, 14770 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North Haven, Beach 2",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 1878, 0, 15999 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North Haven Airfield",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 1477, 0, 15282 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Portland",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 6049, 0, 14576 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"South of Portland",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 6179, 0, 13957 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North of Portland",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 6377, 0, 15125 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Portland Beach",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 5635, 0, 15326 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North of Mount Katahdin",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 6893, 0, 12843 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Woodworking Industrial",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 4772, 0, 12102 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"South of Woodworking Industrial",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 4556, 0, 11743 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"South of Swanville",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 5161, 0, 10801 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Bear Territory 1",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 6096, 0, 10330 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Bear Territory 2",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 8187, 0, 10843 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Bayville",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 9483, 0, 12134 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Bayville Beach Resort",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 10314, 0, 10919 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North of East Harbor",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 10997, 0, 10770 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Area 42",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 13242, 0, 9786 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"East of Area 42",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 13815, 0, 9815 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Northwest of Waldoboro",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 9308, 0, 9736 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Waldoboro´s Antenna",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 9361, 0, 8825 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"West of Waldoboro",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 7922, 0, 8865 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Mountain Ville",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 7206, 0, 8371 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Mountain Ville Farm",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 6688, 0, 8391 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Duskar´s Mountain",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 8098, 0, 8006 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Montville",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 9190, 0, 7923 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Pear Plantation",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 9529, 0, 7606 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Fairfield",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 10488, 0, 6453 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Eastbrook",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 10338, 0, 7879 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Eastbrook´s Antenna",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 11590, 0, 8125 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Rotten Village",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 14220, 0, 6631 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North of Rotten Island",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 13065, 0, 7350 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Rotten Island, Camp-Tiger",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 14487, 0, 5261 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"North Island of Rotten Village",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 14935, 0, 8160 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"South of Fisher´s Camp",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 10228, 0, 5299 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Southwest of Oceanville",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 9821, 0, 4687 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"East of Scouts Camp",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 9335, 0, 5317 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME":"Cranberry Island",
+            "M_ICON_PATH":"waypointeditor_CA.paa",
+            "M_COLOR": [ 0, 200, 200 ],
+            "M_POSITION": [ 10010, 0, 1289 ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }

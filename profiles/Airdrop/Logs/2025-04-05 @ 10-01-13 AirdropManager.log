@@ -1,0 +1,30 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Current File was deleted.
+[ExportDropZones] Exporting 94 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-04-05 @ 12-33-53] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: East of Area 42 @ <13815.000000, 1000.000000, 9815.000000>
+[EOnCallAirdrop] DropPoint Assigned: <13816.401367, 12.940000, 9814.853516> (±10m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NE2) border @ <0.000000, 1000.000000, 10392.817383>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: 3.09979° / 272.395°, Text: 'West (272°)'
+[EOnCallAirdrop] Aircraft Dispatched to East of Area 42 (0/10392.8), from the West (272°).
+[EOnCallAirdrop] Next Scehduled Drop: 25 minutes (25/±0) .
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-04-05 @ 12-59-14] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: North Haven, Beach 2 @ <1878.000000, 1000.000000, 15999.000000>
+[EOnCallAirdrop] DropPoint Assigned: <1873.904663, 2.120000, 15993.686523> (±10m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NW2) border @ <16384.000000, 1000.000000, 3375.603027>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: -0.716116° / 131.03°, Text: 'South/East (131°)'
+[EOnCallAirdrop] Aircraft Dispatched to North Haven, Beach 2 (16384/3375.6), from the South/East (131°).
+[EOnCallAirdrop] Next Scehduled Drop: 25 minutes (25/±0) .

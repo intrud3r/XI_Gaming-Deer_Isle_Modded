@@ -1,0 +1,40 @@
+2025-04-05 @ 12-38-22:  [InitializeContainer] Winds: Vector <-0.004461, 0.000000, -0.099900>, Speed 0.1mps, Strength 0
+2025-04-05 @ 12-38-22:  [InitializeContainer] Parachute created on @ <13816.696289, 101.966789, 9813.190430>
+2025-04-05 @ 12-38-22:  [InitializeContainer] Not Server!
+2025-04-05 @ 12-38-35:  [AirdropContainerFall] Airdrop Container Touchdown @ <13816.696289, 13.769524, 9813.190430>
+2025-04-05 @ 12-38-35:  [ADU_RemoveParachute] Parachute removed.
+2025-04-05 @ 12-38-35:  [ADU_RepositionContainer] Container repositioned.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/30/71, Flare:  10%
+2025-04-05 @ 12-38-35:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Spawn failed for item [1] 'Printer3D_Filament_T2_Red', does not exist in DayZ!
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] SNAFU_M300BK (Printine) @ <13812.711914, 12.940000, 9812.171875> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] SNAFUKivaari_338_Supp (Printine) @ <13810.315430, 12.940000, 9814.735352> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] CPB_Barret_Green (Worn) @ <13809.479492, 12.940000, 9815.146484> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] SNAFU_M300Mag (Printine) @ <13818.075195, 12.940000, 9809.236328> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] DP_CocaBag (Printine) @ <13816.439453, 12.940000, 9818.446289> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] SNAFUHoneyBadger_Black (Printine) @ <13812.620117, 12.940000, 9811.335938> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] CP_CannabisSeedsPackStardawg (Printine) @ <13817.919922, 12.940000, 9812.455078> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] SNAFUHoneyBadger_30rdMag_Black (Printine) @ <13815.223633, 12.940000, 9813.678711> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_WallPaper_Mural_2 (Worn) @ <13812.644531, 12.940000, 9810.503906> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] SNAFUHoneyBadger_30rdMag_Black (Worn) @ <13817.355469, 12.940000, 9819.295898> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] CPB_AX50_Tan (Printine) @ <13809.805664, 12.940000, 9813.750000> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] SNAFU_MTango6T_Black (Printine) @ <13819.481445, 12.940000, 9820.626953> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] FNX45 (Printine) @ <13817.816406, 12.940000, 9803.700195> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] CPB_Barret_Green (Printine) @ <13811.616211, 12.940000, 9808.999023> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] CPB_M200_Black (Printine) @ <13814.335938, 12.940000, 9808.589844> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] SNAFU_MTrijicon (Worn) @ <13813.901367, 12.940000, 9814.834961> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] CP_CannabisBrickKush (Printine) @ <13815.048828, 12.940000, 9806.432617> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] BBP_WallPaper_Mural_1 (Worn) @ <13823.348633, 12.940000, 9811.602539> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] SNAFUHoneyBadger_Black (Printine) @ <13820.653320, 12.940000, 9812.959961> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Spawn failed for item [21] 'Vodka', does not exist in DayZ!
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] CPB_AX50_Black (Worn) @ <13821.412109, 12.940000, 9807.848633> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] SNHK417_Mag (Worn) @ <13819.378906, 12.940000, 9810.748047> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] CPB_AX50_Black (Printine) @ <13821.109375, 12.940000, 9808.645508> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] CPB_M300_GreenDig (Printine) @ <13811.174805, 12.940000, 9815.659180> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] CPB_M200_Black (Printine) @ <13818.966797, 12.940000, 9804.494141> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] CPB_AX50_Tan (Worn) @ <13820.672852, 12.940000, 9821.965820> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] CPB_AX50_Tan (Printine) @ <13818.686523, 12.940000, 9822.121094> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Loot Spawned [0] MilitaryBoots_Redpunk (Printine) @ <13807.960938, 12.940000, 9814.007813> ... Lifespan:  Set to 60 minutes.
+2025-04-05 @ 12-38-35:  [ADU_SpawnItems] Spawn failed for item [30] 'Printer3D_Filament_T3_Gold', does not exist in DayZ!
+2025-04-05 @ 12-38-35:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-05 @ 12-38-35:  [EOnSimulate] Airdrop Container movedeactivated.

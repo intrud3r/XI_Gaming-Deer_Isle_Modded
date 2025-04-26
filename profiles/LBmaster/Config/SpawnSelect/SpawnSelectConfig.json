@@ -1,0 +1,622 @@
+{
+    "version": 22,
+    "spawn_clear_radius": 20.0,
+    "spawnPos": [
+        15345.98046875,
+        0.0,
+        15346.4501953125
+    ],
+    "random_spawn_cost_money": 0,
+    "random_ignore_timeouts": 1,
+    "overwrite_default_spawnPos": 1,
+    "openSpawnMenuOnce": 1,
+    "forceOpenSpawnMenu": 1,
+    "hide_when_no_spawns_found": 1,
+    "show_cost_in_spawnmenu": 1,
+    "show_remaining_bag_uses_in_spawnmenu": 1,
+    "overwrite_stats_on_spawn": 0,
+    "water_on_spawn": 600,
+    "food_on_spawn": 600,
+    "health_on_spawn": 100,
+    "blood_on_spawn": 5000,
+    "death_spawn_block_radius": 1500,
+    "death_spawn_block_timeout": 1,
+    "respawnOpenedMenuSpawnpoints": {
+        "disableRandomSpawn": 0,
+        "sleepingBags": 1,
+        "allSpawnPoints": 1,
+        "allHousePoints": 1,
+        "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+        "alwaysSpawnRandom": 0,
+        "spawnPointsList": []
+    },
+    "firstJoinOpenedMenuSpawnpoints": {
+        "disableRandomSpawn": 0,
+        "sleepingBags": 1,
+        "allSpawnPoints": 1,
+        "allHousePoints": 1,
+        "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+        "alwaysSpawnRandom": 0,
+        "spawnPointsList": []
+    },
+    "signs": [
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 0,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 0,
+            "allSpawnPoints": 0,
+            "allHousePoints": 0,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [
+                "Green Mountain",
+                "Klen"
+            ],
+            "itemname": "LBmaster_SpawnSign_Safezone",
+            "requiredSpawnTicket": "LBmaster_SpawnTicket_1",
+            "actionText": "Teleport to Safezone"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 0,
+            "allHousePoints": 0,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [
+                "Chernogorsk",
+                "Elektrozavodsk",
+                "Spawn",
+                "Balota",
+                "Berezino",
+                "Solnechny"
+            ],
+            "itemname": "LBmaster_SpawnSign_Spawn",
+            "requiredSpawnTicket": "",
+            "actionText": "Spawn"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_1",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_1_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_2",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_2_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_3",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_3_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_4",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_4_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_5",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_5_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_Event",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_Event_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_Safezone_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        },
+        {
+            "disableRandomSpawn": 0,
+            "sleepingBags": 1,
+            "allSpawnPoints": 1,
+            "allHousePoints": 1,
+            "spawnImmediatelyWhenSingleSpawnAvailable": 0,
+            "alwaysSpawnRandom": 0,
+            "spawnPointsList": [],
+            "itemname": "LBmaster_SpawnSign_Spawn_L",
+            "requiredSpawnTicket": "",
+            "actionText": "#open"
+        }
+    ],
+    "positions": [
+        {
+            "pos": [
+                7139.38134765625,
+                36.70078659057617,
+                1717.728515625
+            ],
+            "name": "Stonington",
+            "spawnCost": 0,
+            "timeout": 1,
+            "spawnRadius": 20,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [],
+            "spawnPositions": [
+                [
+                    7204.60546875,
+                    2.803090810775757,
+                    1405.7236328125
+                ],
+                [
+                    7407.916015625,
+                    3.421088695526123,
+                    1471.82421875
+                ],
+                [
+                    6975.25390625,
+                    5.801230430603027,
+                    1514.890625
+                ],
+                [
+                    7425.943359375,
+                    9.679140090942383,
+                    1603.025390625
+                ],
+                [
+                    7166.546875,
+                    13.747013092041016,
+                    1639.080078125
+                ],
+                [
+                    7128.48876953125,
+                    44.64828109741211,
+                    1777.2919921875
+                ],
+                [
+                    7381.87646484375,
+                    20.5313777923584,
+                    1738.232421875
+                ],
+                [
+                    6979.26025390625,
+                    19.086950302124025,
+                    1659.1103515625
+                ]
+            ]
+        },
+        {
+            "pos": [
+                5651.35009765625,
+                36.373958587646487,
+                1297.66015625
+            ],
+            "name": "Camp Wolf",
+            "spawnCost": 0,
+            "timeout": 1,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [],
+            "spawnPositions": [
+                [
+                    5520.740234375,
+                    24.262344360351564,
+                    1239.38671875
+                ],
+                [
+                    5904.40478515625,
+                    14.5,
+                    1209.7314453125
+                ],
+                [
+                    5641.97509765625,
+                    63.966392517089847,
+                    1588.7041015625
+                ],
+                [
+                    6238.17041015625,
+                    5.04796028137207,
+                    1333.841796875
+                ],
+                [
+                    5908.21484375,
+                    36.56859588623047,
+                    1104.0107421875
+                ],
+                [
+                    6179.00634765625,
+                    16.010000228881837,
+                    1179.1044921875
+                ]
+            ]
+        },
+        {
+            "pos": [
+                9181.822265625,
+                5.130000114440918,
+                9025.541015625
+            ],
+            "name": "Waldoboro",
+            "spawnCost": 0,
+            "timeout": 1,
+            "spawnRadius": 50,
+            "enabled": 1,
+            "spawnAtExactPosition": 0,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [],
+            "spawnPositions": [
+                [
+                    9410.48828125,
+                    5.211103439331055,
+                    9091.228515625
+                ],
+                [
+                    9126.4912109375,
+                    5.130000114440918,
+                    8918.302734375
+                ],
+                [
+                    9157.494140625,
+                    5.130000114440918,
+                    9147.19921875
+                ],
+                [
+                    8985.474609375,
+                    5.130000114440918,
+                    9040.8125
+                ],
+                [
+                    9033.94921875,
+                    5.130000114440918,
+                    9195.654296875
+                ],
+                [
+                    9492.6123046875,
+                    21.24464988708496,
+                    8973.513671875
+                ],
+                [
+                    8954.0478515625,
+                    5.130000114440918,
+                    8914.564453125
+                ],
+                [
+                    9318.8896484375,
+                    5.5313720703125,
+                    9018.6015625
+                ]
+            ]
+        },
+        {
+            "pos": [
+                7091.84765625,
+                -11.050000190734864,
+                8007.4326171875
+            ],
+            "name": "EVENT SPAWN FOR ARENA",
+            "spawnCost": 0,
+            "timeout": 0,
+            "spawnRadius": 5,
+            "enabled": 0,
+            "spawnAtExactPosition": 1,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [],
+            "spawnPositions": [
+                [
+                    7084.23876953125,
+                    21.278324127197267,
+                    8066.171875
+                ],
+                [
+                    7110.20458984375,
+                    21.22452735900879,
+                    8083.98095703125
+                ],
+                [
+                    7117.771484375,
+                    21.09183120727539,
+                    8043.59228515625
+                ],
+                [
+                    7117.97216796875,
+                    21.03343391418457,
+                    7984.439453125
+                ],
+                [
+                    7108.35400390625,
+                    24.28614616394043,
+                    7928.83740234375
+                ],
+                [
+                    7061.7666015625,
+                    21.510549545288087,
+                    7911.64404296875
+                ],
+                [
+                    7020.5986328125,
+                    21.09551429748535,
+                    7935.85595703125
+                ],
+                [
+                    7027.9560546875,
+                    21.35916519165039,
+                    8060.1123046875
+                ],
+                [
+                    7011.912109375,
+                    21.742794036865236,
+                    8044.93212890625
+                ]
+            ]
+        },
+        {
+            "pos": [
+                10021.611328125,
+                4.691659927368164,
+                1124.076171875
+            ],
+            "name": "EVENT ** LAST MAN STANDING***",
+            "spawnCost": 0,
+            "timeout": 10,
+            "spawnRadius": 20,
+            "enabled": 0,
+            "spawnAtExactPosition": 1,
+            "forcePlayerIntoGroup": "",
+            "spawnPlayerInAir": 0,
+            "heightOverGround": 300,
+            "clearInventoryOnSpawn": 0,
+            "loadouts": [],
+            "spawnPositions": [
+                [
+                    10037.07421875,
+                    4.848427772521973,
+                    1105.6126708984376
+                ],
+                [
+                    10026.564453125,
+                    3.9628946781158449,
+                    1096.204345703125
+                ],
+                [
+                    10087.44140625,
+                    2.959962844848633,
+                    1127.1976318359376
+                ],
+                [
+                    10077.814453125,
+                    2.823307991027832,
+                    1194.564453125
+                ],
+                [
+                    9979.0693359375,
+                    8.21164321899414,
+                    1202.65673828125
+                ],
+                [
+                    9950.953125,
+                    10.084656715393067,
+                    1163.31103515625
+                ],
+                [
+                    9913.6611328125,
+                    10.84317684173584,
+                    1141.7803955078126
+                ],
+                [
+                    9888.947265625,
+                    11.029306411743164,
+                    1099.590576171875
+                ],
+                [
+                    9942.4375,
+                    4.809893608093262,
+                    1062.8863525390626
+                ],
+                [
+                    9966.388671875,
+                    5.916593551635742,
+                    1104.4195556640626
+                ],
+                [
+                    10011.146484375,
+                    5.870409965515137,
+                    1129.6514892578126
+                ],
+                [
+                    10041.3671875,
+                    7.05033016204834,
+                    1150.8277587890626
+                ],
+                [
+                    9965.3544921875,
+                    2.2886552810668947,
+                    1023.7578125
+                ],
+                [
+                    9877.439453125,
+                    4.981842994689941,
+                    1015.8856811523438
+                ],
+                [
+                    9824.1083984375,
+                    19.665006637573243,
+                    1071.3385009765626
+                ],
+                [
+                    10067.109375,
+                    3.834282636642456,
+                    1171.478759765625
+                ],
+                [
+                    10021.31640625,
+                    4.214180946350098,
+                    1255.6328125
+                ],
+                [
+                    9922.572265625,
+                    14.081758499145508,
+                    1227.7352294921876
+                ],
+                [
+                    9788.068359375,
+                    33.61465072631836,
+                    1144.1279296875
+                ]
+            ]
+        }
+    ]
+}

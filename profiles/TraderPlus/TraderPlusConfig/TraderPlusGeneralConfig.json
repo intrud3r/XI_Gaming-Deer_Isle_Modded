@@ -1,0 +1,925 @@
+{
+  "Version": "2.5",
+  "ConvertTraderConfigToTraderPlus": 0,
+  "ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
+  "UseGarageToTradeCar": 0,
+  "DisableHeightFailSafeForReceiptDeployment": 0,
+  "HideInsuranceBtn": 0,
+  "HideGarageBtn": 0,
+  "HideLicenceBtn": 0,
+  "EnableShowAllPrices": 1,
+  "EnableShowAllCheckBox": 1,
+  "IsReceiptTraderOnly": 0,
+  "IsReceiptSaveLock": 1,
+  "IsReceiptSaveAttachment": 1,
+  "IsReceiptSaveCargo": 1,
+  "LockPickChance": 0.30000001192092896,
+  "LicenceKeyWord": "Licence",
+  "Licences": [
+    "Car Licence",
+    "Admin Licence"
+  ],
+  "AcceptedStates": {
+    "AcceptWorn": 1,
+    "AcceptDamaged": 1,
+    "AcceptBadlyDamaged": 1,
+    "CoefficientWorn": 0.75,
+    "CoefficientDamaged": 0.5,
+    "CoefficientBadlyDamaged": 0.25
+  },
+  "StoreOnlyToPristineState": 1,
+  "Currencies": [
+   {
+      "ClassName": "TraderPlus_Money_Ruble5000",
+      "Value": 5000
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble2000",
+      "Value": 2000
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble1000",
+      "Value": 1000
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble500,TraderPlus_Money_Euro500",
+      "Value": 500
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble200,TraderPlus_Money_Euro200",
+      "Value": 200
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble100,TraderPlus_Money_Euro100,TraderPlus_Money_Dollar100",
+      "Value": 100
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble50,TraderPlus_Money_Euro50,TraderPlus_Money_Dollar50",
+      "Value": 50
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble10,TraderPlus_Money_Euro10,TraderPlus_Money_Dollar10",
+      "Value": 10
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble5,TraderPlus_Money_Euro5,TraderPlus_Money_Dollar5",
+      "Value": 5
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble2_Coin,TraderPlus_Money_Euro2,TraderPlus_Money_Dollar2",
+      "Value": 2
+    },
+    {
+      "ClassName": "TraderPlus_Money_Ruble1_Coin,TraderPlus_Money_Euro1,TraderPlus_Money_Dollar1",
+      "Value": 1
+    }
+  ],
+  "Traders": [
+    {
+      "Id": 0,
+      "Name": "BVM_VendingMachine_food",
+      "GivenName": "Food",
+      "Role": "Food Trader",
+      "Position": [
+        7503.78,
+        91.27,
+        4602.5
+      ],
+      "Orientation": [
+        228.76,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 1,
+      "Name": "BVM_VendingMachine_beverages",
+      "GivenName": "Drinks",
+      "Role": "Drinks Trader",
+      "Position": [
+        7500.3818359375,
+        91.23351287841797,
+        4607.25732421875
+      ],
+      "Orientation": [
+        -126.30142211914063,
+         0.0,
+        -0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 2,
+      "Name": "BVM_VendingMachine_tools",
+      "GivenName": "Tools",
+      "Role": "Tools Trader",
+      "Position": [
+        7495.080078125,
+        91.21060180664063,
+        4584.39013671875
+      ],
+      "Orientation": [
+        52.23939895629883,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 3,
+      "Name": "BVM_VendingMachine_medical",
+      "GivenName": "Medical",
+      "Role": "Medical Trader",
+      "Position": [
+       7497.56005859375,
+       91.20950317382813,
+       4581.35009765625
+      ],
+      "Orientation": [
+        54.20050048828125,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 4,
+      "Name": "BVM_VendingMachine_firearms",
+      "GivenName": "Firearms",
+      "Role": "Firearms Trader",
+      "Position": [
+        7492.64990234375,
+        91.27349853515625,
+        4587.5498046875
+      ],
+      "Orientation": [
+        51.18178939819336,
+        0,
+        0
+      ],
+      "Clothes": []
+    },    
+    {
+      "Id": 5,
+      "Name": "BVM_VendingMachine_attachments",
+      "GivenName": "Attachments",
+      "Role": "Attachments Trader",
+      "Position": [
+        7490.08984375,
+        91.23190307617188,
+        4591.06982421875
+      ],
+      "Orientation": [
+         53.0,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+	{
+      "Id": 6,
+      "Name": "BVM_VendingMachine_ammunition",
+      "GivenName": "Ammunition",
+      "Role": "Ammunition Trader",
+      "Position": [
+        7487.56005859375,
+        91.17659759521485,
+        4594.47021484375
+      ],
+      "Orientation": [
+        56.011497497558597,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 7,
+      "Name": "BVM_VendingMachine_hunting",
+      "GivenName": "Hunting",
+      "Role": "Hunting Trader",
+      "Position": [
+        7492.31982421875,
+        91.25299835205078,
+        4612.2900390625
+      ],
+      "Orientation": [
+        142.96600341796876,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 8,
+      "Name": "BVM_VendingMachine_helicopters",
+      "GivenName": "Helicopters",
+      "Role": "Helicopters Trader",
+      "Position": [
+        7508.5400390625,
+        91.24639892578125,
+        4577.0400390625
+      ],
+      "Orientation": [
+        -36.94709777832031,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 9,
+      "Name": "BVM_VendingMachine_vehicles",
+      "GivenName": "Vehicles",
+      "Role": "Vehicles Trader",
+      "Position": [
+        7511.2998046875,
+        91.28450012207031,
+        4579.10009765625
+      ],
+      "Orientation": [
+        -37.38810348510742,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 10,
+      "Name": "BVM_VendingMachine_clothing",
+      "GivenName": "Clothing",
+      "Role": "Clothing Trader",
+      "Position": [
+        7485.6201171875,
+        91.17420196533203,
+        4607.1298828125
+      ],
+      "Orientation": [
+        143.3289794921875,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 11,
+      "Name": "BVM_VendingMachine_exchange",
+      "GivenName": "MoneyExchange",
+      "Role": "Exchange Trader",
+      "Position": [
+        7514.56005859375,
+        91.25869750976563,
+        4587.93017578125
+      ],
+      "Orientation": [
+        -127.43900299072266,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 12,
+      "Name": "BVM_VendingMachine_explosives",
+      "GivenName": "BlackMarket",
+      "Role": "Explosives Trader",
+      "Position": [
+        1154.54,
+        60.2406,
+        10620.5
+      ],
+      "Orientation": [
+        332.855,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 13,
+      "Name": "BVM_VendingMachine_drugs",
+      "GivenName": "Drug Dealer",
+      "Role": "Drug Trader",
+      "Position": [
+        1149.18,
+        63.696,
+        10617.1
+      ],
+      "Orientation": [
+        11.4507,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 14,
+      "Name": "BVM_VendingMachine_exchange",
+      "GivenName": "MoneyExchange",
+      "Role": "Exchange Trader",
+      "Position": [
+        6044.47119140625,
+        6.261172294616699,
+        13384.943359375
+      ],
+      "Orientation": [
+        90.87012481689453,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 15,
+      "Name": "BVM_VendingMachine_clothing",
+      "GivenName": "Clothing Dealer",
+      "Role": "Clothing Trader",
+      "Position": [
+        6060.69287109375,
+        6.316138744354248,
+        13382.98828125
+      ],
+      "Orientation": [
+        -87.92671966552735,
+         0.0,
+        -0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 16,
+      "Name": "BVM_VendingMachine_food",
+      "GivenName": "Food Dealer",
+      "Role": "Food Trader",
+      "Position": [
+        6061.04296875,
+        6.241856575012207,
+        13386.6748046875
+      ],
+      "Orientation": [
+        -86.6255874633789,
+         0.0,
+        -0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 17,
+      "Name": "BVM_VendingMachine_beverages",
+      "GivenName": "Drinks Dealer",
+      "Role": "Drinks Trader",
+      "Position": [
+        6061.05859375,
+        6.263623237609863,
+        13391.00390625
+      ],
+      "Orientation": [
+        -88.86907196044922,
+         0.0,
+         -0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 18,
+      "Name": "BVM_VendingMachine_hunting",
+      "GivenName": "Hunting Dealer",
+      "Role": "Hunting Trader",
+      "Position": [
+        6061.04150390625,
+        6.316144943237305,
+        13395.578125
+      ],
+      "Orientation": [
+        -89.9127197265625,
+        0.0,
+        -0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 19,
+      "Name": "BVM_VendingMachine_helicopters",
+      "GivenName": "Helicopters Dealer",
+      "Role": "Helicopters Trader",
+      "Position": [
+        6061.08935546875,
+        6.231364727020264,
+        13400.2373046875
+      ],
+      "Orientation": [
+        -89.9127197265625,
+        0.0,
+        -0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 20,
+      "Name": "BVM_VendingMachine_vehicles",
+      "GivenName": "Vehicles Dealer",
+      "Role": "Vehicles Trader",
+      "Position": [
+         6061.2998046875,
+         6.3161301612854,
+         13404.2998046875
+      ],
+      "Orientation": [
+        -90.79228210449219,
+        0.0,
+        -0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 21,
+      "Name": "BVM_VendingMachine_tools",
+      "GivenName": "Tools Dealer",
+      "Role": "Tools Trader",
+      "Position": [
+         6044.8935546875,
+         6.316139221191406,
+         13401.3388671875
+      ],
+      "Orientation": [
+        91.9183349609375,
+        0.0,
+        -0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 22,
+      "Name": "BVM_VendingMachine_medical",
+      "GivenName": "Medical Dealer",
+      "Role": "Medical Trader",
+      "Position": [
+         6045.05517578125,
+         6.3160400390625,
+         13405.833984375
+      ],
+      "Orientation": [
+        88.49848937988281,
+        0.0,
+        -0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 23,
+      "Name": "BVM_VendingMachine_firearms",
+      "GivenName": "Firearms Dealer",
+      "Role": "Firearms Trader",
+      "Position": [
+         6044.47998046875,
+         6.3161301612854,
+         13388.099609375
+      ],
+      "Orientation": [
+        93.18260955810547,
+        0.0,
+        0.0
+      ],
+      "Clothes": []
+    },    
+    {
+      "Id": 24,
+      "Name": "BVM_VendingMachine_attachments",
+      "GivenName": "Ammunition Dealer",
+      "Role": "Ammunition Trader",
+      "Position": [
+         6044.72998046875,
+         6.3161702156066898,
+         13392.599609375
+      ],
+      "Orientation": [
+        92.36688995361328,
+        0.0,
+        0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 25,
+      "Name": "BVM_VendingMachine_ammunition",
+      "GivenName": "Ammunition Dealer",
+      "Role": "Ammunition Trader",
+     "Position": [
+         6044.91015625,
+         6.3161301612854,
+         13397.0
+      ],
+      "Orientation": [
+        94.23699951171875,
+        0.0,
+        0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 26,
+      "Name": "BVM_VendingMachine_bitcoin",
+      "GivenName": "Bitcoin Dealer",
+      "Role": "Bitcoin Trader",
+     "Position": [
+         1132.7,
+         56.6577,
+         10606
+      ],
+      "Orientation": [
+        4.64379,
+        0.0,
+        0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 27,
+      "Name": "BVM_VendingMachine_consumables",
+      "GivenName": "Consumables Dealer",
+      "Role": "Consumables Trader",
+     "Position": [
+         1155.23,
+         56.6576,
+         10621.5
+      ],
+      "Orientation": [
+        274.261,
+        0.0,
+        0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 28,
+      "Name": "BVM_VendingMachine_modded_clothing",
+      "GivenName": "Clothing",
+      "Role": "Clothing Trader",
+     "Position": [
+         1152.61,
+         60.2405,
+         10636.4
+      ],
+      "Orientation": [
+        179.849,
+        0.0,
+        0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 29,
+      "Name": "BVM_VendingMachine_miscellaneous",
+      "GivenName": "Printer3d",
+      "Role": "Printer3d Trader",
+      "Position": [
+        3389.020751953125,
+        28.38772964477539,
+        6739.8720703125
+      ],
+      "Orientation": [
+        -10.256763458251954,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 30,
+      "Name": "BVM_VendingMachine_tools",
+      "GivenName": "Tools",
+      "Role": "Tools Trader",
+      "Position": [
+        3380.441162109375,
+        28.499225616455079,
+        6760.07080078125
+      ],
+      "Orientation": [
+        168.66012573242188,
+         0.0,
+        -0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 31,
+      "Name": "BVM_VendingMachine_helicopters",
+      "GivenName": "Helicopters",
+      "Role": "Helicopters Trader",
+      "Position": [
+        3324.189453125,
+        27.397159576416017,
+        6858.74462890625
+       
+      ],
+      "Orientation": [
+        129.48895263671876,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 32,
+      "Name": "BVM_VendingMachine_vehicles",
+      "GivenName": "Vehicles",
+      "Role": "Vehicles Trader",
+      "Position": [
+        3331.2880859375,
+        27.422985076904298,
+        6866.84423828125
+      ],
+      "Orientation": [
+        132.48448181152345,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 33,
+      "Name": "BVM_VendingMachine_ammunition",
+      "GivenName": "Ammunition",
+      "Role": "Ammunition Trader",
+      "Position": [
+        3386.691162109375,
+        28.515836715698243,
+        6754.51318359375
+      ],
+      "Orientation": [
+        -98.08941650390625,
+        0,
+        0
+      ],
+      "Clothes": []
+    },    
+    {
+      "Id": 34,
+      "Name": "BVM_VendingMachine_blackmarket",
+      "GivenName": "BlackMarket",
+      "Role": "BlackMarket Trader",
+      "Position": [
+        3372.42822265625,
+        28.472530364990236,
+        6738.01416015625
+      ],
+      "Orientation": [
+        -9.495872497558594,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+	{
+      "Id": 35,
+      "Name": "BVM_VendingMachine_food",
+      "GivenName": "Food",
+      "Role": "Food Trader",
+      "Position": [
+        3381.002685546875,
+        28.480487823486329,
+        6739.521484375
+      ],
+      "Orientation": [
+        -9.675679206848145,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 36,
+      "Name": "BVM_VendingMachine_beverages",
+      "GivenName": "Drinks",
+      "Role": "Drug Trader",
+      "Position": [
+        3383.83154296875,
+        28.472667694091798,
+        6740.11376953125
+      ],
+      "Orientation": [
+        -10.91353988647461,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 37,
+      "Name": "BVM_VendingMachine_bitcoin",
+      "GivenName": "Bitcoin Dealer",
+      "Role": "Bitcoin Trader",
+      "Position": [
+        3360.25048828125,
+        28.370332717895509,
+        6734.82421875
+      ],
+      "Orientation": [
+        -13.002571105957032,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 38,
+      "Name": "BVM_VendingMachine_firearms",
+      "GivenName": "Firearms",
+      "Role": "Firearms Trader",
+      "Position": [
+        3385.89404296875,
+        28.515836715698243,
+        6760.1845703125
+      ],
+      "Orientation": [
+        -101.38951873779297,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 39,
+      "Name": "BVM_VendingMachine_attachments",
+      "GivenName": "Attachments",
+      "Role": "Attachments Trader",
+      "Position": [
+        3386.35791015625,
+        28.517011642456056,
+        6757.4443359375
+      ],
+      "Orientation": [
+        -101.23834991455078,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 40,
+      "Name": "BVM_VendingMachine_modded_clothing",
+      "GivenName": "Clothing",
+      "Role": "Clothing Trader",
+      "Position": [
+        3374.82373046875,
+        28.49051284790039,
+        6758.9638671875
+      ],
+      "Orientation": [
+        169.77024841308595,
+         0.0,
+        -0.0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 41,
+      "Name": "BVM_VendingMachine_clothing",
+      "GivenName": "Clothing",
+      "Role": "Clothing Trader",
+      "Position": [
+        3367.098876953125,
+        28.503664016723634,
+        6757.4755859375
+       
+      ],
+      "Orientation": [
+        170.5353546142578,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 42,
+      "Name": "BVM_VendingMachine_hunting",
+      "GivenName": "Hunting",
+      "Role": "Hunting Trader",
+      "Position": [
+        3360.3056640625,
+        28.48501968383789,
+        6756.2744140625
+      ],
+      "Orientation": [
+        171.36512756347657,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 43,
+      "Name": "BVM_VendingMachine_explosives",
+      "GivenName": "Explosvies",
+      "Role": "Explosives Trader",
+      "Position": [
+        3367.53955078125,
+        28.442398071289064,
+        6736.845703125
+      ],
+      "Orientation": [
+        -11.829512596130371,
+        0,
+        0
+      ],
+      "Clothes": []
+    },    
+    {
+      "Id": 44,
+      "Name": "BVM_VendingMachine_raiding",
+      "GivenName": "Raid",
+      "Role": "Raid Trader",
+      "Position": [
+        3363.930419921875,
+        28.40674591064453,
+        6736.302734375
+      ],
+      "Orientation": [
+        -8.365961074829102,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+	{
+      "Id": 45,
+      "Name": "BVM_VendingMachine_collectables",
+      "GivenName": "Collectables",
+      "Role": "Collectables Trader",
+      "Position": [
+        3356.989990234375,
+        28.472164154052736,
+        6748.97802734375
+      ],
+      "Orientation": [
+        80.46894836425781,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 46,
+      "Name": "BVM_VendingMachine_medical",
+      "GivenName": "Medical",
+      "Role": "Medical Trader",
+      "Position": [
+        3355.683349609375,
+        28.50640106201172,
+        6753.96728515625
+      ],
+      "Orientation": [
+        80.5802001953125,
+        0,
+        0
+      ],
+      "Clothes": []
+    },
+    {
+      "Id": 47,
+      "Name": "BVM_VendingMachine_consumables",
+      "GivenName": "Consumables",
+      "Role": "Consumables Trader",
+      "Position": [
+        3388.205078125,
+        28.36487579345703,
+        6746.3994140625
+      ],
+      "Orientation": [
+        -102.83445739746094,
+        0,
+        0
+      ],
+      "Clothes": []
+    }    
+  ],
+  "TraderObjects": [
+    {
+      "ObjectName": "bldr_prop_Fireplace_NoStones",
+      "Position": [
+        3374.6875,
+        28.46858024597168,
+        6746.44873046875
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ]
+    },
+	{
+      "ObjectName": "bldr_Decal_Heli_Army",
+      "Position": [
+        3284.7666015625,
+        31.24445915222168,
+        6859.12158203125
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+    "version": 2,
+    "enabled": 1,
+    "displayOnMap": 0,
+    "notificationTitle": "No Build Zones",
+    "notificationMessage": "You cannot build near {pos}",
+    "ignoreItems": [
+        "LandMineTrap",
+        "BearTrap",
+        "Fireplace"
+    ],
+    "circleColorR": 255,
+    "circleColorG": 100,
+    "circleColorB": 50,
+    "zones": [
+        {
+            "name": "",
+            "x": 2666.631103515625,
+            "y": 3758.19921875,
+            "r": 1100.0
+        },
+        {
+            "name": "",
+            "x": 884.8424072265625,
+            "y": 11697.2421875,
+            "r": 1100.0
+        },
+        {
+            "name": "",
+            "x": 6065.19384765625,
+            "y": 13454.107421875,
+            "r": 791.0
+        },
+        {
+            "name": "",
+            "x": 7499.62451171875,
+            "y": 4567.6923828125,
+            "r": 791.0
+        },
+        {
+            "name": "",
+            "x": 13578.2080078125,
+            "y": 2478.1142578125,
+            "r": 2000.0
+        },
+        {
+            "name": "",
+            "x": 433.339111328125,
+            "y": 939.333984375,
+            "r": 1410.0
+        }
+    ]
+}

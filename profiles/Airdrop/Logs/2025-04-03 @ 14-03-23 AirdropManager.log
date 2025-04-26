@@ -1,0 +1,64 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Current File was deleted.
+[ExportDropZones] Exporting 94 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-04-03 @ 14-29-57] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Oliver´s Pond @ <4922.000000, 1000.000000, 5877.000000>
+[EOnCallAirdrop] DropPoint Assigned: <4924.943359, 66.842392, 5885.297852> (±10m).
+[EOnCallAirdrop] Aircraft Spawn Point: Eastern (SW2) border @ <16384.000000, 1000.000000, 13443.410156>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: 0.583464° / 56.57°, Text: 'North/East (057°)'
+[EOnCallAirdrop] Aircraft Dispatched to Oliver´s Pond (16384/13443.4), from the North/East (057°).
+[EOnCallAirdrop] Next Scehduled Drop: 25 minutes (25/±0) .
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-04-03 @ 14-55-17] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Deepwater, Crab Island 1 @ <238.000000, 1000.000000, 11432.000000>
+[EOnCallAirdrop] DropPoint Assigned: <244.518661, 7.000000, 11437.219727> (±10m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NW2) border @ <16384.000000, 1000.000000, 15452.471680>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: 0.244044° / 76.0173°, Text: 'East (076°)'
+[EOnCallAirdrop] Aircraft Dispatched to Deepwater, Crab Island 1 (16384/15452.5), from the East (076°).
+[EOnCallAirdrop] Next Scehduled Drop: 25 minutes (25/±0) .
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-04-03 @ 15-20-37] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Asheville, Burntland Pond @ <6709.000000, 1000.000000, 2925.000000>
+[EOnCallAirdrop] DropPoint Assigned: <6710.642578, 26.800537, 2917.603760> (±10m).
+[EOnCallAirdrop] Aircraft Spawn Point: Eastern (SW2) border @ <16384.000000, 1000.000000, 12346.376953>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: 0.772118° / 45.7609°, Text: 'North/East (046°)'
+[EOnCallAirdrop] Aircraft Dispatched to Asheville, Burntland Pond (16384/12346.4), from the North/East (046°).
+[EOnCallAirdrop] Next Scehduled Drop: 25 minutes (25/±0) .
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-04-03 @ 15-45-57] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: North Haven, Beach 2 @ <1878.000000, 1000.000000, 15999.000000>
+[EOnCallAirdrop] DropPoint Assigned: <1871.928467, 2.120000, 15993.603516> (±10m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NW2) border @ <16384.000000, 1000.000000, 9123.278320>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: -0.442625° / 115.361°, Text: 'South/East (115°)'
+[EOnCallAirdrop] Aircraft Dispatched to North Haven, Beach 2 (16384/9123.28), from the South/East (115°).
+[EOnCallAirdrop] Next Scehduled Drop: 25 minutes (25/±0) .
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-04-03 @ 16-11-16] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Deepwater, Crab Island 3 @ <1121.000000, 1000.000000, 13367.000000>
+[EOnCallAirdrop] DropPoint Assigned: <1117.929932, 7.000000, 13364.463867> (±10m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NW2) border @ <16384.000000, 1000.000000, 9292.783203>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: -0.260852° / 104.946°, Text: 'East (105°)'
+[EOnCallAirdrop] Aircraft Dispatched to Deepwater, Crab Island 3 (16384/9292.78), from the East (105°).
+[EOnCallAirdrop] Next Scehduled Drop: 25 minutes (25/±0) .
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-04-03 @ 17-27-16] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: East of Area 42 @ <13815.000000, 1000.000000, 9815.000000>
+[EOnCallAirdrop] DropPoint Assigned: <13814.235352, 12.940000, 9819.849609> (±10m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NE2) border @ <0.000000, 1000.000000, 5354.663574>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: -2.8293° / 252.107°, Text: 'West (252°)'
+[EOnCallAirdrop] Aircraft Dispatched to East of Area 42 (0/5354.66), from the West (252°).
+[EOnCallAirdrop] Next Scehduled Drop: 25 minutes (25/±0) .
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!

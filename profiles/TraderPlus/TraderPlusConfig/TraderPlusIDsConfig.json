@@ -1,0 +1,764 @@
+{
+  "Version": "2.5",
+  "IDs": [
+    {
+      "Id": 0,
+      "Categories": [
+        "Vegetables",
+        "Packaged Food"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 1,
+      "Categories": [        
+        "Drinks"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 2,
+      "Categories": [
+        "Hardware Supplies",        
+        "Base Buidling",
+		"MMG Case",
+		"MMG Crafts",
+		"MMG Weapon Racks and Lockers",
+		"MMG Safe",
+		"MMG Various",
+		"MMG Gardening",
+		"Tents",		        
+        "SleepingBags",        
+        "Flag",
+        "Fluffy Pets <3",
+        "Fire & Lights",
+        "Seeds & Lime",
+        "Electronics",
+        "NVG Varients",        
+        "Tools (small)",
+        "Tools (big)"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 3,
+      "Categories": [
+        "Medications",
+        "Medical Supplies"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 4,
+      "Categories": [
+        "Sidearms",
+        "CBP WEAPONS PISTOLS",
+        "Shotguns",
+        "CBP WEAPONS Shotguns",
+        "Submachine Guns",
+        "CBP WEAPONS SMGS",
+        "Rifles",
+        "CPB WEAPONS RIFLES",
+        "Assault Rifles",
+        "CPB LMGS",
+        "SNAFU Weapons",
+        "Sniper Rifles",
+        "CBP WEAPONS SNIPERS",
+        "BM Rifles",
+        "Sniper Rifles",
+		"Deerisle Weapons",
+		"ESP Weapons"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 5,
+      "Categories": [
+        "Bayonets",
+        "CBP WEAPONS MAGAZINES",
+        "CBP WEAPONS ATTACHMENTS",
+        "CBP WEAPONS SCOPES",
+        "SNAFU Bipods",
+        "SNAFU Attachments",
+        "Flashlights",
+        "Magazines",
+        "SNAFU Magazines",
+        "Handguards",
+        "SNAFU HandGuards",
+        "Buttstocks",
+        "SNAFU Stocks",
+        "SNAFU Grips",
+        "Optics",
+        "SNAFU Scopes",
+        "Compensators",
+        "SNAFU Suppressors",
+        "Supressors"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 6,
+      "Categories": [
+        "SNAFU Ammo",
+        "CBP WEAPONS AMMO REGULAR",
+        "Ammunition"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 7,
+      "Categories": [
+        "Cooking & Hunting Supplies",
+        "Animal Parts",
+        "Meat"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 8,
+      "Categories": [
+        "Heli",        
+        "VehicleTools"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 9,
+      "Categories": [    
+        "Frankenstein Mustang",
+        "Raptor Don Bondino",       
+        "Frankenstein Mustang Parts",        
+        "Raptor Parts",               
+        "VehicleTools",
+        "Vehicles",
+        "Boats",        
+        "Vehicle Parts"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 10,
+      "Categories": [
+        "Glasses",
+        "Drippy Sneakers",
+        "Drippy Sneakers - Other",
+        "Holster & Pouches",
+        "Bags",
+        "Belt",
+        "Armbands",
+        "Gloves",
+        "Hats & Caps",
+        "Helmets",
+        "Masks",
+		"MMG NBC gear",
+		"MMG goggles",
+		"MMG Armored Helmet/Visor",
+		"MMG Sniper Boonie",
+		"MMG Chest Rig",
+		"MMG Plate Carriers",
+		"MMG Tactical-TEC Vest",
+		"MMG MK-III Armor",
+		"MMG Pouches",
+		"MMG Backpacks",
+		"MMG Belt",
+		"MMG Helmets",
+		"MMG Helmet Attachments",
+		"MMG Holster:",
+		"MMG Sheath",
+		"MMG Combatpants",
+		"MMG Tactical Pants",
+		"MMG Combatshirt",
+		"MMG Operator Shirt",
+		"MMG Tactical Shirt",
+		"MMG Tactical Gloves",
+		"MMG Jungle Boots",
+		"MMG Facemask",
+		"MMG Balaclava",
+		"MMG Patches Rubber",
+        "MMG Patches Fabric",		
+        "Shirts",
+		"STAG",
+        "Hoodies & Sweater",
+        "Vests",
+        "Plate Carrier",        
+        "Unknown Ghillies",
+        "Jackets & Coats",
+        "Skirts & Dresses",
+        "Pants",
+        "Shoes & Boots",
+        "WhiteCamo",
+        "Ghillie"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 11,
+      "Categories": [
+        "Money Exchange"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 12,
+      "Categories": [
+        "Explosives",
+        "CBP WEAPONS EXPLOSIVE AMMO",        
+        "Grenades"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 13,
+      "Categories": [
+        "Drugs"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 14,
+      "Categories": [
+        "Money Exchange"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 15,
+      "Categories": [
+        "Glasses",
+        "Drippy Sneakers",
+        "Drippy Sneakers - Other",
+        "Holster & Pouches",
+        "Bags",
+        "Belt",
+        "Armbands",
+        "Gloves",
+        "Hats & Caps",
+        "Helmets",
+        "Masks",
+		"MMG NBC gear",
+		"MMG goggles",
+		"MMG Armored Helmet/Visor",
+		"MMG Sniper Boonie",
+		"MMG Chest Rig",
+		"MMG Plate Carriers",
+		"MMG Tactical-TEC Vest",
+		"MMG MK-III Armor",
+		"MMG Pouches",
+		"MMG Backpacks",
+		"MMG Belt",
+		"MMG Helmets",
+		"MMG Helmet Attachments",
+		"MMG Holster:",
+		"MMG Sheath",
+		"MMG Combatpants",
+		"MMG Tactical Pants",
+		"MMG Combatshirt",
+		"MMG Operator Shirt",
+		"MMG Tactical Shirt",
+		"MMG Tactical Gloves",
+		"MMG Jungle Boots",
+		"MMG Facemask",
+		"MMG Balaclava",
+		"MMG Patches Rubber",
+        "MMG Patches Fabric",		
+        "Shirts",
+		"STAG",
+        "Hoodies & Sweater",
+        "Vests",
+        "Plate Carrier",        
+        "Unknown Ghillies",
+        "Jackets & Coats",
+        "Skirts & Dresses",
+        "Pants",
+        "Shoes & Boots",
+        "WhiteCamo",
+        "Ghillie"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 16,
+      "Categories": [
+        "Vegetables",
+        "Packaged Food"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 17,
+      "Categories": [
+        "MMG Bottle",
+        "Drinks"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 18,
+      "Categories": [
+        "Cooking & Hunting Supplies",
+        "Animal Parts",
+        "Meat"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 19,
+      "Categories": [
+        "Heli",        
+        "Helicopter Gear",
+        "VehicleTools"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 20,
+      "Categories": [
+        "Frankenstein Mustang",
+        "Raptor Don Bondino",       
+        "Frankenstein Mustang Parts",        
+        "Raptor Parts",               
+        "VehicleTools",
+        "Vehicles",
+        "Boats",        
+        "Vehicle Parts"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 21,
+      "Categories": [
+        "Hardware Supplies",        
+        "Base Buidling",
+		"MMG Case",
+		"MMG Crafts",
+		"MMG Weapon Racks and Lockers",
+		"MMG Safe",
+		"MMG Various",
+		"MMG Gardening",
+		"Tents",		        
+        "SleepingBags",        
+        "Flag",
+        "Fluffy Pets <3",
+        "Fire & Lights",
+        "Seeds & Lime",
+        "Electronics",
+        "NVG Varients",        
+        "Tools (small)",
+        "Tools (big)"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 22,
+      "Categories": [
+        "Medications",
+        "Medical Supplies"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 23,
+      "Categories": [
+        "Sidearms",
+        "CBP WEAPONS PISTOLS",
+        "Shotguns",
+        "CBP WEAPONS Shotguns",
+        "Submachine Guns",
+        "CBP WEAPONS SMGS",
+        "Rifles",
+        "CPB WEAPONS RIFLES",
+        "Assault Rifles",
+        "CPB LMGS",
+        "SNAFU Weapons",
+        "Sniper Rifles",
+        "CBP WEAPONS SNIPERS",
+        "BM Rifles",
+        "Sniper Rifles",
+		"Deerisle Weapons",
+		"ESP Weapons"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 24,
+      "Categories": [
+        "Bayonets",
+        "CBP WEAPONS MAGAZINES",
+        "CBP WEAPONS ATTACHMENTS",
+        "CBP WEAPONS SCOPES",
+        "SNAFU Bipods",
+        "SNAFU Attachments",
+        "Flashlights",
+        "Magazines",
+        "SNAFU Magazines",
+        "Handguards",
+        "SNAFU HandGuards",
+        "Buttstocks",
+        "SNAFU Stocks",
+        "SNAFU Grips",
+        "Optics",
+        "SNAFU Scopes",
+        "Compensators",
+        "SNAFU Suppressors",
+        "Supressors"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 25,
+      "Categories": [
+        "SNAFU Ammo",
+        "CBP WEAPONS AMMO REGULAR",
+        "Ammunition"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 26,
+      "Categories": [
+        "Bitcoin Exchange"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 27,
+      "Categories": [
+        "JMC Deer Isle"
+        
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 28,
+      "Categories": [        
+        "Heavy Vest Varients",
+		"MMG Heavy Armour",
+        "Operator Shirt Varients",
+        "Combat Pants Varients",
+        "Supply Bag Varients 300 slots",
+        "Carrier Backpack Varients 200 Slots",
+        "Striker Helmet Varients",
+        "Cargo Belt Varients",
+        "Ammo Pouch EOD Varients",
+        "Medical Pouch Varients",
+        "Sheath Varients",
+        "AERO",
+        "ED",
+        "EMR",
+        "EMR_H",
+        "Grey_Camo",
+        "Marpat",
+        "NWU",
+        "Red_Rose",
+        "STICK",
+        "UCP",
+        "WINTER",
+		"Stag"
+        
+        
+        
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 29,
+      "Categories": [
+        "Printer3d"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 30,
+      "Categories": [
+        "Hardware Supplies",        
+        "Base Buidling",
+		"MMG Case",
+		"MMG Crafts",
+		"MMG Weapon Racks and Lockers",
+		"MMG Safe",
+		"MMG Various",
+		"MMG Gardening",
+		"Tents",		        
+        "SleepingBags",        
+        "Flag",
+        "Fluffy Pets <3",
+        "Fire & Lights",
+        "Seeds & Lime",
+        "Electronics",
+        "NVG Varients",        
+        "Tools (small)",
+        "Tools (big)"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 31,
+      "Categories": [
+        "Heli",        
+        "Helicopter Gear",
+        "VehicleTools"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 32,
+      "Categories": [
+        "Frankenstein Mustang",
+        "Raptor Don Bondino",       
+        "Frankenstein Mustang Parts",        
+        "Raptor Parts",               
+        "VehicleTools",
+        "Vehicles",
+        "Boats",        
+        "Vehicle Parts"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 33,
+      "Categories": [
+        "SNAFU Ammo",
+        "CBP WEAPONS AMMO REGULAR",
+        "Ammunition"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 34,
+      "Categories": [
+        "MagazineLoading",
+		"Kreios Umbrella Corp",
+        "Survivor Backpack"        
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 35,
+      "Categories": [
+        "Vegetables",
+        "Packaged Food"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 36,
+      "Categories": [        
+        "Drinks"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 37,
+      "Categories": [
+        "Bitcoin Exchange"       
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 38,
+      "Categories": [
+        "Sidearms",
+        "CBP WEAPONS PISTOLS",
+        "Shotguns",
+        "CBP WEAPONS Shotguns",
+        "Submachine Guns",
+        "CBP WEAPONS SMGS",
+        "Rifles",
+        "CPB WEAPONS RIFLES",
+        "Assault Rifles",
+        "CPB LMGS",
+        "SNAFU Weapons",
+        "Sniper Rifles",
+        "CBP WEAPONS SNIPERS",
+        "BM Rifles",
+        "Sniper Rifles",
+        "MMG Carbine",
+		"Deerisle Weapons",
+		"ESP Weapons"
+        
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 39,
+      "Categories": [
+        "Bayonets",
+        "CBP WEAPONS MAGAZINES",
+        "CBP WEAPONS ATTACHMENTS",
+        "CBP WEAPONS SCOPES",
+        "Modern Scopes",
+        "SNAFU Bipods",
+        "SNAFU Attachments",
+        "Flashlights",
+        "Magazines",
+        "SNAFU Magazines",
+        "Handguards",
+        "SNAFU HandGuards",
+        "Buttstocks",
+        "SNAFU Stocks",
+        "SNAFU Grips",
+        "Optics",
+        "SNAFU Scopes",
+        "Compensators",
+        "SNAFU Suppressors",
+        "Supressors"
+		
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 40,
+      "Categories": [        
+        "Heavy Vest Varients",
+		"MMG Heavy Armour",
+        "Operator Shirt Varients",
+        "Combat Pants Varients",
+        "Supply Bag Varients 300 slots",
+        "Carrier Backpack Varients 200 Slots",
+        "Striker Helmet Varients",
+        "Cargo Belt Varients",
+        "Ammo Pouch EOD Varients",
+        "Medical Pouch Varients",
+        "Sheath Varients",
+        "AERO",
+        "ED",
+        "EMR",
+        "EMR_H",
+        "Grey_Camo",
+        "Marpat",
+        "NWU",
+        "Red_Rose",
+        "STICK",
+        "UCP",
+        "WINTER",
+		"Stag"
+		
+        
+        
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 41,
+      "Categories": [
+        "Glasses",
+        "Drippy Sneakers",
+        "Drippy Sneakers - Other",
+        "Holster & Pouches",
+        "Bags",
+        "Belt",
+        "Armbands",
+        "Gloves",
+        "Hats & Caps",
+        "Helmets",
+        "Masks",
+        "Shirts",
+        "Hoodies & Sweater",
+        "Vests",
+        "Plate Carrier",        
+        "Jackets & Coats",
+        "Skirts & Dresses",
+        "Pants",
+        "Shoes & Boots",
+        "WhiteCamo",
+        "Ghillie"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 42,
+      "Categories": [
+        "Cooking & Hunting Supplies",
+        "Animal Parts",
+        "Meat"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 43,
+      "Categories": [
+        "Explosives",
+        "CBP WEAPONS EXPLOSIVE AMMO"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 44,
+      "Categories": [
+        "MMG Raid Tools"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 45,
+      "Categories": [
+        "JMC Deer Isle"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 46,
+      "Categories": [
+        "Medications",
+        "Medical Supplies"
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    },
+    {
+      "Id": 47,
+      "Categories": [
+        "JMC Deer Isle"
+       
+      ],
+      "LicencesRequired": [],
+      "CurrenciesAccepted": []
+    }
+  ]
+}

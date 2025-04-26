@@ -1,0 +1,39 @@
+{
+    "Version": "2.5",
+    "IsHideOutActive": 0,
+    "EnableAfkDisconnect": 0,
+    "KickAfterDelay": 30,
+    "MsgEnterZone": "You Have Entered The Safe Zone!",
+    "MsgExitZone": "You Have Left The Safe Zone!",
+    "MsgOnLeavingZone": "You're leaving the safezone in:",
+    "MustRemoveArmband": "You must remove your armband in order to make your stash appear !",
+    "SafeAreaLocation": [
+        {
+            "SafeZoneStatut": "Trader",
+            "X": 7532.17236328125,
+            "Y": 4613.6875,
+            "Radius": 200.0,
+            "Countdown": 10
+        },
+		{
+            "SafeZoneStatut": "TraderPortland",
+            "X": 6044.47998046875,
+            "Y": 13388.099609375,
+            "Radius": 200.0,
+            "Countdown": 10
+        }
+    ],
+    "CleanUpTimer": 1200,
+    "WhitelistEntities": [
+        "Animal_CervusElaphus"
+    ],
+    "ObjectsToDelete": [
+        "Paper"
+    ],
+    "SZSteamUIDs": [
+        "76561198003652661"
+    ],
+    "BlackListedItemInStash": [
+        "Apple"
+    ]
+}

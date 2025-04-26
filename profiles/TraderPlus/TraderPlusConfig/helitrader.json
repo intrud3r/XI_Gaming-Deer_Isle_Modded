@@ -1,0 +1,18 @@
+ {
+      "CategoryName": "Heli",
+      "Products": [
+        "Helipolice_SIB4_clear,1,-1,1,1800000,500000",
+        "Helipolice_swat_SIB5_clear,1,-1,1,2200000,500000",
+        "HeliSIB_UH1D_clear,1,-1,1,2200000,500000",
+        "HeliSIB_UH1D_airforce_clear,1,-1,1,2400000,500000",
+        "HeliSIB_UH1D_iron_clear,1,-1,1,2200000,500000",
+        "HeliSIB_UH1D_navy_clear,1,-1,1,2500000,500000",
+        "Heliblack_hawk_SIB_clear,1,-1,1,2500000,500000",
+        "Heliblack_hawk_SIB_camo_clear,1,-1,1,3200000,500000",
+        "HeliMI17_SIB_clear,1,-1,1,-1,1000000",
+        "HeliMH6_SIB_clear,1,-1,1,1500000,600000",
+        "HeliSIB_hommade_clear,1,-1,1,550000,100000",
+        "Heliec135_SIB_clear,1,-1,1,2600000,600000",
+        "Heliec135_SIB_hell_clear,1,-1,1,2800000,600000"
+      ]
+    },
