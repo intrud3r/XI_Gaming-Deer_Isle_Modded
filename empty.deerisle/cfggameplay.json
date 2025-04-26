@@ -12,13 +12,13 @@
 	     "spawnGearPresetFiles": ["custom/vanillaplus_loadout.json"],
           "StaminaData": 
 	    {
-			"sprintStaminaModifierErc": 0.75,
-			"sprintStaminaModifierCro": 0.75,
+			"sprintStaminaModifierErc": 1.00,
+			"sprintStaminaModifierCro": 1.00,
 			"staminaWeightLimitThreshold": 8000.0,
 			"staminaMax": 100.0,
 			"staminaKgToStaminaPercentPenalty": 0.75,
 			"staminaMinCap": 5.0,
-			"sprintSwimmingStaminaModifier": 1.0,
+			"sprintSwimmingStaminaModifier": 0.5,
 			"sprintLadderStaminaModifier": 1.0,
 			"meleeStaminaModifier": 0.5,
 			"obstacleTraversalStaminaModifier": 1.0,
