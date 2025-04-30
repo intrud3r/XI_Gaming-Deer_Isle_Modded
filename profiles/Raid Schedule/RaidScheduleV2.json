@@ -1,0 +1,10 @@
+{
+    "RaidDays": [
+        {
+            "DayOfWeek": "Sunday",
+            "StartHour": 17,
+            "StartMinute": 0,
+            "Duration": 240
+        }
+    ]
+}
