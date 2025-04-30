@@ -171,10 +171,10 @@
     <!-- These are the default spawn -->
     <!-- Set up as military spawns -->
     <type name="DNA_KeyCard_Red_Inactive">
-        <nominal>2</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>100</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -183,10 +183,10 @@
         <usage name="Military"/>
     </type>
     <type name="DNA_KeyCard_Purple_Inactive">
-        <nominal>4</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>100</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
