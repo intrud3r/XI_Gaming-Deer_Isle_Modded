@@ -1,10 +1,22 @@
 {
     "RaidDays": [
         {
-            "DayOfWeek": "Sunday",
+            "DayOfWeek": "Friday",
             "StartHour": 17,
             "StartMinute": 0,
             "Duration": 240
-        }
+        },
+        {
+            "DayOfWeek": "Saturday",
+            "StartHour": 17,
+            "StartMinute": 0,
+            "Duration": 240
+        },
+        {
+            "DayOfWeek": "Sunday",
+            "StartHour": 17,
+            "StartMinute": 0,
+            "Duration": 120
+        },
     ]
 }
