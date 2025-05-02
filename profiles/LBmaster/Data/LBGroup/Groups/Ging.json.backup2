@@ -1,0 +1,74 @@
+{
+    "name": "StrawberryBlondes",
+    "shortname": "Ging",
+    "level": 0,
+    "lastActivity": 1745116385,
+    "creationDate": 1745106144,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 1,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 422523646,
+            "name": "Sora",
+            "icon": "",
+            "position": [
+                7499.658203125,
+                91.26997375488281,
+                4596.22705078125
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561198055828193",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 67.03759002685547,
+            "tempMember": 0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 1043037372,
+            "name": "body",
+            "icon": "LBmaster_Groups\\gui\\icons\\marker.paa",
+            "position": [
+                5519.2255859375,
+                74.0,
+                3783.24609375
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "76561198055828193",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        }
+    ]
+}

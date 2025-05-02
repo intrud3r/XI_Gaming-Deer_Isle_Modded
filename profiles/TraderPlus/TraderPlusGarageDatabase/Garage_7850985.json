@@ -1,0 +1,26 @@
+{
+    "OwnerName": "Rock",
+    "OwnerID": "7850985",
+    "ParkingPosition": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "ParkingOrientation": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "Vehicles": [
+        {
+            "VehicleName": "Heliblack_hawk_SIB_camo_clear",
+            "VehicleCargoId": 1746139715,
+            "VehicleID": 68727176,
+            "Timestamp": 0,
+            "EngineHealth": 4000.0,
+            "FuelAmmount": 0.0,
+            "CollateralMoney": 0,
+            "ItemsInCargo": []
+        }
+    ]
+}

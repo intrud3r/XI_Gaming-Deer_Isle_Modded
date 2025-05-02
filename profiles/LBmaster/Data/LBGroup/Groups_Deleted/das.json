@@ -1,0 +1,99 @@
+{
+    "name": "hiyou",
+    "shortname": "das",
+    "level": 0,
+    "lastActivity": 1745117876,
+    "creationDate": 1744879744,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 416952917,
+            "name": "jake7534",
+            "icon": "",
+            "position": [
+                7143.97998046875,
+                41.91936492919922,
+                2357.756591796875
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561199643745834",
+            "permissionGroup": 9,
+            "online": 1,
+            "health": 67.53925323486328,
+            "tempMember": 0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 2085419165,
+            "name": "has",
+            "icon": "LBmaster_Groups\\gui\\icons\\marker.paa",
+            "position": [
+                8259.658203125,
+                5.130000114440918,
+                8830.505859375
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "76561199643745834",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        },
+        {
+            "type": 3,
+            "uid": 1176800418,
+            "name": "#lb_ag_marker_death_pos: jake7534",
+            "icon": "LBmaster_Groups\\gui\\icons\\skull.paa",
+            "position": [
+                9045.275390625,
+                10.549758911132813,
+                9286.9921875
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 0,
+            "creatorSteamID": "76561199643745834_D",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        }
+    ]
+}

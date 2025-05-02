@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Stonington",
+        "lastSpawn": 1742856758,
+        "bagID": 0,
+        "type": 0
+    },
+    {
+        "name": "Camp Wolf",
+        "lastSpawn": 0,
+        "bagID": 0,
+        "type": 0
+    },
+    {
+        "name": "Waldoboro",
+        "lastSpawn": 1742839850,
+        "bagID": 0,
+        "type": 0
+    },
+    {
+        "name": "Sleeping Bag",
+        "lastSpawn": 1742991715,
+        "bagID": 1742991714,
+        "type": 1
+    }
+]

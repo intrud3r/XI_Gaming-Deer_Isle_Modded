@@ -1,0 +1,74 @@
+{
+    "name": "Tweakers",
+    "shortname": "Tweak",
+    "level": 0,
+    "lastActivity": 1743697783,
+    "creationDate": 1743568396,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 1373086710,
+            "name": "T1MM3L",
+            "icon": "",
+            "position": [
+                7073.31201171875,
+                7.715612411499023,
+                5344.3798828125
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561199567555002",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 47.80987548828125,
+            "tempMember": 0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 178132467,
+            "name": "Groot Trader",
+            "icon": "LBmaster_Groups\\gui\\icons\\safezone.paa",
+            "position": [
+                7551.54052734375,
+                87.66999816894531,
+                4611.4599609375
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 0,
+            "colorG": 255,
+            "colorB": 12,
+            "creatorSteamID": "76561199567555002",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        }
+    ]
+}

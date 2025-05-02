@@ -1,0 +1,74 @@
+{
+    "name": "Stephanie",
+    "shortname": "SAG",
+    "level": 0,
+    "lastActivity": 1745161478,
+    "creationDate": 1745160227,
+    "showTagInChat": 1,
+    "hasCustomChatColor": 0,
+    "customChatColorAppliedByPlayer": 0,
+    "chatColorR": 0,
+    "chatColorG": 0,
+    "chatColorB": 0,
+    "hasATMAccount": 0,
+    "ATMBalance": 0,
+    "members": [
+        {
+            "type": 4,
+            "uid": 1290181147,
+            "name": "Stephanie",
+            "icon": "",
+            "position": [
+                5992.6533203125,
+                54.07042694091797,
+                4076.6083984375
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0,
+            "steamid": "76561199548828479",
+            "permissionGroup": 9,
+            "online": 0,
+            "health": 69.97799682617188,
+            "tempMember": 0
+        }
+    ],
+    "markers": [
+        {
+            "type": 3,
+            "uid": 1036286959,
+            "name": "Base",
+            "icon": "LBmaster_Groups\\gui\\icons\\flag.paa",
+            "position": [
+                5999.34716796875,
+                52.09749221801758,
+                4076.207275390625
+            ],
+            "currentSubgroup": 0,
+            "colorA": 255,
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 255,
+            "creatorSteamID": "",
+            "circleRadius": 0.0,
+            "circleColorA": 255,
+            "circleColorR": 255,
+            "circleColorG": 255,
+            "circleColorB": 255,
+            "circleStriked": 0,
+            "circleLayer": -1,
+            "showAllPlayerNametags": 0
+        }
+    ]
+}

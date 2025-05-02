@@ -1,0 +1,36 @@
+{
+    "OwnerName": "{G3R}_Hou$3",
+    "OwnerID": "16475215",
+    "ParkingPosition": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "ParkingOrientation": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "Vehicles": [
+        {
+            "VehicleName": "jmc_atv_Green",
+            "VehicleCargoId": 1742910497,
+            "VehicleID": 88885678,
+            "Timestamp": 0,
+            "EngineHealth": 5000.0,
+            "FuelAmmount": 27.46537208557129,
+            "CollateralMoney": 0,
+            "ItemsInCargo": []
+        },
+        {
+            "VehicleName": "Candy_MustFrank",
+            "VehicleCargoId": 1742934075,
+            "VehicleID": 88885678,
+            "Timestamp": 0,
+            "EngineHealth": 22000.0,
+            "FuelAmmount": 49.17338180541992,
+            "CollateralMoney": 0,
+            "ItemsInCargo": []
+        }
+    ]
+}

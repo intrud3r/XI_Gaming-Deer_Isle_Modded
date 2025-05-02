@@ -1,0 +1,7659 @@
+[
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "Sir Trippy",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "TWISTED",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "HuntingKnife",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [],
+        "itemnameMaterials": [],
+        "attachments": [],
+        "distance": 1,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 2,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198003652661",
+        "killerSteamid": "76561199562419227",
+        "victimLog": " TWISTED (76561198003652661)",
+        "killerLog": " Sir Trippy (76561199562419227)",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            7683.85546875,
+            33.40769577026367,
+            1813.699462890625
+        ],
+        "killerPos": [
+            7684.37939453125,
+            34.33404541015625,
+            1814.5538330078126
+        ],
+        "date": 1742656916,
+        "bleedingSources": 4,
+        "bloodLevel": 4521
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "BOT (ZmbM_PatrolNormal_Summer)",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Rage",
+        "victimGroup": "[ym]",
+        "victimTag": "",
+        "killerItemClassname": "ZmbM_PatrolNormal_Summer",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\zombies\\data\\patrol_normal_m_summer_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198352827856",
+        "killerSteamid": "",
+        "victimLog": "[ym] Rage (76561198352827856)",
+        "killerLog": "BOT",
+        "victimBot": 0,
+        "killerBot": 1,
+        "victimPos": [
+            6175.0673828125,
+            23.06597328186035,
+            13659.083984375
+        ],
+        "killerPos": [
+            6174.51318359375,
+            23.165796279907228,
+            13659.8251953125
+        ],
+        "date": 1742659579,
+        "bleedingSources": 2,
+        "bloodLevel": 3292
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Rage",
+        "victimGroup": "[ym]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Taiki",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_taiki\\hhl_m_taiki_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "BeanieHat_Pink",
+            "HandsCover_Improvised",
+            "WoodAxe",
+            "",
+            "",
+            "Hoodie_Blue",
+            "AthleticShoes_Brown",
+            "",
+            "",
+            "CargoPants_Blue",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198352827856",
+        "killerSteamid": "Unknown",
+        "victimLog": "[ym] Rage (76561198352827856)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            7975.37451171875,
+            2.0341925621032717,
+            8368.04296875
+        ],
+        "killerPos": [
+            7975.37451171875,
+            2.0341925621032717,
+            8368.04296875
+        ],
+        "date": 1742663608,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "TWISTED",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Linda",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_linda_2\\hhl_f_linda_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Hoodie_Grey",
+            "AthleticShoes_Grey",
+            "",
+            "",
+            "CargoPants_Beige",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198003652661",
+        "killerSteamid": "Unknown",
+        "victimLog": " TWISTED (76561198003652661)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5913.00634765625,
+            14.640381813049317,
+            1223.06640625
+        ],
+        "killerPos": [
+            5913.00634765625,
+            14.640381813049317,
+            1223.06640625
+        ],
+        "date": 1742664239,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "TWISTED",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Judy",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_judy\\hhl_f_judy_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Hoodie_Brown",
+            "AthleticShoes_Grey",
+            "",
+            "",
+            "CargoPants_Green",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198003652661",
+        "killerSteamid": "Unknown",
+        "victimLog": " TWISTED (76561198003652661)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5907.73291015625,
+            36.66326141357422,
+            1084.4541015625
+        ],
+        "killerPos": [
+            5907.73291015625,
+            36.66326141357422,
+            1084.4541015625
+        ],
+        "date": 1742664286,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Ov3rKi11",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Gabi",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_gabi_2\\hhl_f_gabi_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "ZmijovkaCap_Green",
+            "",
+            "CZ550",
+            " ",
+            " Mag_CZ550_10rnd",
+            " HuntingOptic",
+            " ",
+            "",
+            "HuntingBag",
+            " ",
+            " OrienteeringCompass",
+            " Chemlight_White",
+            "HuntingJacket_Autumn",
+            "HikingBoots_Brown",
+            "",
+            "",
+            "CargoPants_Grey",
+            "",
+            "UKAssVest_Olive",
+            " ",
+            " ",
+            " ",
+            " ",
+            "",
+            "Mosin9130",
+            " ",
+            " Mosin_Compensator",
+            " ",
+            " ",
+            " ",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 11,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198371187382",
+        "killerSteamid": "Unknown",
+        "victimLog": " Ov3rKi11 (76561198371187382)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5366.40673828125,
+            74.0119857788086,
+            3620.798583984375
+        ],
+        "killerPos": [
+            5366.40673828125,
+            74.0119857788086,
+            3620.798583984375
+        ],
+        "date": 1742666116,
+        "bleedingSources": 1,
+        "bloodLevel": 2481
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "BOT (ZmbM_usSoldier_normal_Desert)",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Ov3rKi11",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "ZmbM_usSoldier_normal_Desert",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            ""
+        ],
+        "itemnameMaterials": [
+            "dz\\characters\\zombies\\data\\ussoldier_normal_m.rvmat"
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198371187382",
+        "killerSteamid": "",
+        "victimLog": " Ov3rKi11 (76561198371187382)",
+        "killerLog": "BOT",
+        "victimBot": 0,
+        "killerBot": 1,
+        "victimPos": [
+            5486.13671875,
+            74.01200866699219,
+            3792.493896484375
+        ],
+        "killerPos": [
+            5486.509765625,
+            74.04000091552735,
+            3793.026611328125
+        ],
+        "date": 1742667829,
+        "bleedingSources": 1,
+        "bloodLevel": 3049
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "Ov3rKi11",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "SUPAFLY",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "CZ550",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            ""
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "Mag_CZ550_10rnd",
+            "HuntingOptic",
+            ""
+        ],
+        "distance": 2,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": 3,
+        "type": 3,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198003652661",
+        "killerSteamid": "76561198371187382",
+        "victimLog": " SUPAFLY (76561198003652661)",
+        "killerLog": " Ov3rKi11 (76561198371187382)",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            3496.65673828125,
+            11.447278022766114,
+            7953.8681640625
+        ],
+        "killerPos": [
+            3497.228271484375,
+            12.390632629394532,
+            7951.64501953125
+        ],
+        "date": 1742742927,
+        "bleedingSources": 2,
+        "bloodLevel": 4857
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "SUPAFLY",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Judy",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_judy\\hhl_f_judy_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Hoodie_Black",
+            "AthleticShoes_Brown",
+            "",
+            "",
+            "CargoPants_Green",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 11,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198003652661",
+        "killerSteamid": "Unknown",
+        "victimLog": " SUPAFLY (76561198003652661)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            9124.5068359375,
+            5.141965389251709,
+            8950.4443359375
+        ],
+        "killerPos": [
+            9124.5068359375,
+            5.141965389251709,
+            8950.4443359375
+        ],
+        "date": 1742743133,
+        "bleedingSources": 3,
+        "bloodLevel": 2486
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Survivor",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Elias",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_elias\\hhl_m_elias_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "BaseballCap_Camo",
+            "",
+            "",
+            "",
+            "DryBag_Green",
+            " ",
+            " ",
+            " ",
+            "BomberJacket_Black",
+            "AthleticShoes_Grey",
+            "",
+            "",
+            "Renegade_BlackGreenCargoPants",
+            " ",
+            " ",
+            " ",
+            " ",
+            "",
+            "Renegade_BlackYellowPixelPlateCarrier",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199806159504",
+        "killerSteamid": "Unknown",
+        "victimLog": " Survivor (76561199806159504)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            6627.67138671875,
+            32.028587341308597,
+            2882.466064453125
+        ],
+        "killerPos": [
+            6627.67138671875,
+            32.028587341308597,
+            2882.466064453125
+        ],
+        "date": 1742751118,
+        "bleedingSources": 0,
+        "bloodLevel": 4796
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Survivor",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Baty",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_baty\\hhl_f_baty_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "BomberJacket_Maroon",
+            "AthleticShoes_Black",
+            "",
+            "",
+            "CargoPants_Black",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199806159504",
+        "killerSteamid": "Unknown",
+        "victimLog": " Survivor (76561199806159504)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            6417.5458984375,
+            2.4182825088500978,
+            1086.3233642578126
+        ],
+        "killerPos": [
+            6417.5458984375,
+            2.4182825088500978,
+            1086.3233642578126
+        ],
+        "date": 1742753113,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "F11 Simulator",
+        "victimGroup": "[ym]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Maria",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_maria_2\\hhl_f_maria_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "MMG_striker_helmet_multicamblack",
+            " ",
+            " mmg_gp_nvg_green",
+            "  Battery9V",
+            "mmg_tactical_gloves_erdl",
+            "GCGN_M200_Tan",
+            " SNAFU_Kahles",
+            "  ",
+            " Renegade_BlueGrungeGhillieWrap",
+            " GCGN_M200_Mag",
+            " SNAFU_50bmg_Suppressor_U",
+            " ",
+            " SNAFU_M200B_BK",
+            " SNAFU_M200S_Tan",
+            "Renegade_DarkCamoGhillieArmband",
+            " jmc_mjolnir",
+            " ",
+            " ",
+            " ",
+            " ",
+            " Renegade_ForestFirstAidKit",
+            "",
+            "Renegade_ForestGorkaJacket",
+            " SNAFU_ScarH_100RND_Mag_Black",
+            " ",
+            " SNAFU_ScarH_100RND_Mag_Black",
+            " ",
+            "jmc_Military_Mountain_Boots_Black",
+            " ",
+            "",
+            "",
+            "mmg_tactical_pants_multicam",
+            "Renegade_GreenCamo_3_BalaclavaMask",
+            "MMG_MK_III_Armor_atacs",
+            " MMG_tactical_pouch_atacs",
+            " MMG_Med_Pouch_tan",
+            " Renegade_BlackGreenPlateCarrierPouches",
+            " MMG_patch_rubber_511",
+            " FlashGrenade",
+            "",
+            "Snafu_ScarH_DKMC_GUN",
+            " ",
+            " ",
+            " SNAFU_ModBipod",
+            " ",
+            " SNAFU_ScarH_100RND_Mag_Black",
+            " ",
+            " SNAFUScar_AFG_BK",
+            " ",
+            " ESP_Wrapped_Suppressor_Black",
+            " ",
+            " ",
+            " ",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198352827856",
+        "killerSteamid": "Unknown",
+        "victimLog": "[ym] F11 Simulator (76561198352827856)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            8329.634765625,
+            226.25576782226563,
+            12435.0419921875
+        ],
+        "killerPos": [
+            8329.634765625,
+            226.25576782226563,
+            12435.0419921875
+        ],
+        "date": 1742829814,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "F11 Simulator",
+        "victimGroup": "[ym]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Lewis",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_lewis\\hhl_m_lewis_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Hoodie_Brown",
+            "AthleticShoes_Black",
+            "",
+            "",
+            "CargoPants_Blue",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198352827856",
+        "killerSteamid": "Unknown",
+        "victimLog": "[ym] F11 Simulator (76561198352827856)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            9259.17578125,
+            5.141993999481201,
+            9129.46875
+        ],
+        "killerPos": [
+            9259.17578125,
+            5.141993999481201,
+            9129.46875
+        ],
+        "date": 1742829899,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "BeerGoat>XI<",
+        "killerGroup": "",
+        "killerTag": "[Admin]",
+        "victimName": "Druss",
+        "victimGroup": "[ym]",
+        "victimTag": "",
+        "killerItemClassname": "MK18_Gun",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "guns_01\\data\\mk18\\textures\\body_co.paa",
+            "guns_01\\data\\mk18\\textures\\plastic_co.paa"
+        ],
+        "itemnameMaterials": [
+            "guns_01\\data\\mk18\\textures\\body.rvmat",
+            "guns_01\\data\\mk18\\textures\\plastic.rvmat"
+        ],
+        "attachments": [
+            "SNAFU_FGKAC_Grip",
+            "SNAFU_Tango6T_Snow",
+            " Battery9V",
+            "",
+            "SNAFU_PMAG556_OD",
+            "",
+            "",
+            "",
+            "SNAFU_Standardized_Suppressor_Black",
+            "",
+            ""
+        ],
+        "distance": 61,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": 0,
+        "type": 3,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198844058378",
+        "killerSteamid": "76561198021285125",
+        "victimLog": "[ym] Druss (76561198844058378)",
+        "killerLog": " BeerGoat>XI< (76561198021285125)",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            2501.6259765625,
+            38.06302261352539,
+            3328.599609375
+        ],
+        "killerPos": [
+            2548.427490234375,
+            50.74920654296875,
+            3290.735107421875
+        ],
+        "date": 1742838667,
+        "bleedingSources": 2,
+        "bloodLevel": 4927
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "F11 Simulator",
+        "killerGroup": "[ym]",
+        "killerTag": "",
+        "victimName": "BeerGoat>XI<",
+        "victimGroup": "",
+        "victimTag": "[Admin]",
+        "killerItemClassname": "GCGN_M200_Tan",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "gcgn_guns\\data\\m200\\new_textures\\snafubodytan_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "SNAFU_Kahles",
+            " ",
+            "",
+            "GCGN_M200_Mag",
+            "SNAFU_50bmg_Suppressor_U",
+            "",
+            "SNAFU_M200B_BK",
+            "SNAFU_M200S_Tan"
+        ],
+        "distance": 147,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": 0,
+        "type": 3,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198021285125",
+        "killerSteamid": "76561198352827856",
+        "victimLog": " BeerGoat>XI< (76561198021285125)",
+        "killerLog": "[ym] F11 Simulator (76561198352827856)",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            2543.835693359375,
+            50.1909294128418,
+            3291.8798828125
+        ],
+        "killerPos": [
+            2581.470947265625,
+            35.631813049316409,
+            3434.1826171875
+        ],
+        "date": 1742838695,
+        "bleedingSources": 1,
+        "bloodLevel": 4121
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "F11 Simulator",
+        "victimGroup": "[ym]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Naomi",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_naomi\\hhl_f_naomi_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "Arms_Admin",
+            "",
+            "",
+            "",
+            "Top_Admin",
+            "Boots_Admin",
+            "Head_Admin",
+            "",
+            "Pants_Admin",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198352827856",
+        "killerSteamid": "Unknown",
+        "victimLog": "[ym] F11 Simulator (76561198352827856)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            4635.54248046875,
+            41.78468704223633,
+            3111.0888671875
+        ],
+        "killerPos": [
+            4635.54248046875,
+            41.78468704223633,
+            3111.0888671875
+        ],
+        "date": 1742842261,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "F11 Simulator",
+        "victimGroup": "[ym]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Jose",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_jose\\hhl_m_jose_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Hoodie_Red",
+            "AthleticShoes_Green",
+            "",
+            "",
+            "CargoPants_Beige",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 0,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198352827856",
+        "killerSteamid": "Unknown",
+        "victimLog": "[ym] F11 Simulator (76561198352827856)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            9143.009765625,
+            5.130000114440918,
+            8914.158203125
+        ],
+        "killerPos": [
+            9143.009765625,
+            5.130000114440918,
+            8914.158203125
+        ],
+        "date": 1742842285,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "Sir Trippy",
+        "killerGroup": "[ym]",
+        "killerTag": "",
+        "victimName": "London",
+        "victimGroup": "[ym]",
+        "victimTag": "",
+        "killerItemClassname": "M67Grenade",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            ""
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [],
+        "distance": 5,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 4,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198080386308",
+        "killerSteamid": "76561199562419227",
+        "victimLog": "[ym] London (76561198080386308)",
+        "killerLog": "[ym] Sir Trippy (76561199562419227)",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            366.516845703125,
+            53.287200927734378,
+            740.2296142578125
+        ],
+        "killerPos": [
+            366.8497314453125,
+            55.31196594238281,
+            744.8724365234375
+        ],
+        "date": 1742871002,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "London",
+        "victimGroup": "[ym]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Keiko",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_keiko\\hhl_f_keiko_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "Renegade_RedGreyCamoHelmet",
+            " ",
+            " ",
+            " ",
+            " mmg_gp_nvg_green",
+            "  Battery9V",
+            "STAG_Clothing_TacticalGloves",
+            "jmc_SnowOwl",
+            " jmc_SnowOwl_Optic",
+            " ",
+            " jmc_SnowOwl_Mag",
+            "Renegade_Armband_Galaxy",
+            " M14",
+            "  ",
+            "  ",
+            "  ",
+            "  ",
+            " Renegade_ForestPlateCarrierPouches",
+            " Renegade_DarkCamoWaterProofBag",
+            " SNAFU_M300Green",
+            "  ",
+            "  ",
+            "  ",
+            "  SNAFU_M300Mag",
+            "  SNAFU_50bmg_Suppressor_U",
+            "  ",
+            "  ",
+            " Renegade_OrangeCamoWaterProofBag",
+            " FirstAidKit",
+            "Renegade_RedGreyCamoCoyoteBackpack",
+            " MMG_sheath_multicamblack",
+            "  HuntingKnife",
+            " MMG_bottle_black",
+            " MMG_Holster_multicam_tropic",
+            "  ",
+            " Renegade_OrangeLinesPlateCarrierPouches",
+            " SNAFU_RPK16_Tan_Mag",
+            " Mag_STANAG_60Rnd",
+            " SNAFU_RPK16_Green",
+            "  M68Optic",
+            "   ",
+            "  ",
+            "  SNAFU_RPK16_Black_Mag",
+            "  ",
+            "  ",
+            "  SNAFU_Standardized_Suppressor_Black",
+            " SNAFU_RPK16_Tan_Mag",
+            " Renegade_MilitaryCamoWaterProofBag",
+            " STAG_Clothing_Pouches",
+            " CookingStand",
+            " Renegade_RedScaleWaterProofBag",
+            " ",
+            " ",
+            " SNAFU_LVOA556_GUN",
+            "  ",
+            "  ",
+            "  ",
+            "  SNAFU_Tango6T_Black",
+            "   ",
+            "  ",
+            "  SNAFU_CMAG60556_Tan",
+            "  SNAFU_TACGripColtA2_BK",
+            "  SNAFU_PRSGen3_Stock",
+            "  ",
+            "  SNAFU_LStandardized_Suppressor_Black",
+            "  SNAFU_LVOAHG",
+            "  ",
+            "  SNAFU_PEQ1_Laser",
+            "   ",
+            " Renegade_RedCamoFirstAidKit",
+            " ",
+            " Renegade_Crazy_1000slotPouches",
+            " ",
+            "Renegade_BlueGrunge_2M65Jacket",
+            " ",
+            " kar98",
+            "  ",
+            "  ",
+            "  ",
+            "  ",
+            " ",
+            " SNAFUKivaari_Grey_GUN",
+            "  ",
+            "  SNAFU_ModBipod",
+            "  ",
+            "  SNAFUKivaari_10rdMag",
+            "  UniversalLight",
+            "   ",
+            "  SNAFUKivaari_338_Supp",
+            "  SNAFU_HKahles",
+            "   ",
+            "STAG_Clothing_Boots_PT",
+            "",
+            "HipPack_Medical",
+            " DONDRINK_CANTEEN_TAN",
+            "Renegade_RedGreyCamo_HuntingPants",
+            " ",
+            " ",
+            " ",
+            " SV98",
+            "  VTR_SigSauerTango",
+            "  ",
+            "  ",
+            "  SNAFU_Standardized_Suppressor_Black",
+            "MMG_balaclava_black",
+            "MMG_MK_III_Armor_black",
+            " MMG_ammo_pouch_black",
+            " MMG_Med_Pouch_black",
+            " Renegade_PureBlackPlateCarrierPouches",
+            " MMG_patch_rubber_germany",
+            " RGD5Grenade",
+            "",
+            "jmc_Prototype_White",
+            " ",
+            " jmc_Prototype_Mag",
+            " jmc_Prototype_Optic_White",
+            "",
+            "",
+            "SkiGoggles_WhiteClear"
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198080386308",
+        "killerSteamid": "Unknown",
+        "victimLog": "[ym] London (76561198080386308)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            6341.849609375,
+            72.4089584350586,
+            14187.2978515625
+        ],
+        "killerPos": [
+            6341.849609375,
+            72.4089584350586,
+            14187.2978515625
+        ],
+        "date": 1742931059,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Ov3rKi11",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Taiki",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_taiki\\hhl_m_taiki_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "MMG_tactical_helmet_erdl",
+            " ",
+            " ",
+            " UniversalLight",
+            "  Battery9V",
+            " mmg_gp_nvg_tan",
+            "  Battery9V",
+            "mmg_tactical_gloves_tan",
+            "CZ550",
+            " GhillieAtt_Woodland",
+            " Mag_CZ550_10rnd",
+            " Renegade_GreenGrunge_HuntingOptic",
+            " SNAFU_Standardized_Suppressor_Black",
+            "",
+            "Renegade_ForestGreenTortillaBag",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " SNAFUGM6Lynx",
+            "  ",
+            "  ",
+            "  Renegade_CamoScaleGhillieWrap",
+            "  SNAFUGM6Lynx_5rdMag",
+            "  HuntingOptic",
+            " ",
+            " ",
+            " Renegade_BlueGrunge_2FirstAidKit",
+            " OrienteeringCompass",
+            "BDUJacket",
+            "Renegade_GalaxyJungleBoots",
+            " HuntingKnife",
+            "",
+            "HipPack_Green",
+            " Canteen",
+            "CargoPants_Beige",
+            "Balaclava3Holes_Black",
+            "MMG_MK_III_Armor_atacs",
+            " ",
+            " ",
+            " PlateCarrierPouches",
+            " ",
+            " ",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 11,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198371187382",
+        "killerSteamid": "Unknown",
+        "victimLog": " Ov3rKi11 (76561198371187382)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            6577.90087890625,
+            18.30559730529785,
+            13568.7646484375
+        ],
+        "killerPos": [
+            6577.90087890625,
+            18.30559730529785,
+            13568.7646484375
+        ],
+        "date": 1743195521,
+        "bleedingSources": 3,
+        "bloodLevel": 2462
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "Anita Max Wynn",
+        "killerGroup": "[vF]",
+        "killerTag": "",
+        "victimName": "Huh?",
+        "victimGroup": "[vF]",
+        "victimTag": "",
+        "killerItemClassname": "B95",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\weapons\\firearms\\b95\\data\\b95_co.paa"
+        ],
+        "itemnameMaterials": [
+            "dz\\weapons\\firearms\\b95\\data\\b95.rvmat"
+        ],
+        "attachments": [
+            "",
+            "HuntingOptic"
+        ],
+        "distance": 58,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": 3,
+        "type": 3,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198136631999",
+        "killerSteamid": "76561199106681974",
+        "victimLog": "[vF] Huh? (76561198136631999)",
+        "killerLog": "[vF] Anita Max Wynn (76561199106681974)",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5413.119140625,
+            74.55994415283203,
+            3776.051513671875
+        ],
+        "killerPos": [
+            5361.7802734375,
+            74.91151428222656,
+            3804.79833984375
+        ],
+        "date": 1743240394,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Bob1",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Elias",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_elias\\hhl_m_elias_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "Renegade_BrightGreenHelmet",
+            " ",
+            " ",
+            " ",
+            " NVGoggles",
+            "  ",
+            "WoolGlovesFingerless_Black",
+            "",
+            "",
+            "",
+            "Hoodie_Brown",
+            "AthleticShoes_Blue",
+            "",
+            "",
+            "CargoPants_Blue",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199545993640",
+        "killerSteamid": "Unknown",
+        "victimLog": " Bob1 (76561199545993640)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            8920.767578125,
+            5.3315110206604,
+            8837.294921875
+        ],
+        "killerPos": [
+            8920.767578125,
+            5.3315110206604,
+            8837.294921875
+        ],
+        "date": 1743516172,
+        "bleedingSources": 1,
+        "bloodLevel": 4714
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "Intruder",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Stephanie",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SNAFUAlligator",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "snafu_guns_06\\data\\alligator\\data\\alligator_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "Renegade_Camo1GhillieWrap",
+            "SNAFUAlligator_5rdMag",
+            "HuntingOptic"
+        ],
+        "distance": 449,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": 3,
+        "type": 3,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199548828479",
+        "killerSteamid": "76561198003652661",
+        "victimLog": " Stephanie (76561199548828479)",
+        "killerLog": " Intruder (76561198003652661)",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            10505.1572265625,
+            39.92402267456055,
+            4880.77294921875
+        ],
+        "killerPos": [
+            10060.59375,
+            70.4409408569336,
+            4823.2080078125
+        ],
+        "date": 1743878582,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "MARYOVERDOSE",
+        "victimGroup": "[D4L]",
+        "victimTag": "",
+        "killerItemClassname": "ZmbF_HikerSkinny_Grey",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            ""
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199248553973",
+        "killerSteamid": "",
+        "victimLog": "[D4L] MARYOVERDOSE (76561199248553973)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            6532.03759765625,
+            74.89610290527344,
+            5192.140625
+        ],
+        "killerPos": [
+            6531.6669921875,
+            74.84449768066406,
+            5192.955078125
+        ],
+        "date": 1744470749,
+        "bleedingSources": 2,
+        "bloodLevel": 4783
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "angryman",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "ZmbM_PatrolNormal_PautRev",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            ""
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "MilitaryBeret_UN",
+            "",
+            "SmershVest",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            ""
+        ],
+        "distance": 1,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198112627419",
+        "killerSteamid": "",
+        "victimLog": " angryman (76561198112627419)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5526.72021484375,
+            6.729648590087891,
+            1113.853759765625
+        ],
+        "killerPos": [
+            5525.02099609375,
+            6.72786808013916,
+            1112.80419921875
+        ],
+        "date": 1744902509,
+        "bleedingSources": 2,
+        "bloodLevel": 4198
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Rock",
+        "victimGroup": "[Rock]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Naomi",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_naomi\\hhl_f_naomi_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "FlatCap_Black",
+            "mmg_tactical_gloves_black",
+            "",
+            "",
+            "Renegade_GreenCamo_3CoyoteBackpack",
+            " ",
+            " MMG_bottle_alpine",
+            " MMG_Holster_multicamblack",
+            "  ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            "Renegade_MilitaryCamo_2M65Jacket",
+            " ",
+            " ",
+            " ",
+            " Snafu_PKP_NBlack_GUN",
+            "  ",
+            "  Snafu_PKP_250RND_Mag",
+            "  ",
+            "  SNAFU_PKPBIPOD",
+            "  ",
+            "  SNAFU_AKAimpoint_ACO",
+            "   ",
+            "jmc_Military_Mountain_Boots_Bluerock",
+            " RenegadeHuntingKnife",
+            "",
+            "MMG_falcon_b1_belt_erdl",
+            " ",
+            " ",
+            " MMG_Holster_green",
+            "  ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " MMG_Med_Pouch_erdl",
+            " ",
+            "Renegade_NavyGoldGorkaPants",
+            " ",
+            " ",
+            " ",
+            " ",
+            "MMG_balaclava_black",
+            "MMG_JPC_Vest_Black",
+            " ",
+            " Renegade_BlackOrangeCanteen",
+            " MMG_Med_Pouch_black",
+            " Renegade_GreenCamo_4PlateCarrierPouches",
+            " ",
+            " MMG_ammo_pouch_multicam_tropic",
+            " ",
+            " FlashGrenade",
+            "",
+            "SNAFUAR15_SPR_Black_GUN",
+            " ",
+            " ",
+            " ",
+            " ",
+            " SNAFU_Nightforce",
+            "  ",
+            " ",
+            " ",
+            " SNAFU_BMAG300_Tan",
+            " SNAFU_TACGripColtA2_Tan",
+            " SNAFU_MOE_Stock",
+            " ",
+            " SNAFU_AFG_02_Tan",
+            " ",
+            " SNAFU_Standardized_Suppressor_Black",
+            " ",
+            " ",
+            " ",
+            " SNAFU_HGMlok",
+            " SNAFU_PEQ1_Laser",
+            "  ",
+            "",
+            "",
+            "NVGHeadstrap",
+            " mmg_gp_nvg_green",
+            "  Battery9V"
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198007850985",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Rock] Rock (76561198007850985)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            15734.6181640625,
+            19.014997482299806,
+            4470.9306640625
+        ],
+        "killerPos": [
+            15734.6181640625,
+            19.014997482299806,
+            4470.9306640625
+        ],
+        "date": 1744981072,
+        "bleedingSources": 1,
+        "bloodLevel": 4963
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "jake7534",
+        "victimGroup": "[das]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Judy",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_judy\\hhl_f_judy_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "TShirt_Green",
+            "AthleticShoes_Green",
+            "",
+            "",
+            "CanvasPantsMidi_Violet",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199643745834",
+        "killerSteamid": "Unknown",
+        "victimLog": "[das] jake7534 (76561199643745834)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            8732.1796875,
+            6.3619842529296879,
+            9758.9638671875
+        ],
+        "killerPos": [
+            8732.1796875,
+            6.3619842529296879,
+            9758.9638671875
+        ],
+        "date": 1745007924,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "foxjoseph909090",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Boris",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_boris\\hhl_m_boris_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "Bandana_Greenpattern",
+            "",
+            "Ruger1022",
+            " ",
+            " ",
+            " HuntingOptic",
+            " ",
+            "",
+            "DuffelBagSmall_Green",
+            " ",
+            " ",
+            " ",
+            "BomberJacket_Grey",
+            "AthleticShoes_Green",
+            "",
+            "",
+            "CanvasPantsMidi_Beige",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199832425263",
+        "killerSteamid": "Unknown",
+        "victimLog": " foxjoseph909090 (76561199832425263)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5686.1806640625,
+            107.78721618652344,
+            2498.199951171875
+        ],
+        "killerPos": [
+            5686.1806640625,
+            107.78721618652344,
+            2498.199951171875
+        ],
+        "date": 1745009399,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Rock",
+        "victimGroup": "[Rock]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Oliver",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_oliver\\hhl_m_oliver_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "Mich2001Helmet",
+            " ",
+            " NVGoggles",
+            "  Battery9V",
+            "WoolGloves_Black",
+            "SNSA58_Gun",
+            " SA58_Stock",
+            " ",
+            " SNAFU_Nightforce",
+            "  Battery9V",
+            " ",
+            " SA58_30RND_WBK",
+            " SA58_FGrip",
+            " ",
+            " ",
+            " SNAFU_LStandardized_Suppressor_Black",
+            " ",
+            " ",
+            "",
+            "Renegade_BlueGrunge_2TortillaBag",
+            " ",
+            " DONDRINK_CANTEEN_GREEN",
+            " PlateCarrierHolster_Camo",
+            "  FNX45",
+            "   PistolSuppressor",
+            "   FNP45_MRDSOptic",
+            "    ",
+            "   Mag_FNX45_15Rnd",
+            "   TLRLight",
+            "    ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            "Renegade_GreenCamo_4M65Jacket",
+            " ",
+            " SNAFUASh12",
+            "  SNAFU_FGKAC_Grip",
+            "  SNAFU_Kobra",
+            "   ",
+            "  ",
+            "  ",
+            "  SNAFUASh12_20rdMag",
+            "  ",
+            "  ",
+            "  ",
+            "  ",
+            " ",
+            " SNAFUAR15_SPR_Black_GUN",
+            "  ",
+            "  ",
+            "  ",
+            "  ",
+            "  SNAFU_Aimpoint_M5",
+            "   ",
+            "  ",
+            "  ",
+            "  SNAFU_BMAG300_Tan",
+            "  SNAFU_TACGripColtA2_Grey",
+            "  SNAFU_MK47_Stock",
+            "  ",
+            "  SNAFUAR15_AFG",
+            "  ",
+            "  SNAFU_Standardized_Suppressor_Black",
+            "  ",
+            "  ",
+            "  ",
+            "  SNAFU_HGMlok",
+            "  SNAFU_PEQ1_Laser",
+            "   ",
+            "STAG_Clothing_Boots",
+            "",
+            "CivilianBelt",
+            " NylonKnifeSheath",
+            "  FangeKnife",
+            " ",
+            " ",
+            "Jeans_Brown",
+            "BalaclavaMask_Green",
+            "MMG_tt_vest_tan",
+            " ",
+            " MMG_double_magpouch_tan",
+            "  ",
+            "  ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " FlashGrenade",
+            " ",
+            "",
+            "SV98",
+            " ",
+            " ",
+            " Mag_SV98_10Rnd",
+            " ",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198007850985",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Rock] Rock (76561198007850985)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            3747.158447265625,
+            11.44308853149414,
+            8691.5234375
+        ],
+        "killerPos": [
+            3747.158447265625,
+            11.44308853149414,
+            8691.5234375
+        ],
+        "date": 1745054225,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Rock",
+        "victimGroup": "[Rock]",
+        "victimTag": "",
+        "killerItemClassname": "ZmbM_PatrolNormal_Autumn",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\zombies\\data\\patrol_normal_m_autumn_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198007850985",
+        "killerSteamid": "",
+        "victimLog": "[Rock] Rock (76561198007850985)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5448.130859375,
+            7.110102653503418,
+            1048.2994384765626
+        ],
+        "killerPos": [
+            5447.4794921875,
+            7.150716781616211,
+            1048.6387939453126
+        ],
+        "date": 1745054650,
+        "bleedingSources": 1,
+        "bloodLevel": 4727
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "AudioGuy",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "ZmbM_PatrolNormal_PautRev",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            ""
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199384525947",
+        "killerSteamid": "",
+        "victimLog": " AudioGuy (76561199384525947)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5486.0869140625,
+            6.603080749511719,
+            1070.1055908203126
+        ],
+        "killerPos": [
+            5486.3994140625,
+            6.469522476196289,
+            1069.409423828125
+        ],
+        "date": 1745072669,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Hazem",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "ZmbM_FishermanOld_Red",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            ""
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 1,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199016435689",
+        "killerSteamid": "",
+        "victimLog": " Hazem (76561199016435689)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            9043.576171875,
+            5.142000198364258,
+            9168.7333984375
+        ],
+        "killerPos": [
+            9044.615234375,
+            5.1700005531311039,
+            9168.4716796875
+        ],
+        "date": 1745072761,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "AudioGuy",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "ZmbM_PolicemanSpecForce_Heavy",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\zombies\\data\\policemanspecialforce_normal_m_co.paa"
+        ],
+        "itemnameMaterials": [
+            "dz\\characters\\zombies\\data\\policemanspecialforce_normal_m.rvmat"
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199384525947",
+        "killerSteamid": "",
+        "victimLog": " AudioGuy (76561199384525947)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5282.7265625,
+            25.733234405517579,
+            606.7908935546875
+        ],
+        "killerPos": [
+            5283.18212890625,
+            26.025285720825197,
+            607.3961791992188
+        ],
+        "date": 1745074267,
+        "bleedingSources": 0,
+        "bloodLevel": 4087
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "AudioGuy",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "ZmbM_usSoldier_Heavy_Woodland",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\zombies\\data\\ussoldier_normal_m_marpatwoodland_co.paa"
+        ],
+        "itemnameMaterials": [
+            "dz\\characters\\zombies\\data\\ussoldier_normal_m.rvmat"
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 1,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199384525947",
+        "killerSteamid": "",
+        "victimLog": " AudioGuy (76561199384525947)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            9150.76171875,
+            5.141992568969727,
+            8912.20703125
+        ],
+        "killerPos": [
+            9149.4560546875,
+            5.170000076293945,
+            8912.62890625
+        ],
+        "date": 1745078055,
+        "bleedingSources": 0,
+        "bloodLevel": 4516
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Sora",
+        "victimGroup": "[Ging]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Guo",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_guo\\hhl_m_guo_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "DirtBikeHelmet_Chernarus",
+            " DirtBikeHelmet_Mouthguard",
+            " DirtBikeHelmet_Visor",
+            "Renegade_Camo1Gloves",
+            "GCGN_M4A1",
+            " ",
+            " ",
+            " ",
+            " ",
+            " SNAFU_Elcan",
+            "  ",
+            " ",
+            " SNAFU_CMAG30556_Black",
+            " SNAFU_PistolGripColtA2",
+            " SNAFU_MOE_Stock",
+            " ",
+            " SNAFU_Standardized_Suppressor_Black",
+            " ",
+            " ",
+            "Renegade_BlackPixelGhillieArmband",
+            " Repeater",
+            "  ",
+            "  ",
+            " ",
+            " ",
+            " Izh18",
+            "  ",
+            "  ",
+            " ",
+            " ",
+            "Renegade_BlackCamoCoyoteBackpack",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " B95",
+            "  ",
+            "  HuntingOptic",
+            " ",
+            " ",
+            " ",
+            " PersonalRadio",
+            "  Battery9V",
+            "Renegade_GreenCamoM65Jacket",
+            " ",
+            " Izh18",
+            "  ",
+            "  ",
+            " ",
+            " ots71",
+            "  ",
+            "  ",
+            "  ",
+            "WorkingBoots_Beige",
+            "",
+            "HipPack_Medical",
+            " Renegade_BrightGreenCanteen",
+            "Renegade_OrangeLinesCargoPants",
+            " ",
+            " B95",
+            "  ",
+            "  HuntingOptic",
+            " ",
+            " Ruger1022",
+            "  ",
+            "  Mag_Ruger1022_30Rnd",
+            "  HuntingOptic",
+            "  ",
+            "Renegade_GreenCamo_BalaclavaMask",
+            "Renegade_BlackPlateCarrier",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            "",
+            "HK416_Gun",
+            " SNAFU_FGKAC_Grip",
+            " SNAFU_Kahles",
+            "  Battery9V",
+            " ",
+            " SNAFU_PMAG556_OD",
+            " ",
+            " ",
+            " ",
+            " SNAFU_Standardized_Suppressor_Black",
+            " ",
+            " ",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 11,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198055828193",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Ging] Sora (76561198055828193)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5541.9921875,
+            74.54583740234375,
+            3760.95166015625
+        ],
+        "killerPos": [
+            5541.9921875,
+            74.54583740234375,
+            3760.95166015625
+        ],
+        "date": 1745094807,
+        "bleedingSources": 2,
+        "bloodLevel": 2475
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "jake7534",
+        "victimGroup": "[das]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Judy",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_judy\\hhl_f_judy_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "TShirt_Green",
+            "AthleticShoes_Green",
+            "",
+            "",
+            "CanvasPantsMidi_Violet",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 0,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199643745834",
+        "killerSteamid": "Unknown",
+        "victimLog": "[das] jake7534 (76561199643745834)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            8732.5380859375,
+            6.362000465393066,
+            9757.5322265625
+        ],
+        "killerPos": [
+            8732.5380859375,
+            6.362000465393066,
+            9757.5322265625
+        ],
+        "date": 1745099684,
+        "bleedingSources": 0,
+        "bloodLevel": 3538
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "jake7534",
+        "victimGroup": "[das]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Irena",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_irena_2\\hhl_f_irena_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Hoodie_Red",
+            "AthleticShoes_Brown",
+            "",
+            "",
+            "CargoPants_Green",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199643745834",
+        "killerSteamid": "Unknown",
+        "victimLog": "[das] jake7534 (76561199643745834)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            9045.275390625,
+            10.549758911132813,
+            9286.9921875
+        ],
+        "killerPos": [
+            9045.275390625,
+            10.549758911132813,
+            9286.9921875
+        ],
+        "date": 1745099863,
+        "bleedingSources": 1,
+        "bloodLevel": 4939
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "k16wdk",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Francis",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_francis\\hhl_m_francis_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "TShirt_Black",
+            "AthleticShoes_Grey",
+            "",
+            "",
+            "CanvasPantsMidi_Violet",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 0,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199418114756",
+        "killerSteamid": "Unknown",
+        "victimLog": " k16wdk (76561199418114756)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            8733.033203125,
+            6.362000465393066,
+            9758.4013671875
+        ],
+        "killerPos": [
+            8733.033203125,
+            6.362000465393066,
+            9758.4013671875
+        ],
+        "date": 1745099968,
+        "bleedingSources": 0,
+        "bloodLevel": 2902
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "jake7534",
+        "victimGroup": "[kkk]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Judy",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_judy\\hhl_f_judy_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Hoodie_Grey",
+            "AthleticShoes_Brown",
+            "",
+            "",
+            "CargoPants_Black",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199643745834",
+        "killerSteamid": "Unknown",
+        "victimLog": "[kkk] jake7534 (76561199643745834)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            7210.25390625,
+            34.688621520996097,
+            2755.0615234375
+        ],
+        "killerPos": [
+            7210.25390625,
+            34.688621520996097,
+            2755.0615234375
+        ],
+        "date": 1745100339,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "k16wdk",
+        "victimGroup": "[kkk]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Cyril",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_cyril\\hhl_m_cyril_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Hoodie_Black",
+            "AthleticShoes_Blue",
+            "",
+            "",
+            "CargoPants_Grey",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199418114756",
+        "killerSteamid": "Unknown",
+        "victimLog": "[kkk] k16wdk (76561199418114756)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            7286.8076171875,
+            2.7970478534698488,
+            1447.5035400390626
+        ],
+        "killerPos": [
+            7286.8076171875,
+            2.7970478534698488,
+            1447.5035400390626
+        ],
+        "date": 1745100455,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Cardboard",
+        "victimGroup": "[BHC]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Keiko",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_keiko\\hhl_f_keiko_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Hoodie_Black",
+            "AthleticShoes_Blue",
+            "",
+            "",
+            "CargoPants_Grey",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198112360488",
+        "killerSteamid": "Unknown",
+        "victimLog": "[BHC] Cardboard (76561198112360488)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            8983.4541015625,
+            5.159029483795166,
+            8781.17578125
+        ],
+        "killerPos": [
+            8983.4541015625,
+            5.159029483795166,
+            8781.17578125
+        ],
+        "date": 1745101651,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Slaen",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Denis",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_denis_2\\hhl_m_denis_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Shirt_GreenCheck",
+            "AthleticShoes_Black",
+            "",
+            "",
+            "CargoPants_Black",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 0,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198059812029",
+        "killerSteamid": "Unknown",
+        "victimLog": " Slaen (76561198059812029)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            7492.38232421875,
+            40.88899612426758,
+            2541.1826171875
+        ],
+        "killerPos": [
+            7492.38232421875,
+            40.88899612426758,
+            2541.1826171875
+        ],
+        "date": 1745153309,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "InsaneDragon",
+        "victimGroup": "[FLY]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Guo",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_guo\\hhl_m_guo_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "Renegade_GreenPixelHelmet",
+            " Battery9V",
+            " Battery9V",
+            " ",
+            " mmg_gp_nvg_green",
+            "  Renegade_ExtendedBattery",
+            "STAG_Clothing_TacticalGloves_PT",
+            "SNAFUKivaari_Grey_GUN",
+            " SNAFU_Tango6T_Tan",
+            "  Battery9V",
+            " SNAFU_ModBipod",
+            " ",
+            " SNAFUKivaari_25rdMag",
+            " ",
+            " SNAFUKivaari_338_Supp",
+            " ",
+            "Renegade_GreenCamo_3GhillieArmband",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            "Renegade_GreenPixelTortillaBag",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " Renegade_RedCamoWaterProofBag",
+            " PlateCarrierPouches_Black",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            "Renegade_GreenPixelGorkaJacket",
+            " ",
+            " GCGN_M200_Tan",
+            "  Renegade_Black_HuntingOptic",
+            "  Renegade_GreenCamo_4GhillieWrap",
+            "  GCGN_M200_Mag",
+            "  SNAFU_50bmg_Suppressor_B",
+            "  ",
+            "  SNAFU_M200B_BK",
+            "  SNAFU_M200S_Tan",
+            " ",
+            " Renegade_FAL_Black",
+            "  Fal_OeBttstck",
+            "  SNAFU_Tango6T_Black",
+            "   Battery9V",
+            "  Renegade_GreenCamo_2GhillieWrap",
+            "  Renegade_FAL_300Rnd_Mag",
+            "  Renegade_Black_RifleSuppressor",
+            "Drip_AdidasYeezy750_triple_black",
+            "",
+            "MMG_falcon_b1_belt_dark_woodland",
+            " ",
+            " Canteen",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            "Renegade_GreenPixelGorkaPants",
+            " ",
+            " ",
+            " ",
+            " ",
+            "Renegade_GreenCamo_3_BalaclavaMask",
+            "MMG_MK_V_Armor_multicam_tropic",
+            " ",
+            " MMG_Holster_multicam_tropic",
+            "  SNAFU_PL14HQP",
+            "   ",
+            "   ",
+            "   ",
+            "   ",
+            " MMG_tactical_pouch_black",
+            " ",
+            " MMG_mk5_grenade_pouch_green",
+            "  ",
+            "  ",
+            "  ",
+            "  ",
+            " MMG_patch_rubber_rangers",
+            " ",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199502462473",
+        "killerSteamid": "Unknown",
+        "victimLog": "[FLY] InsaneDragon (76561199502462473)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            4625.9755859375,
+            20.441999435424806,
+            7252.93701171875
+        ],
+        "killerPos": [
+            4625.9755859375,
+            20.441999435424806,
+            7252.93701171875
+        ],
+        "date": 1745158056,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Kyma",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Frida",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_frida_2\\hhl_f_frida_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Shirt_PlaneBlack",
+            "AthleticShoes_Green",
+            "",
+            "",
+            "CargoPants_Grey",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198007048036",
+        "killerSteamid": "Unknown",
+        "victimLog": " Kyma (76561198007048036)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5913.9794921875,
+            14.949477195739746,
+            1239.7491455078126
+        ],
+        "killerPos": [
+            5913.9794921875,
+            14.949477195739746,
+            1239.7491455078126
+        ],
+        "date": 1745209859,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "ACEDIA",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Manua",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_manua\\hhl_m_manua_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Shirt_PlaneBlack",
+            "AthleticShoes_Green",
+            "",
+            "",
+            "CargoPants_Black",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198895587531",
+        "killerSteamid": "Unknown",
+        "victimLog": " ACEDIA (76561198895587531)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            6256.22412109375,
+            4.832552909851074,
+            1384.2728271484376
+        ],
+        "killerPos": [
+            6256.22412109375,
+            4.832552909851074,
+            1384.2728271484376
+        ],
+        "date": 1745251280,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "ZCobraChicken",
+        "victimGroup": "[Cobra]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Linda",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_linda_2\\hhl_f_linda_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "MMG_tactical_helmet_erdl",
+            " ",
+            " ",
+            " ",
+            " NVGoggles",
+            "  Renegade_ExtendedBattery",
+            "Renegade_GreenCamoGloves",
+            "",
+            "Renegade_RedCamoGhillieArmband",
+            " ",
+            " PlateCarrierPouches_Green",
+            " ",
+            " ",
+            " ",
+            " ",
+            "Renegade_MilitaryCamo_2CoyoteBackpack",
+            " ",
+            " Renegade_BlueCamoCanteen",
+            " ",
+            " Renegade_BlueGrunge_2FirstAidKit",
+            " ",
+            " Mag_AK74_30Rnd",
+            " higgins",
+            "  ",
+            "  ",
+            "  ",
+            "  ",
+            " ",
+            " Renegade_GreenCamo_2WaterProofBag",
+            " Renegade_DarkCamoPlateCarrierPouches",
+            " ",
+            " Renegade_GalaxyWaterProofBag",
+            " Renegade_PureBlackWaterProofBag",
+            " Renegade_GreenCamo_4ProtectorCase",
+            " SNAFUTAR21_Black",
+            "  SNAFU_Tango6T_Wood",
+            "   ",
+            "  ",
+            "  SNAFU_CMAG30556_Black",
+            "  ",
+            "  SNAFU_Standardized_Suppressor_Black",
+            "  ",
+            " Renegade_LightCamoWaterProofBag",
+            " Renegade_GalaxyFirstAidKit",
+            " Renegade_OrangeLinesProtectorCase",
+            " Renegade_Splint",
+            "Renegade_UKNL_M65Jacket",
+            " Mag_AKM_30Rnd",
+            " ",
+            " ",
+            " ",
+            "MilitaryBoots_Brown",
+            " CombatKnife",
+            "",
+            "HipPack_Black",
+            " Renegade_BlueCamoCanteen",
+            "Renegade_MilitaryCamo_Jeans",
+            " Mag_AK74_30Rnd",
+            " ",
+            " Renegade_FAL_200Rnd_Mag",
+            " ",
+            "BalaclavaMask_BDU",
+            "Renegade_CamoScalePlateCarrier",
+            " Renegade_BlackScalePlateCarrierHolster",
+            "  Glock19",
+            "   PistolSuppressor",
+            "   ",
+            "   Mag_Glock_15Rnd",
+            "   ",
+            " STAG_Clothing_Pouches",
+            " ",
+            " ",
+            " ",
+            " ",
+            "",
+            "GCGN_M110_Black",
+            " ",
+            " Renegade_LightRay_HuntingOptic",
+            " ",
+            " ",
+            " GCGN_M110_Mag",
+            " ",
+            " ",
+            " SNAFU_AFG_02_OD",
+            " ",
+            " ",
+            " SNAFU_LStandardized_Suppressor_Black",
+            " ",
+            "",
+            "",
+            "TacticalGoggles"
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198134192198",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Cobra] ZCobraChicken (76561198134192198)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            7165.95947265625,
+            511.80859375,
+            11596.396484375
+        ],
+        "killerPos": [
+            7165.95947265625,
+            511.80859375,
+            11596.396484375
+        ],
+        "date": 1745646495,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Pinneponken",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Rolf",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_rolf\\hhl_m_rolf_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Hoodie_Red",
+            "AthleticShoes_Green",
+            "",
+            "",
+            "CargoPants_Black",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561197990746042",
+        "killerSteamid": "Unknown",
+        "victimLog": " Pinneponken (76561197990746042)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            9413.611328125,
+            5.324069499969482,
+            9103.78125
+        ],
+        "killerPos": [
+            9413.611328125,
+            5.324069499969482,
+            9103.78125
+        ],
+        "date": 1745681182,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "zer0",
+        "victimGroup": "[FRA]",
+        "victimTag": "",
+        "killerItemClassname": "ZmbM_PatrolNormal_Flat",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            ""
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "MilitaryBeret_NZ",
+            "",
+            "",
+            ""
+        ],
+        "distance": 1,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198017610896",
+        "killerSteamid": "",
+        "victimLog": "[FRA] zer0 (76561198017610896)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            8890.7119140625,
+            44.43813705444336,
+            3708.58642578125
+        ],
+        "killerPos": [
+            8889.634765625,
+            44.529876708984378,
+            3709.390869140625
+        ],
+        "date": 1745695098,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "zer0",
+        "victimGroup": "[FRA]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Elias",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_elias\\hhl_m_elias_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "Renegade_MilitaryCamo_2Gloves",
+            "",
+            "Renegade_BlackOrangeGhillieArmband",
+            " SRP_KatanaSlim",
+            " PlateCarrierPouches_Green",
+            " Renegade_OrangeLinesProtectorCase",
+            " ",
+            " Renegade_BlackBlueWaterProofBag",
+            " ",
+            "Renegade_DarkCamoTortillaBag",
+            " ",
+            " Renegade_GreenCamo_2Canteen",
+            " Renegade_MilitaryCamo_2PlateCarrierHolster",
+            "  ",
+            " Renegade_PinkCamoPlateCarrierPouches",
+            " ",
+            " ",
+            " ",
+            " ",
+            " Renegade_BlackBlueFirstAidKit",
+            " ",
+            " FirstAidKit",
+            " Renegade_GalaxyWaterProofBag",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " Chemlight_Red",
+            "Renegade_GreenCamo_4GorkaJacket",
+            " ",
+            " WoodAxe",
+            " ",
+            " ",
+            "Renegade_ForestAthleticShoes",
+            " ",
+            "",
+            "",
+            "Renegade_BlueGrunge_2_Jeans",
+            " ",
+            " ",
+            " ",
+            " ",
+            "",
+            "MMG_MK_III_Armor_black",
+            " MMG_tactical_pouch_erdl",
+            " MMG_Med_Pouch_black",
+            " ",
+            " ",
+            " M18SmokeGrenade_White",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198017610896",
+        "killerSteamid": "Unknown",
+        "victimLog": "[FRA] zer0 (76561198017610896)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            8566.9755859375,
+            4.081893444061279,
+            3674.188720703125
+        ],
+        "killerPos": [
+            8566.9755859375,
+            4.081893444061279,
+            3674.188720703125
+        ],
+        "date": 1745696652,
+        "bleedingSources": 0,
+        "bloodLevel": 4500
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Tango",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Helga",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_helga\\hhl_f_helga_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "BaseballCap_Camo",
+            "",
+            "",
+            "",
+            "Renegade_MilitaryCamoMountainBag",
+            " ",
+            " DONDRINK_CANTEEN_GREEN",
+            " ",
+            " Renegade_BlueCamoFirstAidKit",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " Chemlight_Yellow",
+            "Renegade_RedGreyCamo_HikingJacket",
+            " ",
+            " ",
+            " ",
+            " ",
+            "HikingBootsLow_Grey",
+            "",
+            "",
+            "CargoPants_Black",
+            "Renegade_DarkCamo_BalaclavaMask",
+            "PressVest_LightBlue",
+            " ",
+            " ",
+            " ",
+            " ",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199083398771",
+        "killerSteamid": "Unknown",
+        "victimLog": " Tango (76561199083398771)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5569.15673828125,
+            43.71770477294922,
+            735.2054443359375
+        ],
+        "killerPos": [
+            5569.15673828125,
+            43.71770477294922,
+            735.2054443359375
+        ],
+        "date": 1745764687,
+        "bleedingSources": 0,
+        "bloodLevel": 4753
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "maurader1911",
+        "victimGroup": "[Gigs]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Oliver",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_oliver\\hhl_m_oliver_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "WorkingGloves_Beige",
+            "Broom",
+            "",
+            "CanvasBag_Olive",
+            " ",
+            " ",
+            " ",
+            "WoolCoat_BlackCheck",
+            "Renegade_ForestGreenJungleBoots",
+            " HuntingKnife",
+            "",
+            "HipPack_Party",
+            " ",
+            "CargoPants_Blue",
+            "",
+            "Renegade_BlueGrungePressVest",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199839124209",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Gigs] maurader1911 (76561199839124209)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            6630.67626953125,
+            2.0526747703552248,
+            3475.1552734375
+        ],
+        "killerPos": [
+            6630.67626953125,
+            2.0526747703552248,
+            3475.1552734375
+        ],
+        "date": 1745770577,
+        "bleedingSources": 0,
+        "bloodLevel": 4963
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Tango",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Helga",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_helga\\hhl_f_helga_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "DarkMotoHelmet_YellowScarred",
+            "",
+            "Repeater",
+            " ",
+            " ",
+            "STAG_Clothing_Armband",
+            "CoyoteBag_Brown",
+            " ",
+            " ",
+            " ",
+            "BomberJacket_SkyBlue",
+            "Renegade_BlackYellowPixelJungleBoots",
+            " ",
+            "",
+            "HipPack_Medical",
+            " ",
+            "CargoPants_Blue",
+            "Bandana_CamoPattern",
+            "Renegade_RedCamoPlateCarrier",
+            " ",
+            " ",
+            " M18SmokeGrenade_Red",
+            " M18SmokeGrenade_Red",
+            " FlashGrenade",
+            " M18SmokeGrenade_Red",
+            "",
+            "Crossbow_Wood",
+            " ",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199083398771",
+        "killerSteamid": "Unknown",
+        "victimLog": " Tango (76561199083398771)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            4821.43310546875,
+            79.65706634521485,
+            3253.22314453125
+        ],
+        "killerPos": [
+            4821.43310546875,
+            79.65706634521485,
+            3253.22314453125
+        ],
+        "date": 1745776654,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "xxforgiveyoursins",
+        "victimGroup": "[Gigs]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Elias",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_elias\\hhl_m_elias_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "PoliceCap",
+            "WorkingGloves_Beige",
+            "",
+            "",
+            "DryBag_Yellow",
+            " CrudeMachete",
+            " Chemlight_Green",
+            " OrienteeringCompass",
+            "WoolCoat_Blue",
+            "AthleticShoes_Grey",
+            "",
+            "",
+            "CargoPants_Blue",
+            "Renegade_BlkBlueCamo_BalaclavaMask",
+            "PressVest_Blue",
+            " ",
+            " ",
+            " ",
+            " ",
+            "",
+            "SledgeHammer",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199841259090",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Gigs] xxforgiveyoursins (76561199841259090)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            6645.4111328125,
+            35.38483810424805,
+            3490.017333984375
+        ],
+        "killerPos": [
+            6645.4111328125,
+            35.38483810424805,
+            3490.017333984375
+        ],
+        "date": 1745777319,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Trucker",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Indar",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_indar\\hhl_m_indar_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Hoodie_Grey",
+            "AthleticShoes_Grey",
+            "",
+            "",
+            "CargoPants_Blue",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199090619839",
+        "killerSteamid": "Unknown",
+        "victimLog": " Trucker (76561199090619839)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            7342.10546875,
+            20.660511016845704,
+            1724.89599609375
+        ],
+        "killerPos": [
+            7342.10546875,
+            20.660511016845704,
+            1724.89599609375
+        ],
+        "date": 1745864949,
+        "bleedingSources": 1,
+        "bloodLevel": 4939
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Hao",
+        "victimGroup": "",
+        "victimTag": "",
+        "killerItemClassname": "ZmbF_CitizenBSkinny",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\zombies\\data\\citizenb_skinny_f_co.paa"
+        ],
+        "itemnameMaterials": [
+            "dz\\characters\\zombies\\data\\citizenb_skinny_f.rvmat"
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 1,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199731773522",
+        "killerSteamid": "",
+        "victimLog": " Hao (76561199731773522)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            6701.65185546875,
+            39.01072311401367,
+            1960.392822265625
+        ],
+        "killerPos": [
+            6700.19921875,
+            38.81999969482422,
+            1959.67041015625
+        ],
+        "date": 1745876784,
+        "bleedingSources": 1,
+        "bloodLevel": 4939
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "LoaderBoy978K",
+        "victimGroup": "[Gigs]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Denis",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_denis_2\\hhl_m_denis_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199795593372",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Gigs] LoaderBoy978K (76561199795593372)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5141.17529296875,
+            60.186920166015628,
+            8009.9892578125
+        ],
+        "killerPos": [
+            5141.17529296875,
+            60.186920166015628,
+            8009.9892578125
+        ],
+        "date": 1745879049,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Tango",
+        "victimGroup": "[POOP]",
+        "victimTag": "",
+        "killerItemClassname": "Animal_UrsusArctos",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [],
+        "itemnameMaterials": [],
+        "attachments": [],
+        "distance": 1,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 13,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199083398771",
+        "killerSteamid": "",
+        "victimLog": "[POOP] Tango (76561199083398771)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            14332.4501953125,
+            117.87606811523438,
+            2750.185546875
+        ],
+        "killerPos": [
+            14331.93359375,
+            117.6853256225586,
+            2752.03759765625
+        ],
+        "date": 1745882169,
+        "bleedingSources": 1,
+        "bloodLevel": 3377
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "LoaderBoy978K",
+        "victimGroup": "[Gigs]",
+        "victimTag": "",
+        "killerItemClassname": "ZmbM_HermitSkinny_Black",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            ""
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 1,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199795593372",
+        "killerSteamid": "",
+        "victimLog": "[Gigs] LoaderBoy978K (76561199795593372)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5033.744140625,
+            12.787640571594239,
+            8457.490234375
+        ],
+        "killerPos": [
+            5034.8818359375,
+            12.810881614685059,
+            8457.8837890625
+        ],
+        "date": 1745910520,
+        "bleedingSources": 2,
+        "bloodLevel": 2843
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "LoaderBoy978K",
+        "victimGroup": "[Gigs]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Irena",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_irena_2\\hhl_f_irena_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199795593372",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Gigs] LoaderBoy978K (76561199795593372)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5125.65869140625,
+            61.010738372802737,
+            8017.59423828125
+        ],
+        "killerPos": [
+            5125.65869140625,
+            61.010738372802737,
+            8017.59423828125
+        ],
+        "date": 1745912159,
+        "bleedingSources": 3,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "LoaderBoy978K",
+        "victimGroup": "[Gigs]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Guo",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_guo\\hhl_m_guo_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "Renegade_BlackScaleHelmet",
+            " ",
+            " ",
+            " ",
+            " NVGoggles",
+            "  ",
+            "",
+            "",
+            "",
+            "MMG_mmps_bag_green",
+            " ",
+            " ",
+            "Shirt_GreenCheck",
+            "AthleticShoes_Green",
+            "",
+            "",
+            "CargoPants_Blue",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199795593372",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Gigs] LoaderBoy978K (76561199795593372)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            6775.13720703125,
+            301.5265808105469,
+            13091.5673828125
+        ],
+        "killerPos": [
+            6775.13720703125,
+            301.5265808105469,
+            13091.5673828125
+        ],
+        "date": 1745914518,
+        "bleedingSources": 1,
+        "bloodLevel": 3337
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "LoaderBoy978K",
+        "victimGroup": "[Gigs]",
+        "victimTag": "",
+        "killerItemClassname": "ZmbM_SoldierNormal",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            ""
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "TankerHelmet",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 12,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199795593372",
+        "killerSteamid": "",
+        "victimLog": "[Gigs] LoaderBoy978K (76561199795593372)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5429.99951171875,
+            6.778807640075684,
+            1084.5426025390626
+        ],
+        "killerPos": [
+            5430.1767578125,
+            6.837899208068848,
+            1085.147705078125
+        ],
+        "date": 1745914848,
+        "bleedingSources": 2,
+        "bloodLevel": 4820
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "LoaderBoy978K",
+        "victimGroup": "[Gigs]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Maria",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_maria_2\\hhl_f_maria_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199795593372",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Gigs] LoaderBoy978K (76561199795593372)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5139.74169921875,
+            59.491634368896487,
+            8038.6298828125
+        ],
+        "killerPos": [
+            5139.74169921875,
+            59.491634368896487,
+            8038.6298828125
+        ],
+        "date": 1745924551,
+        "bleedingSources": 2,
+        "bloodLevel": 3863
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "LoaderBoy978K",
+        "victimGroup": "[Gigs]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Indar",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_indar\\hhl_m_indar_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "BaseballCap_Black",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "AthleticShoes_Brown",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 11,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199795593372",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Gigs] LoaderBoy978K (76561199795593372)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5432.27490234375,
+            105.58300018310547,
+            6910.51220703125
+        ],
+        "killerPos": [
+            5432.27490234375,
+            105.58300018310547,
+            6910.51220703125
+        ],
+        "date": 1745935571,
+        "bleedingSources": 2,
+        "bloodLevel": 2477
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Demon",
+        "victimGroup": "[uwu]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorF_Naomi",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\f_naomi\\hhl_f_naomi_body_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "Renegade_GreenCamo_4Helmet",
+            " ",
+            " ",
+            " ",
+            " NVGoggles",
+            "  Battery9V",
+            "mmg_tactical_gloves_erdl",
+            "",
+            "",
+            "Renegade_PureBlackTortillaBag",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " SVD",
+            "  ",
+            "  ",
+            "  ",
+            "  ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " AK101",
+            "  AK_RailHndgrd",
+            "  ",
+            "  Mag_AK101_30Rnd",
+            "  AK_WoodBttstck",
+            "  ",
+            "  ESP_Wrapped_Suppressor_Black",
+            "  ",
+            "  ",
+            " ",
+            " ",
+            " ",
+            " ",
+            "Renegade_GreenCamo_4GorkaJacket",
+            " ",
+            " ",
+            " ",
+            " SNAFUKivaari_Black_GUN",
+            "  ",
+            "  ",
+            "  ",
+            "  ",
+            "  ",
+            "  ",
+            "  ",
+            "Renegade_GalaxyAthleticShoes",
+            " ",
+            "",
+            "",
+            "STAG_Clothing_Cargo_Pants_PT",
+            "Renegade_Black_BalaclavaMask",
+            "BRTX_HeavyVest_Pun4",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199372883946",
+        "killerSteamid": "Unknown",
+        "victimLog": "[uwu] Demon (76561199372883946)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            10737.9521484375,
+            5.220648288726807,
+            11659.0439453125
+        ],
+        "killerPos": [
+            10737.9521484375,
+            5.220648288726807,
+            11659.0439453125
+        ],
+        "date": 1745940769,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "LoaderBoy978K",
+        "victimGroup": "[Gigs]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Niki",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_niki_2\\hhl_m_niki_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199795593372",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Gigs] LoaderBoy978K (76561199795593372)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5133.02978515625,
+            59.47199630737305,
+            8053.45263671875
+        ],
+        "killerPos": [
+            5133.02978515625,
+            59.47199630737305,
+            8053.45263671875
+        ],
+        "date": 1745962025,
+        "bleedingSources": 1,
+        "bloodLevel": 4885
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "Soon77",
+        "victimGroup": "[FRA]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Oliver",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_oliver\\hhl_m_oliver_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "Renegade_GreenCamo_4Helmet",
+            " ",
+            " ",
+            " CPB_X300Flashlight",
+            "  Renegade_ExtendedBattery",
+            " BRTX_NVGs_BasicCamo77",
+            "  Renegade_ExtendedBattery",
+            "STAG_Clothing_TacticalGloves",
+            "",
+            "Renegade_CamoScaleGhillieArmband",
+            " ",
+            " ",
+            " Renegade_MilitaryCamoFirstAidKit",
+            " ",
+            " ",
+            " ",
+            "jmc_BearPeltGhillieBrown_m",
+            "Renegade_CamoScaleGorkaJacket",
+            " ",
+            " ",
+            " ",
+            " ",
+            "MilitaryBoots_Beige",
+            " HuntingKnife",
+            "",
+            "BRTX_CargoBelt_Camo40",
+            " Canteen",
+            " ",
+            " ",
+            " ",
+            "Renegade_CamoScaleGorkaPants",
+            " ",
+            " ",
+            " ",
+            " ",
+            "Renegade_GreenCamo_4_BalaclavaMask",
+            "MMG_MK_V_Armor_atacs",
+            " ",
+            " PlateCarrierHolster",
+            "  Renegade_Black_Deagle",
+            "   ",
+            "   ",
+            "   ",
+            " ",
+            " ",
+            " MMG_mk5_grenade_pouch_atacs",
+            "  ",
+            "  ",
+            "  ",
+            "  ",
+            " ",
+            " MMG_mk5_utility_pouch_atacs",
+            "",
+            "GCGN_M82_Barret",
+            " Renegade_Black_HuntingOptic",
+            " ",
+            " GCGN_M82_Mag",
+            " SNAFU_50bmg_Suppressor_B",
+            " ",
+            "",
+            "",
+            "TacticalGoggles"
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 9,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561197976232492",
+        "killerSteamid": "Unknown",
+        "victimLog": "[FRA] Soon77 (76561197976232492)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            15643.6103515625,
+            207.30035400390626,
+            14771.123046875
+        ],
+        "killerPos": [
+            15643.6103515625,
+            207.30035400390626,
+            14771.123046875
+        ],
+        "date": 1746018250,
+        "bleedingSources": 0,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "SUS-Alpha-Goin'Dark",
+        "killerGroup": "[uwu]",
+        "killerTag": "",
+        "victimName": "London",
+        "victimGroup": "[uwu]",
+        "victimTag": "",
+        "killerItemClassname": "CPB_M200_Black",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "newcpbweapons\\cpb_snipers\\m200\\data\\dayz_co_black.paa"
+        ],
+        "itemnameMaterials": [
+            "newcpbweapons\\cpb_snipers\\m200\\data\\m200.rvmat"
+        ],
+        "attachments": [
+            "VTR_PenTax",
+            "",
+            "CPB_M200_Magazine",
+            "CPB_M200Suppressor",
+            ""
+        ],
+        "distance": 12,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": 0,
+        "type": 3,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198080386308",
+        "killerSteamid": "76561198352827856",
+        "victimLog": "[uwu] London (76561198080386308)",
+        "killerLog": "[uwu] SUS-Alpha-Goin'Dark (76561198352827856)",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            1144.3524169921876,
+            56.6573486328125,
+            10616.220703125
+        ],
+        "killerPos": [
+            1135.0633544921876,
+            57.432228088378909,
+            10624.10546875
+        ],
+        "date": 1746042492,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "London",
+        "victimGroup": "[uwu]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Manua",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_manua\\hhl_m_manua_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Hoodie_Brown",
+            "AthleticShoes_Black",
+            "",
+            "",
+            "CargoPants_Green",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198080386308",
+        "killerSteamid": "Unknown",
+        "victimLog": "[uwu] London (76561198080386308)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5893.72021484375,
+            36.80331802368164,
+            1076.94775390625
+        ],
+        "killerPos": [
+            5893.72021484375,
+            36.80331802368164,
+            1076.94775390625
+        ],
+        "date": 1746042541,
+        "bleedingSources": 1,
+        "bloodLevel": 5000
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "London",
+        "victimGroup": "[uwu]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Seth",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_seth\\hhl_m_seth_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Shirt_PlaneBlack",
+            "AthleticShoes_Blue",
+            "",
+            "",
+            "CargoPants_Grey",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561198080386308",
+        "killerSteamid": "Unknown",
+        "victimLog": "[uwu] London (76561198080386308)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            5643.0419921875,
+            63.98431396484375,
+            1588.7552490234376
+        ],
+        "killerPos": [
+            5643.0419921875,
+            63.98431396484375,
+            1588.7552490234376
+        ],
+        "date": 1746042584,
+        "bleedingSources": 1,
+        "bloodLevel": 4939
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "LoaderBoy978K",
+        "victimGroup": "[Gigs]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Indar",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_indar\\hhl_m_indar_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 11,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199795593372",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Gigs] LoaderBoy978K (76561199795593372)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            4678.271484375,
+            21.93199920654297,
+            8211.703125
+        ],
+        "killerPos": [
+            4678.271484375,
+            21.93199920654297,
+            8211.703125
+        ],
+        "date": 1746080407,
+        "bleedingSources": 1,
+        "bloodLevel": 2606
+    },
+    {
+        "headshot": 0,
+        "teamkill": 0,
+        "displayWeaponDisplayname": 0,
+        "displayWeaponItem": 0,
+        "killerName": "",
+        "killerGroup": "",
+        "killerTag": "",
+        "victimName": "LoaderBoy978K",
+        "victimGroup": "[Gigs]",
+        "victimTag": "",
+        "killerItemClassname": "SurvivorM_Boris",
+        "skinName": "",
+        "killerItemOverwriteDisplayname": "",
+        "itemnameTextures": [
+            "dz\\characters\\heads\\data\\m_boris\\hhl_m_boris_body_shaved_decayed_co.paa"
+        ],
+        "itemnameMaterials": [
+            ""
+        ],
+        "attachments": [
+            "",
+            "",
+            "Mosin9130",
+            " ",
+            " Mosin_Compensator",
+            " ",
+            " ",
+            " ",
+            "",
+            "TaloonBag_Violet",
+            " ",
+            " ",
+            " ",
+            "Shirt_GreenCheck",
+            "AthleticShoes_Green",
+            "",
+            "",
+            "CargoPants_Black",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "distance": 0,
+        "duration": 10,
+        "killStreak": -1,
+        "loudnessIndicator": -1,
+        "type": 7,
+        "colorVictimName": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimTag": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorVictimGroup": {
+            "a": 255,
+            "r": 255,
+            "g": 192,
+            "b": 27
+        },
+        "colorKillerName": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerTag": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "colorKillerGroup": {
+            "a": 255,
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "victimSteamid": "76561199795593372",
+        "killerSteamid": "Unknown",
+        "victimLog": "[Gigs] LoaderBoy978K (76561199795593372)",
+        "killerLog": "",
+        "victimBot": 0,
+        "killerBot": 0,
+        "victimPos": [
+            8078.52880859375,
+            1.9226837158203126,
+            8801.1513671875
+        ],
+        "killerPos": [
+            8078.52880859375,
+            1.9226837158203126,
+            8801.1513671875
+        ],
+        "date": 1746080780,
+        "bleedingSources": 1,
+        "bloodLevel": 4939
+    }
+]

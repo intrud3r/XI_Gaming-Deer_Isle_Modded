@@ -1,0 +1,26 @@
+{
+    "OwnerName": "Choppa",
+    "OwnerID": "951600937",
+    "ParkingPosition": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "ParkingOrientation": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "Vehicles": [
+        {
+            "VehicleName": "FordRaptor_Scorpio_Black",
+            "VehicleCargoId": 1743901141,
+            "VehicleID": 19931997,
+            "Timestamp": 0,
+            "EngineHealth": 1000.0,
+            "FuelAmmount": 135.77047729492188,
+            "CollateralMoney": 0,
+            "ItemsInCargo": []
+        }
+    ]
+}

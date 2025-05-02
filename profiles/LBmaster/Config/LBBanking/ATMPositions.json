@@ -32,7 +32,7 @@
         "lastLockedTimestamp": 1709584044,
         "lastRobTime": 1709584044,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 36943385,
+        "cashDeposited": 44155385,
         "depositedCashIncreasePerMin": 200,
         "robbedDepositedCashPercent": 0.8799999952316284,
         "maxMoneyRobbedFromDepositedMoney": 4000000,
@@ -79,10 +79,10 @@
         "minutesLockedAfterRobbing": 200,
         "minutesNotRobbableAfterRobbing": 60,
         "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
-        "lastLockedTimestamp": 1742849225,
-        "lastRobTime": 1742849225,
+        "lastLockedTimestamp": 1746060636,
+        "lastRobTime": 1746060636,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 418640920,
+        "cashDeposited": 435074005,
         "depositedCashIncreasePerMin": 200,
         "robbedDepositedCashPercent": 0.8899999856948853,
         "maxMoneyRobbedFromDepositedMoney": 4000000,
@@ -92,29 +92,19 @@
         "needCreditCard": 0,
         "lastRobbers": [
             {
-                "steamid": "76561199562419227",
-                "name": "Sir Trippy",
-                "lastTime": 1742849225
-            },
-            {
                 "steamid": "76561198352827856",
-                "name": "F11 Simulator",
-                "lastTime": 1742849225
+                "name": "SUS-Alpha-Goin'Dark",
+                "lastTime": 1746060636
             },
             {
                 "steamid": "76561198080386308",
                 "name": "London",
-                "lastTime": 1742849225
+                "lastTime": 1746060636
             },
             {
-                "steamid": "76561198388339702",
-                "name": "Donnie Deeks",
-                "lastTime": 1742849225
-            },
-            {
-                "steamid": "76561198844058378",
-                "name": "Druss",
-                "lastTime": 1742849225
+                "steamid": "76561199372883946",
+                "name": "Demon",
+                "lastTime": 1746060636
             }
         ],
         "spawned": 1
@@ -146,7 +136,7 @@
         "lastLockedTimestamp": 0,
         "lastRobTime": 0,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 210261105,
+        "cashDeposited": 210978050,
         "depositedCashIncreasePerMin": 20,
         "robbedDepositedCashPercent": 0.10000000149011612,
         "maxMoneyRobbedFromDepositedMoney": 20000,
@@ -184,7 +174,7 @@
         "lastLockedTimestamp": 0,
         "lastRobTime": 0,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 136485955,
+        "cashDeposited": 133716845,
         "depositedCashIncreasePerMin": 20,
         "robbedDepositedCashPercent": 0.10000000149011612,
         "maxMoneyRobbedFromDepositedMoney": 20000,
@@ -225,10 +215,10 @@
         "minutesLockedAfterRobbing": 200,
         "minutesNotRobbableAfterRobbing": 240,
         "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
-        "lastLockedTimestamp": 1709501845,
-        "lastRobTime": 1709501845,
+        "lastLockedTimestamp": 1743893835,
+        "lastRobTime": 1743893835,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 34794383,
+        "cashDeposited": 38006383,
         "depositedCashIncreasePerMin": 200,
         "robbedDepositedCashPercent": 0.8600000143051148,
         "maxMoneyRobbedFromDepositedMoney": 4000000,
@@ -236,7 +226,13 @@
         "staticMaxRobbedCash": 20000,
         "robbingRewardPreset": "",
         "needCreditCard": 0,
-        "lastRobbers": [],
+        "lastRobbers": [
+            {
+                "steamid": "76561199548828479",
+                "name": "Stephanie",
+                "lastTime": 1743893835
+            }
+        ],
         "spawned": 1
     },
     {
@@ -272,7 +268,7 @@
         "lastLockedTimestamp": 1709506054,
         "lastRobTime": 1709506054,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 34771302,
+        "cashDeposited": 41983302,
         "depositedCashIncreasePerMin": 200,
         "robbedDepositedCashPercent": 0.8799999952316284,
         "maxMoneyRobbedFromDepositedMoney": 4000000,
@@ -316,7 +312,7 @@
         "lastLockedTimestamp": 1709263121,
         "lastRobTime": 1709263121,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 44773275,
+        "cashDeposited": 51985275,
         "depositedCashIncreasePerMin": 200,
         "robbedDepositedCashPercent": 0.8899999856948853,
         "maxMoneyRobbedFromDepositedMoney": 2000000,
@@ -357,10 +353,10 @@
         "minutesLockedAfterRobbing": 200,
         "minutesNotRobbableAfterRobbing": 240,
         "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
-        "lastLockedTimestamp": 1709422843,
-        "lastRobTime": 1709422843,
+        "lastLockedTimestamp": 1745811613,
+        "lastRobTime": 1745811613,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 35265210,
+        "cashDeposited": 39477210,
         "depositedCashIncreasePerMin": 200,
         "robbedDepositedCashPercent": 0.8700000047683716,
         "maxMoneyRobbedFromDepositedMoney": 3000000,
@@ -370,19 +366,14 @@
         "needCreditCard": 0,
         "lastRobbers": [
             {
-                "steamid": "76561199571251829",
-                "name": "SweetCakez",
-                "lastTime": 1709374252
+                "steamid": "76561198352827856",
+                "name": "SUS-Alpha-Goin'Dark",
+                "lastTime": 1745811613
             },
             {
-                "steamid": "76561198083039235",
-                "name": "GooN2DaMaX",
-                "lastTime": 1709374252
-            },
-            {
-                "steamid": "76561199163442314",
-                "name": "GooN2DaMiniMuM",
-                "lastTime": 1709374252
+                "steamid": "76561198080386308",
+                "name": "SUS-Bravo-Goin'Dark",
+                "lastTime": 1745811613
             }
         ],
         "spawned": 1
@@ -420,7 +411,7 @@
         "lastLockedTimestamp": 1710123669,
         "lastRobTime": 1710123669,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 4644960,
+        "cashDeposited": 5366160,
         "depositedCashIncreasePerMin": 20,
         "robbedDepositedCashPercent": 0.8799999952316284,
         "maxMoneyRobbedFromDepositedMoney": 3000000,
@@ -474,7 +465,7 @@
         "lastLockedTimestamp": 0,
         "lastRobTime": 0,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 61167290,
+        "cashDeposited": 72713790,
         "depositedCashIncreasePerMin": 200,
         "robbedDepositedCashPercent": 0.8899999856948853,
         "maxMoneyRobbedFromDepositedMoney": 2000000,
@@ -518,7 +509,7 @@
         "lastLockedTimestamp": 1709585826,
         "lastRobTime": 1709585826,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 34911396,
+        "cashDeposited": 42123396,
         "depositedCashIncreasePerMin": 200,
         "robbedDepositedCashPercent": 0.8899999856948853,
         "maxMoneyRobbedFromDepositedMoney": 3000000,
@@ -562,7 +553,7 @@
         "lastLockedTimestamp": 1706137682,
         "lastRobTime": 1706137682,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": -10977735,
+        "cashDeposited": -4037500,
         "depositedCashIncreasePerMin": 20,
         "robbedDepositedCashPercent": 0.699999988079071,
         "maxMoneyRobbedFromDepositedMoney": 8000000,
@@ -600,7 +591,7 @@
         "lastLockedTimestamp": 0,
         "lastRobTime": 0,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 85980485,
+        "cashDeposited": 104866210,
         "depositedCashIncreasePerMin": 20,
         "robbedDepositedCashPercent": 0.10000000149011612,
         "maxMoneyRobbedFromDepositedMoney": 20000,
@@ -646,10 +637,10 @@
         "minutesLockedAfterRobbing": 100,
         "minutesNotRobbableAfterRobbing": 60,
         "minutesRobberNeedsToWaitBeforeRobbingAgain": 1440,
-        "lastLockedTimestamp": 0,
-        "lastRobTime": 0,
+        "lastLockedTimestamp": 1743896497,
+        "lastRobTime": 1743896497,
         "useDepositedCashToCalculateRobbedMoney": 1,
-        "cashDeposited": 186800,
+        "cashDeposited": 736120,
         "depositedCashIncreasePerMin": 20,
         "robbedDepositedCashPercent": 0.10000000149011612,
         "maxMoneyRobbedFromDepositedMoney": 2000000,

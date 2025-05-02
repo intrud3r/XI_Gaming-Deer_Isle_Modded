@@ -1,0 +1,26 @@
+{
+    "OwnerName": "London",
+    "OwnerID": "80386308",
+    "ParkingPosition": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "ParkingOrientation": [
+        -1.0,
+        -1.0,
+        -1.0
+    ],
+    "Vehicles": [
+        {
+            "VehicleName": "HeliMH6_SIB",
+            "VehicleCargoId": 1746061921,
+            "VehicleID": 10110010,
+            "Timestamp": 0,
+            "EngineHealth": 3000.0,
+            "FuelAmmount": 42.0,
+            "CollateralMoney": 0,
+            "ItemsInCargo": []
+        }
+    ]
+}
